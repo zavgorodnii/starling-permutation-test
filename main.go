@@ -50,7 +50,7 @@ func init() {
 
 func main() {
 	if len(*outputPath) > 0 {
-		w, err := os.OpenFile(*outputPath, os.O_RDWR|os.O_CREATE|os.O_APPEND, 0666)
+		w, err := os.OpenFile(*outputPath, os.O_RDWR|os.O_CREATE, 0666)
 		if err != nil {
 			log.Printf("Failed to open %s for writing (using stdout): %s", *outputPath, err)
 		} else {
