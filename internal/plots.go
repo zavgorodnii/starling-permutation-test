@@ -55,7 +55,7 @@ func PlotCountGroups(path string, countGroups map[int]int, totalTrials int) erro
 	return p.Save(10*vg.Inch, 6*vg.Inch, path)
 }
 
-func PlotCostGroups(path string, costGroups map[float64]int) error {
+func PlotCostGroups(path string, costGroups map[float64]int, totalTrials int) error {
 	p, err := plot.New()
 	if err != nil {
 		return err
@@ -78,7 +78,7 @@ func PlotCostGroups(path string, costGroups map[float64]int) error {
 	}
 	p.Title.Text = " \n"
 	p.X.Label.Text = "Costs"
-	p.Y.Label.Text = "Counts"
+	p.Y.Label.Text = fmt.Sprintf("Number of trials (%d total)", totalTrials)
 
 	l, err := plotter.NewLine(points)
 	if err != nil {

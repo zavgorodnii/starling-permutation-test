@@ -155,7 +155,7 @@ func runTest(l1, l2 *internal.SwadeshList, weights internal.Weights) {
 			float64(summary.TotalCost)/float64(*numTrials))
 
 		if len(*weightedPlotPath) > 0 {
-			if err := internal.PlotCostGroups(*weightedPlotPath, summary.Costs); err != nil {
+			if err := internal.PlotCostGroups(*weightedPlotPath, summary.Costs, *numTrials); err != nil {
 				log.Printf("Failed to plot cost groups: %s", err)
 			} else {
 				log.Printf("Cost groups plot saved at %s", *weightedPlotPath)
