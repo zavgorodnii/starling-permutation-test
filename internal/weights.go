@@ -42,7 +42,7 @@ func NewWeightsStore(weightsPath string, verbose bool) (Weights, error) {
 			return nil, errors.Wrapf(err, "weight from row %d is not a float value", idx)
 		}
 
-		classIDtoWeight[swadeshID] = classWeight / 100.
+		classIDtoWeight[swadeshID] = classWeight
 	}
 
 	if verbose {

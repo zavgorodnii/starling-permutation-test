@@ -46,30 +46,32 @@ Positive pair 4: 87 thou : ti - ti
 Positive pair 5: 94 water: wed - weti
 Positive pair 6: 98 who: kʷi - ku
 N = 7 (number of positive pairs in the original list)
-S = 4.360000 (cost of positive pairs in the original list)
+S = 436.000000 (cost of positive pairs in the original list)
 
-k = 0:	90005 trial(s)
-k = 1:	231149 trial(s)
-k = 2:	282008 trial(s)
-k = 3:	214676 trial(s)
-k = 4:	115711 trial(s)
-k = 5:	46744 trial(s)
-k = 6:	14866 trial(s)
-k = 7:	3862 trial(s)
-k = 8:	798 trial(s)
-k = 9:	153 trial(s)
-k = 10:	27 trial(s)
+k = 0:	89679 trial(s)
+k = 1:	231915 trial(s)
+k = 2:	281519 trial(s)
+k = 3:	214596 trial(s)
+k = 4:	115495 trial(s)
+k = 5:	46891 trial(s)
+k = 6:	15108 trial(s)
+k = 7:	3863 trial(s)
+k = 8:	768 trial(s)
+k = 9:	148 trial(s)
+k = 10:	17 trial(s)
 k = 11:	1 trial(s)
-P (counts) = 4841 / 1000000 = 0.004841
+P (counts) = 4797 / 1000000 = 0.004797
 
-s = 0.000: 90005 trial(s)
-s = 0.370: 23924 trial(s)
-s = 0.390: 3906 trial(s)
+s = 0.000: 89679 trial(s)
+s = 37.000: 24056 trial(s)
+s = 39.000: 3864 trial(s)
+s = 41.000: 20597 trial(s)
 <...>
-s = 5.850: 1 trial(s)
-s = 5.890: 1 trial(s)
-s = 6.130: 1 trial(s)
-P (costs) = 769 / 1000000 = 0.000769
+s = 574.000: 1 trial(s)
+s = 580.000: 1 trial(s)
+s = 600.000: 1 trial(s)
+s = 601.000: 1 trial(s)
+P (costs) = 681 / 1000000 = 0.000681
 ```
 
 * `--num_trials` specifies how many times we shuffle the wordlists and count scores; default value is `1000000`.
