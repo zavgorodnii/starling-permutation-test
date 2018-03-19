@@ -100,6 +100,9 @@ func (d *SoundClassesDecoder) Decode(listsPath string) ([]*SwadeshList, error) {
 
 	var headerRow = wordlistsFile.Sheets[0].Rows[0].Cells
 	for groupIdx := groupsStartCol; groupIdx < len(headerRow)-1; groupIdx++ {
+		if strings.HasSuffix(headerRow[groupIdx].String(), "NUM") {
+			continue
+		}
 		groupToWordlist[headerRow[groupIdx].String()] = &SwadeshList{Group: headerRow[groupIdx].String()}
 	}
 
@@ -114,8 +117,20 @@ func (d *SoundClassesDecoder) Decode(listsPath string) ([]*SwadeshList, error) {
 
 		var swadeshWord = strings.TrimSpace(row[swadeshWordCol].String())
 		for groupIdx := groupsStartCol; groupIdx < len(headerRow)-1; groupIdx++ {
+			// Some group columns are followed by a column containing cognition indices.
+			var skipColumn bool
+			if maybeCognitiveIndex, err := row[groupIdx+1].Int(); err == nil {
+				skipColumn = true
+				if maybeCognitiveIndex < 0 {
+					continue
+				}
+			}
+
 			var form = strings.TrimSpace(row[groupIdx].String())
 			if len(form) < 1 {
+				if skipColumn {
+					groupIdx++
+				}
 				continue
 			}
 
@@ -141,6 +156,9 @@ func (d *SoundClassesDecoder) Decode(listsPath string) ([]*SwadeshList, error) {
 				lastWord.DecodedForms = append(lastWord.DecodedForms, decoded...)
 			}
 
+			if skipColumn {
+				groupIdx++
+			}
 		}
 
 		lastSwadeshID = swadeshID
