@@ -109,7 +109,6 @@ func (d *SoundClassesDecoder) Decode(listsPath string) ([]*SwadeshList, error) {
 	var lastSwadeshID = 0
 	for idx := 1; idx < len(wordlistsFile.Sheets[0].Rows); idx++ {
 		row := wordlistsFile.Sheets[0].Rows[idx].Cells
-
 		swadeshID, err := row[swadeshIDCol].Int()
 		if err != nil {
 			return nil, errors.Wrapf(err, "row %d, column %d", idx, swadeshIDCol)
@@ -118,11 +117,14 @@ func (d *SoundClassesDecoder) Decode(listsPath string) ([]*SwadeshList, error) {
 		var swadeshWord = strings.TrimSpace(row[swadeshWordCol].String())
 		for groupIdx := groupsStartCol; groupIdx < len(headerRow)-1; groupIdx++ {
 			// Some group columns are followed by a column containing cognition indices.
-			var skipColumn bool
+			var (
+				skipColumn bool
+				ignoreForm bool
+			)
 			if maybeCognitiveIndex, err := row[groupIdx+1].Int(); err == nil {
 				skipColumn = true
 				if maybeCognitiveIndex < 0 {
-					continue
+					ignoreForm = true
 				}
 			}
 
@@ -139,17 +141,17 @@ func (d *SoundClassesDecoder) Decode(listsPath string) ([]*SwadeshList, error) {
 				groupName          = headerRow[groupIdx].String()
 				swadeshWordCleaner = regexp.MustCompile("[0-9]|\\[.*\\]")
 			)
+			// Start a new Swadesh word.
 			if lastSwadeshID != swadeshID {
 				word := &Word{
-					Group:        groupName,
-					SwadeshID:    swadeshID,
-					SwadeshWord:  swadeshWordCleaner.ReplaceAllString(swadeshWord, ""),
-					Forms:        []string{form},
-					CleanForms:   clean,
-					DecodedForms: decoded,
+					Group:       groupName,
+					SwadeshID:   swadeshID,
+					SwadeshWord: swadeshWordCleaner.ReplaceAllString(swadeshWord, ""),
 				}
 				groupToWordlist[groupName].List = append(groupToWordlist[groupName].List, word)
-			} else {
+			}
+
+			if !ignoreForm {
 				lastWord := groupToWordlist[groupName].List[len(groupToWordlist[groupName].List)-1]
 				lastWord.Forms = append(lastWord.Forms, form)
 				lastWord.CleanForms = append(lastWord.CleanForms, clean...)
