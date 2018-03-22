@@ -2,6 +2,7 @@ package internal
 
 import (
 	"log"
+	"sort"
 
 	"github.com/pkg/errors"
 	"github.com/tealeg/xlsx"
@@ -46,9 +47,14 @@ func NewWeightsStore(weightsPath string, verbose bool) (Weights, error) {
 	}
 
 	if verbose {
+		var sortedIDs []int
+		for classID := range classIDtoWeight {
+			sortedIDs = append(sortedIDs, classID)
+		}
+		sort.Ints(sortedIDs)
 		log.Println("Found swadesh ID weights:")
-		for classID, weight := range classIDtoWeight {
-			log.Printf("%d\t<-->\t%f\n", classID, weight)
+		for _, id := range sortedIDs {
+			log.Printf("%d\t<-->\t%f\n", id, classIDtoWeight[id])
 		}
 	}
 

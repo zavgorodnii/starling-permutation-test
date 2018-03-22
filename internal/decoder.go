@@ -98,11 +98,16 @@ func (d *SoundClassesDecoder) Decode(listsPath string) ([]*SwadeshList, error) {
 		return nil, errors.New("document is malformed: less than 2 rows is present")
 	}
 
-	var headerRow = wordlistsFile.Sheets[0].Rows[0].Cells
+	var (
+		sortedGroupNames []string
+		headerRow        = wordlistsFile.Sheets[0].Rows[0].Cells
+	)
 	for groupIdx := groupsStartCol; groupIdx < len(headerRow)-1; groupIdx++ {
 		if strings.HasSuffix(headerRow[groupIdx].String(), "NUM") {
 			continue
 		}
+
+		sortedGroupNames = append(sortedGroupNames, headerRow[groupIdx].String())
 		groupToWordlist[headerRow[groupIdx].String()] = &SwadeshList{Group: headerRow[groupIdx].String()}
 	}
 
@@ -167,8 +172,8 @@ func (d *SoundClassesDecoder) Decode(listsPath string) ([]*SwadeshList, error) {
 	}
 
 	var out []*SwadeshList
-	for _, wordlist := range groupToWordlist {
-		out = append(out, wordlist)
+	for _, groupName := range sortedGroupNames {
+		out = append(out, groupToWordlist[groupName])
 	}
 
 	log.Printf("n = %d (number of compared pairs)\n\n", len(out[0].List))

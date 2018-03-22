@@ -1,7 +1,9 @@
 package internal
 
 import (
+	"math/rand"
 	"testing"
+	"time"
 
 	"github.com/stretchr/testify/assert"
 )
@@ -34,4 +36,92 @@ func TestCombine(t *testing.T) {
 
 	assert.Equal(t, []string{">e", ">ee"}, l3.List[4].Forms)
 	assert.Equal(t, []string{"e", "ee"}, l3.List[4].CleanForms)
+}
+
+func TestCompare(t *testing.T) {
+	var (
+		l1, l2  = getTestWordlists()
+		weights = &WeightsStore{
+			swadeshIDToWeight: map[int]float64{1: 40., 2: 50, 4: 60},
+		}
+	)
+	var (
+		costs1, _ = l1.Compare(l2, weights)
+		costs2, _ = l2.Compare(l1, weights)
+	)
+	assert.Equal(t, costs1, costs2)
+}
+
+func TestShuffle(t *testing.T) {
+	l1, l2 := getTestWordlists()
+	for _, w := range l2.List {
+		w.CleanForms = w.DecodedForms
+	}
+
+	rand.Seed(time.Now().UnixNano())
+
+	var (
+		totalCost1 float64
+		totalCost2 float64
+	)
+	for i := 0; i < 0xF; i++ {
+		cost1, cost2 := shuffleAndCompare(l1, l2)
+		totalCost1 += cost1
+		totalCost2 += cost2
+	}
+
+	assert.NotEqual(t, totalCost1, totalCost2)
+}
+
+func getTestWordlists() (l1, l2 *SwadeshList) {
+	l1 = &SwadeshList{
+		Group: "1",
+		List: []*Word{
+			{Group: "1", SwadeshID: 1, DecodedForms: []string{"aaa", "bbbb", "ccccc"}},
+			{Group: "1", SwadeshID: 2, DecodedForms: []string{"aaa", "bbbb"}},
+			{Group: "1", SwadeshID: 3, DecodedForms: []string{"aaa", "bbbb", "ccccc"}},
+			{Group: "1", SwadeshID: 4, DecodedForms: []string{"bbbb", "ccccc"}},
+		},
+	}
+	for _, w := range l1.List {
+		w.CleanForms = w.DecodedForms
+	}
+	l2 = &SwadeshList{
+		Group: "2",
+		List: []*Word{
+			{Group: "2", SwadeshID: 1, DecodedForms: []string{"aaa", "bbbb"}},
+			{Group: "2", SwadeshID: 2, DecodedForms: []string{"ccccc"}},
+			{Group: "2", SwadeshID: 3, DecodedForms: []string{}},
+			{Group: "2", SwadeshID: 4, DecodedForms: []string{"aaa"}},
+		},
+	}
+	for _, w := range l2.List {
+		w.CleanForms = w.DecodedForms
+	}
+
+	return
+}
+
+func shuffleAndCompare(l1, l2 *SwadeshList) (cost1, cost2 float64) {
+	var (
+		weights = &WeightsStore{
+			swadeshIDToWeight: map[int]float64{1: 40., 2: 50, 4: 60},
+		}
+		shuffled1 = make([]*Word, len(l1.List))
+		shuffled2 = make([]*Word, len(l1.List))
+		perm      = rand.Perm(len(l1.List))
+	)
+	for i, v := range perm {
+		shuffled1[v] = l1.List[i]
+	}
+	shuffledList1 := &SwadeshList{List: shuffled1}
+	for i, v := range perm {
+		shuffled2[v] = l2.List[i]
+	}
+	shuffledList2 := &SwadeshList{List: shuffled2}
+
+	cost1, _ = shuffledList1.Compare(l2, weights)
+	cost2, _ = shuffledList2.Compare(l1, weights)
+
+	return
 }

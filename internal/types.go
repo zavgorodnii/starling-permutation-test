@@ -11,6 +11,18 @@ type SwadeshList struct {
 	List  []*Word
 }
 
+func (l *SwadeshList) Compare(other *SwadeshList, weights Weights) (cost float64, matches []string) {
+	for idx := range l.List {
+		word1, word2 := l.List[idx], other.List[idx]
+		if ok, match := word1.Compare(word2); ok {
+			cost += weights.GetWeight(word1.SwadeshID)
+			matches = append(matches, match)
+		}
+	}
+
+	return
+}
+
 func (l *SwadeshList) Combine(other *SwadeshList) *SwadeshList {
 	var (
 		merged []*Word
@@ -81,7 +93,7 @@ func (w *Word) PrintTransformations() {
 	log.Println(formatted)
 }
 
-func (w *Word) Compare(other *Word) (isEqual bool, match string) {
+func (w *Word) Compare(other *Word) (bool, string) {
 	for idx1, form1 := range w.DecodedForms {
 		for idx2, form2 := range other.DecodedForms {
 			var (
@@ -101,12 +113,13 @@ func (w *Word) Compare(other *Word) (isEqual bool, match string) {
 			}
 
 			if isEqual {
-				return true, fmt.Sprintf("%d %s: %s - %s", w.SwadeshID, w.SwadeshWord, w.CleanForms[idx1], other.CleanForms[idx2])
+				return true, fmt.Sprintf("%d %s: %s - %s", w.SwadeshID, w.SwadeshWord,
+					w.CleanForms[idx1], other.CleanForms[idx2])
 			}
 		}
 	}
 
-	return
+	return false, ""
 }
 
 func (w *Word) DeepCopy() *Word {

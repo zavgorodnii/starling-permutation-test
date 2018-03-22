@@ -1,13 +1,11 @@
 package internal
 
 import (
+	"fmt"
 	"log"
 	"math/rand"
 	"runtime"
-
 	"sync"
-
-	"fmt"
 
 	"github.com/pkg/errors"
 )
@@ -29,14 +27,12 @@ func RunTest(list1, list2 *SwadeshList, weights Weights, trials float64, verbose
 			len(list1.List), len(list2.List))
 	}
 
-	baseScore, matched, err := getScore(list1.List, list2.List, weights)
-	if err != nil {
-		return nil, err
-	}
-
-	baseCount := len(matched)
-	baseResult := &result{cost: baseScore, matches: matched}
-	baseResult.Print("no permutations")
+	var (
+		baseScore, matched = list1.Compare(list2, weights)
+		baseCount          = len(matched)
+		baseResult         = &result{cost: baseScore, matches: matched}
+	)
+	baseResult.Print()
 
 	var (
 		jobs    = make(chan *job, scale*2)
@@ -47,19 +43,20 @@ func RunTest(list1, list2 *SwadeshList, weights Weights, trials float64, verbose
 	}
 
 	wg := &sync.WaitGroup{}
-
 	wg.Add(1)
 	go func(wg *sync.WaitGroup) {
 		for i := 0.; i < trials; i++ {
-			shuffled := make([]*Word, len(list1.List))
-			perm := rand.Perm(len(list1.List))
+			var (
+				shuffled = make([]*Word, len(list2.List))
+				perm     = rand.Perm(len(list2.List))
+			)
 			for i, v := range perm {
-				shuffled[v] = list1.List[i]
+				shuffled[v] = list2.List[i]
 			}
 
 			jobs <- &job{
-				list1:   shuffled,
-				list2:   list2.List,
+				list1:   list1,
+				list2:   &SwadeshList{List: shuffled},
 				weights: weights,
 			}
 		}
@@ -80,7 +77,7 @@ func RunTest(list1, list2 *SwadeshList, weights Weights, trials float64, verbose
 					currResult.Print()
 				}
 			}
-			if currResult.cost > baseScore {
+			if currResult.cost >= baseScore {
 				summary.TotalCost++
 			}
 			summary.Counts[len(currResult.matches)]++
@@ -94,32 +91,16 @@ func RunTest(list1, list2 *SwadeshList, weights Weights, trials float64, verbose
 	return summary, nil
 }
 
-func getScore(list1, list2 []*Word, weights Weights) (cost float64, matches []string, err error) {
-	for idx := 0; idx < len(list1); idx++ {
-		word1, word2 := list1[idx], list2[idx]
-		if ok, match := word1.Compare(word2); ok {
-			cost += weights.GetWeight(word1.SwadeshID)
-			matches = append(matches, match)
-		}
-	}
-
-	return
-}
-
 func worker(id int, jobs chan *job, results chan *result) {
 	for args := range jobs {
-		cost, matched, err := getScore(args.list1, args.list2, args.weights)
-		if err != nil {
-			log.Fatalf("Worker %d failed: %s", id, err)
-		}
-
+		cost, matched := args.list1.Compare(args.list2, args.weights)
 		results <- &result{cost: cost, matches: matched}
 	}
 }
 
 type job struct {
-	list1   []*Word
-	list2   []*Word
+	list1   *SwadeshList
+	list2   *SwadeshList
 	weights Weights
 }
 
@@ -128,7 +109,7 @@ type result struct {
 	matches []string
 }
 
-func (r *result) Print(additionalInfo ...string) {
+func (r *result) Print() {
 	var msg string
 	for idx, match := range r.matches {
 		msg += fmt.Sprintf("Positive pair %d: %s\n", idx, match)
