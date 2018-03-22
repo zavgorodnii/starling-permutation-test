@@ -50,6 +50,7 @@ func init() {
 
 func main() {
 	if len(*outputPath) > 0 {
+		os.Remove(*outputPath)
 		w, err := os.OpenFile(*outputPath, os.O_RDWR|os.O_CREATE, 0666)
 		if err != nil {
 			log.Printf("Failed to open %s for writing (using stdout): %s", *outputPath, err)
@@ -172,6 +173,7 @@ func runTest(l1, l2 *internal.SwadeshList, weights internal.Weights) {
 	}
 
 	if len(*consonantPath) > 0 {
+		os.Remove(*consonantPath)
 		consonantW, err := os.OpenFile(*consonantPath, os.O_RDWR|os.O_CREATE, 0666)
 		if err != nil {
 			log.Printf("Failed to open %s for writing (using stdout): %s", *outputPath, err)
