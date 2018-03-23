@@ -8,7 +8,14 @@ import (
 	"sort"
 	"time"
 
+	"io/ioutil"
+	"runtime/debug"
+
 	"github.com/starling-permutation-test/internal"
+)
+
+const (
+	stackTracePath = "stack.trace"
 )
 
 var (
@@ -46,6 +53,14 @@ func init() {
 }
 
 func main() {
+	defer func() {
+		if e := recover(); e != nil {
+			currDir, _ := os.Getwd()
+			log.Printf("Program crashed, see %s/%s for details\n", currDir, stackTracePath)
+			ioutil.WriteFile(stackTracePath, []byte(debug.Stack()), 0666)
+		}
+	}()
+
 	if len(*outputPath) > 0 {
 		os.Remove(*outputPath)
 		w, err := os.OpenFile(*outputPath, os.O_RDWR|os.O_CREATE, 0666)

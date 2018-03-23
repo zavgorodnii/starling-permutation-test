@@ -40,8 +40,6 @@ To run test on a pair of wordlists contained in a single file, run:
 
 ```
 $ ./spt --num_trials=1000000 --sounds=./data/sounds.xlsx --wordlists=./data/wordlists.xlsx --weights=./data/weights.xlsx
-n = 50 (number of compared pairs)
-
 Positive pair 0: 19 drink: eːgʰʷ - ɨɣi
 Positive pair 1: 39 hear: kʸlew - kuwli
 Positive pair 2: 42 I : me - mi

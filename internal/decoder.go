@@ -107,8 +107,14 @@ func (d *SoundClassesDecoder) Decode(listsPath string, selected map[string]bool)
 		selected = map[string]bool{}
 		allSelected = true
 	}
-	for groupIdx := groupsStartCol; groupIdx < len(headerRow)-1; groupIdx++ {
+
+	var maxGroupIdx = groupsStartCol
+	for groupIdx := groupsStartCol; groupIdx < len(headerRow); groupIdx++ {
 		var groupName = headerRow[groupIdx].String()
+		if len(groupName) > 0 {
+			maxGroupIdx++
+		}
+
 		if strings.HasSuffix(groupName, "NUM") {
 			continue
 		}
@@ -130,7 +136,7 @@ func (d *SoundClassesDecoder) Decode(listsPath string, selected map[string]bool)
 		}
 
 		var swadeshWord = strings.TrimSpace(row[swadeshWordCol].String())
-		for groupIdx := groupsStartCol; groupIdx < len(headerRow)-1; groupIdx++ {
+		for groupIdx := groupsStartCol; groupIdx < maxGroupIdx; groupIdx++ {
 			if _, ok := selected[headerRow[groupIdx].String()]; !ok {
 				continue
 			}
@@ -139,23 +145,16 @@ func (d *SoundClassesDecoder) Decode(listsPath string, selected map[string]bool)
 				skipColumn bool
 				ignoreForm bool
 			)
-			if maybeCognitiveIndex, err := row[groupIdx+1].Int(); err == nil {
-				skipColumn = true
-				if maybeCognitiveIndex < 0 {
-					ignoreForm = true
+			if groupIdx+1 < maxGroupIdx {
+				if maybeCognitiveIndex, err := row[groupIdx+1].Int(); err == nil {
+					skipColumn = true
+					if maybeCognitiveIndex < 0 {
+						ignoreForm = true
+					}
 				}
-			}
-
-			var form = strings.TrimSpace(row[groupIdx].String())
-			if len(form) < 1 {
-				if skipColumn {
-					groupIdx++
-				}
-				continue
 			}
 
 			var (
-				clean, decoded     = d.decodeForm(form)
 				groupName          = headerRow[groupIdx].String()
 				swadeshWordCleaner = regexp.MustCompile("[0-9]|\\[.*\\]")
 			)
@@ -169,6 +168,15 @@ func (d *SoundClassesDecoder) Decode(listsPath string, selected map[string]bool)
 				groupToWordlist[groupName].List = append(groupToWordlist[groupName].List, word)
 			}
 
+			var form = strings.TrimSpace(row[groupIdx].String())
+			if len(form) < 1 {
+				if skipColumn {
+					groupIdx++
+				}
+				continue
+			}
+
+			var clean, decoded = d.decodeForm(form)
 			if !ignoreForm {
 				lastWord := groupToWordlist[groupName].List[len(groupToWordlist[groupName].List)-1]
 				lastWord.Forms = append(lastWord.Forms, form)
@@ -188,8 +196,6 @@ func (d *SoundClassesDecoder) Decode(listsPath string, selected map[string]bool)
 	for _, groupName := range sortedGroupNames {
 		out = append(out, groupToWordlist[groupName])
 	}
-
-	log.Printf("n = %d (number of compared pairs)\n\n", len(out[0].List))
 
 	return out, nil
 }
