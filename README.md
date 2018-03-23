@@ -6,28 +6,32 @@ Run `./spt --help` for usage:
 
 ```
 Usage of ./spt:
-  -consonant string
-    	path to file with consonant encodings
-  -cost_groups_plot string
-    	path to file with cost groups plot
-  -count_groups_plot string
-    	path to file with count groups plot
-  -num_trials int
-    	number of trials (default 1000000)
-  -output string
-    	path to output file (stdout if not specified)
-  -set_a string
-    	path to file containing wordlists for A (triggers AB mode)
-  -set_b string
-    	path to file containing wordlists for B (triggers AB mode)
-  -sounds string
-    	path to file containing sound classes (default "./data/sounds.xlsx")
-  -verbose
-    	verbose output
-  -weights string
-    	path to file containing class weights
-  -wordlists string
-    	path to file containing wordlists (default "./data/wordlists.xlsx")
+    -consonant string
+      	path to file with consonant encodings
+    -cost_groups_plot string
+      	path to file with cost groups plot
+    -count_groups_plot string
+      	path to file with count groups plot
+    -lang_1 string
+      	first language to compare (optional)
+    -lang_2 string
+      	second language to compare (optional)
+    -num_trials int
+      	number of trials (default 1000000)
+    -output string
+      	path to output file (stdout if not specified)
+    -set_a string
+      	path to file containing wordlists for A (triggers AB mode)
+    -set_b string
+      	path to file containing wordlists for B (triggers AB mode)
+    -sounds string
+      	path to file containing sound classes (default "./data/sounds.xlsx")
+    -verbose
+      	verbose output
+    -weights string
+      	path to file containing class weights
+    -wordlists string
+      	path to file containing wordlists (default "./data/wordlists.xlsx")
 ```
 
 ##### Running test on two wordlists

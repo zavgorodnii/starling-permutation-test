@@ -82,7 +82,7 @@ func NewSoundClassesInfo(classesPath string) (*SoundClassesDecoder, error) {
 	return out, nil
 }
 
-func (d *SoundClassesDecoder) Decode(listsPath string) ([]*SwadeshList, error) {
+func (d *SoundClassesDecoder) Decode(listsPath string, selected map[string]bool) ([]*SwadeshList, error) {
 	groupToWordlist := map[string]*SwadeshList{}
 
 	wordlistsFile, err := xlsx.OpenFile(listsPath)
@@ -101,14 +101,24 @@ func (d *SoundClassesDecoder) Decode(listsPath string) ([]*SwadeshList, error) {
 	var (
 		sortedGroupNames []string
 		headerRow        = wordlistsFile.Sheets[0].Rows[0].Cells
+		allSelected      bool
 	)
+	if selected == nil {
+		selected = map[string]bool{}
+		allSelected = true
+	}
 	for groupIdx := groupsStartCol; groupIdx < len(headerRow)-1; groupIdx++ {
-		if strings.HasSuffix(headerRow[groupIdx].String(), "NUM") {
+		var groupName = headerRow[groupIdx].String()
+		if strings.HasSuffix(groupName, "NUM") {
 			continue
 		}
 
-		sortedGroupNames = append(sortedGroupNames, headerRow[groupIdx].String())
-		groupToWordlist[headerRow[groupIdx].String()] = &SwadeshList{Group: headerRow[groupIdx].String()}
+		if allSelected {
+			selected[groupName] = true
+		}
+
+		sortedGroupNames = append(sortedGroupNames, groupName)
+		groupToWordlist[groupName] = &SwadeshList{Group: groupName}
 	}
 
 	var lastSwadeshID = 0
@@ -121,6 +131,9 @@ func (d *SoundClassesDecoder) Decode(listsPath string) ([]*SwadeshList, error) {
 
 		var swadeshWord = strings.TrimSpace(row[swadeshWordCol].String())
 		for groupIdx := groupsStartCol; groupIdx < len(headerRow)-1; groupIdx++ {
+			if _, ok := selected[headerRow[groupIdx].String()]; !ok {
+				continue
+			}
 			// Some group columns are followed by a column containing cognition indices.
 			var (
 				skipColumn bool

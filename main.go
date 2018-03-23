@@ -16,28 +16,25 @@ var (
 		"sounds", "./data/sounds.xlsx", "path to file containing sound classes")
 	wordlistsPath = flag.String(
 		"wordlists", "./data/wordlists.xlsx", "path to file containing wordlists")
-	wordlistsPathA = flag.String(
-		"set_a", "", "path to file containing wordlists for A (triggers AB mode)")
-	wordlistsPathB = flag.String(
-		"set_b", "", "path to file containing wordlists for B (triggers AB mode)")
-	weightsPath = flag.String(
-		"weights", "", "path to file containing class weights")
-	numTrials  = flag.Int("num_trials", 1000000, "number of trials")
-	verbose    = flag.Bool("verbose", false, "verbose output")
-	outputPath = flag.String("output", "", "path to output file (stdout if not specified)")
-	plotPath   = flag.String("count_groups_plot", "",
-		"path to file with count groups plot")
-	weightedPlotPath = flag.String("cost_groups_plot", "",
-		"path to file with cost groups plot")
-	consonantPath = flag.String("consonant", "", "path to file with consonant encodings")
-	abMode        bool
+	setA             = flag.String("set_a", "", "path to file containing wordlists for A (triggers AB mode)")
+	setB             = flag.String("set_b", "", "path to file containing wordlists for B (triggers AB mode)")
+	weightsPath      = flag.String("weights", "", "path to file containing class weights")
+	numTrials        = flag.Int("num_trials", 1000000, "number of trials")
+	verbose          = flag.Bool("verbose", false, "verbose output")
+	outputPath       = flag.String("output", "", "path to output file (stdout if not specified)")
+	plotPath         = flag.String("count_groups_plot", "", "path to file with count groups plot")
+	weightedPlotPath = flag.String("cost_groups_plot", "", "path to file with cost groups plot")
+	consonantPath    = flag.String("consonant", "", "path to file with consonant encodings")
+	lang1            = flag.String("lang_1", "", "first language to compare (optional)")
+	lang2            = flag.String("lang_2", "", "second language to compare (optional)")
+	abMode           bool
 )
 
 func init() {
 	flag.Parse()
 
-	if len(*wordlistsPathA) > 0 || len(*wordlistsPathB) > 0 {
-		if len(*wordlistsPathA) == 0 || len(*wordlistsPathB) == 0 {
+	if len(*setA) > 0 || len(*setB) > 0 {
+		if len(*setA) == 0 || len(*setB) == 0 {
 			log.Println("Both `--wordlist_a` and `--wordlist_b` must be specified, exiting")
 			os.Exit(1)
 		}
@@ -84,7 +81,11 @@ func runPermutationTest(weights internal.Weights) {
 		return
 	}
 
-	wordlists, err := decoder.Decode(*wordlistsPath)
+	var selectedLangs map[string]bool
+	if len(*lang1) > 0 && len(*lang2) > 0 {
+		selectedLangs = map[string]bool{*lang1: true, *lang2: true}
+	}
+	wordlists, err := decoder.Decode(*wordlistsPath, selectedLangs)
 	if err != nil {
 		log.Println("Failed to decode wordlists:", err)
 		return
@@ -100,7 +101,7 @@ func runPermutationTestAB(weights internal.Weights) {
 		return
 	}
 
-	wordlistsA, err := decoder.Decode(*wordlistsPathA)
+	wordlistsA, err := decoder.Decode(*setA, nil)
 	if err != nil {
 		log.Println("Failed to decode wordlists A:", err)
 		return
@@ -111,7 +112,7 @@ func runPermutationTestAB(weights internal.Weights) {
 		combinedA = combinedA.Combine(wordlistsA[idx])
 	}
 
-	wordlistsB, err := decoder.Decode(*wordlistsPathB)
+	wordlistsB, err := decoder.Decode(*setB, nil)
 	if err != nil {
 		log.Println("Failed to decode wordlists B:", err)
 		return
