@@ -6,6 +6,8 @@ import (
 	"strings"
 	"unicode/utf8"
 
+	"fmt"
+
 	"github.com/pkg/errors"
 	"github.com/tealeg/xlsx"
 )
@@ -119,13 +121,14 @@ func (d *SoundClassesDecoder) Decode(listsPath string, selected map[string]bool)
 			continue
 		}
 
-		if allSelected {
+		if _, ok := selected[groupName]; allSelected || ok {
 			selected[groupName] = true
+			sortedGroupNames = append(sortedGroupNames, groupName)
+			groupToWordlist[groupName] = &SwadeshList{Group: groupName}
 		}
-
-		sortedGroupNames = append(sortedGroupNames, groupName)
-		groupToWordlist[groupName] = &SwadeshList{Group: groupName}
 	}
+
+	fmt.Println(selected)
 
 	var lastSwadeshID = 0
 	for idx := 1; idx < len(wordlistsFile.Sheets[0].Rows); idx++ {
@@ -196,6 +199,7 @@ func (d *SoundClassesDecoder) Decode(listsPath string, selected map[string]bool)
 	for _, groupName := range sortedGroupNames {
 		out = append(out, groupToWordlist[groupName])
 	}
+	fmt.Println(out, groupToWordlist)
 
 	return out, nil
 }
