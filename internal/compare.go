@@ -21,18 +21,34 @@ type Summary struct {
 	TotalCost   int
 }
 
-func RunTest(list1, list2 *SwadeshList, weights Weights, trials float64, verbose bool) (summary *Summary, err error) {
+func CompareWordlists(list1, list2 *SwadeshList, weights Weights, trials float64, allPairs, verbose bool) (summary *Summary, err error) {
 	if len(list1.List) != len(list2.List) {
 		return nil, errors.Errorf("wordlists have different lengths: %d, %d",
 			len(list1.List), len(list2.List))
 	}
 
 	var (
+		baseScore float64
+		matched   []string
+	)
+	if allPairs {
+		baseScore, matched = list1.CompareAllPairs(list2, weights)
+	} else {
 		baseScore, matched = list1.Compare(list2, weights)
-		baseCount          = len(matched)
-		baseResult         = &result{cost: baseScore, matches: matched}
+	}
+
+	var (
+		baseCount  = len(matched)
+		baseResult = &result{cost: baseScore, matches: matched}
 	)
 	baseResult.Print()
+
+	if allPairs {
+		return &Summary{
+			Counts: map[int]int{},
+			Costs:  map[float64]int{},
+		}, nil
+	}
 
 	var (
 		jobs    = make(chan *job, scale*2)

@@ -34,6 +34,7 @@ var (
 	consonantPath    = flag.String("consonant", "", "path to file with consonant encodings")
 	lang1            = flag.String("lang_1", "", "first language to compare (optional)")
 	lang2            = flag.String("lang_2", "", "second language to compare (optional)")
+	allPairs         = flag.Bool("all_pairs", false, "compare all pairs for two wordlists")
 	abMode           bool
 )
 
@@ -142,9 +143,13 @@ func runPermutationTestAB(weights internal.Weights) {
 }
 
 func runTest(l1, l2 *internal.SwadeshList, weights internal.Weights) {
-	summary, err := internal.RunTest(l1, l2, weights, float64(*numTrials), *verbose)
+	summary, err := internal.CompareWordlists(l1, l2, weights, float64(*numTrials), *allPairs, *verbose)
 	if err != nil {
 		log.Println("Failed to run permutation test:", err)
+		return
+	}
+
+	if *allPairs {
 		return
 	}
 
