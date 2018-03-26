@@ -21,7 +21,7 @@ type Summary struct {
 	TotalCost   int
 }
 
-func CompareWordlists(list1, list2 *SwadeshList, weights Weights, trials float64, allPairs, verbose bool) (summary *Summary, err error) {
+func CompareWordlists(list1, list2 *Wordlist, weights Weights, trials float64, allPairs, verbose bool) (summary *Summary, err error) {
 	if len(list1.List) != len(list2.List) {
 		return nil, errors.Errorf("wordlists have different lengths: %d, %d",
 			len(list1.List), len(list2.List))
@@ -72,7 +72,7 @@ func CompareWordlists(list1, list2 *SwadeshList, weights Weights, trials float64
 
 			jobs <- &job{
 				list1:   list1,
-				list2:   &SwadeshList{List: shuffled},
+				list2:   &Wordlist{List: shuffled},
 				weights: weights,
 			}
 		}
@@ -115,8 +115,8 @@ func worker(id int, jobs chan *job, results chan *result) {
 }
 
 type job struct {
-	list1   *SwadeshList
-	list2   *SwadeshList
+	list1   *Wordlist
+	list2   *Wordlist
 	weights Weights
 }
 

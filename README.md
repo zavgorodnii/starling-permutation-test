@@ -34,6 +34,11 @@ Usage of ./spt:
       	path to file containing wordlists (default "./data/wordlists.xlsx")
 ```
 
+Please **note** that `--output` and `--consonant` flag values are modified in the following way. For wordlists `A` and `B`:
+
+* If path ends with `.txt`, then `/some/path.txt --> /some/path_A_B.txt`
+* If path doesn't end with `.txt`, then `/some/path --> /some/path_A_B.txt`
+
 ##### Running test on two wordlists
 
 To run test on a pair of wordlists contained in a single file, run:

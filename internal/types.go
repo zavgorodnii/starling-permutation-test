@@ -6,12 +6,12 @@ import (
 	"strings"
 )
 
-type SwadeshList struct {
+type Wordlist struct {
 	Group string
 	List  []*Word
 }
 
-func (l *SwadeshList) Compare(other *SwadeshList, weights Weights) (cost float64, matches []string) {
+func (l *Wordlist) Compare(other *Wordlist, weights Weights) (cost float64, matches []string) {
 	for idx := range l.List {
 		word1, word2 := l.List[idx], other.List[idx]
 		if ok, match := word1.Compare(word2); ok {
@@ -23,7 +23,7 @@ func (l *SwadeshList) Compare(other *SwadeshList, weights Weights) (cost float64
 	return
 }
 
-func (l *SwadeshList) CompareAllPairs(other *SwadeshList, weights Weights) (cost float64, matches []string) {
+func (l *Wordlist) CompareAllPairs(other *Wordlist, weights Weights) (cost float64, matches []string) {
 	for _, word1 := range l.List {
 		for _, word2 := range other.List {
 			if ok, match := word1.Compare(word2); ok {
@@ -36,11 +36,11 @@ func (l *SwadeshList) CompareAllPairs(other *SwadeshList, weights Weights) (cost
 	return
 }
 
-func (l *SwadeshList) Combine(other *SwadeshList) *SwadeshList {
+func (l *Wordlist) Combine(other *Wordlist) *Wordlist {
 	var (
 		merged []*Word
 		l1, l2 = l.List, other.List
-		out    = &SwadeshList{Group: fmt.Sprintf("%s, %s", l.Group, other.Group)}
+		out    = &Wordlist{Group: fmt.Sprintf("%s, %s", l.Group, other.Group)}
 	)
 	for len(l1) > 0 && len(l2) > 0 {
 		if l1[0].SwadeshID < l2[0].SwadeshID {
@@ -74,7 +74,7 @@ func (l *SwadeshList) Combine(other *SwadeshList) *SwadeshList {
 	return out
 }
 
-func (l *SwadeshList) PrintTransformations() {
+func (l *Wordlist) PrintTransformations() {
 	for _, word := range l.List {
 		word.PrintTransformations()
 	}

@@ -9,7 +9,7 @@ import (
 )
 
 func TestCombine(t *testing.T) {
-	l1 := &SwadeshList{
+	l1 := &Wordlist{
 		Group: "1",
 		List: []*Word{
 			{Group: "1", SwadeshID: 0, Forms: []string{">a"}, CleanForms: []string{"a"}},
@@ -17,7 +17,7 @@ func TestCombine(t *testing.T) {
 			{Group: "1", SwadeshID: 4, Forms: []string{">e"}, CleanForms: []string{"e"}},
 		},
 	}
-	l2 := &SwadeshList{
+	l2 := &Wordlist{
 		Group: "2",
 		List: []*Word{
 			{Group: "1", SwadeshID: 1, Forms: []string{">bb"}, CleanForms: []string{"bb"}},
@@ -73,8 +73,8 @@ func TestShuffle(t *testing.T) {
 	assert.NotEqual(t, totalCost1, totalCost2)
 }
 
-func getTestWordlists() (l1, l2 *SwadeshList) {
-	l1 = &SwadeshList{
+func getTestWordlists() (l1, l2 *Wordlist) {
+	l1 = &Wordlist{
 		Group: "1",
 		List: []*Word{
 			{Group: "1", SwadeshID: 1, DecodedForms: []string{"aaa", "bbbb", "ccccc"}},
@@ -86,7 +86,7 @@ func getTestWordlists() (l1, l2 *SwadeshList) {
 	for _, w := range l1.List {
 		w.CleanForms = w.DecodedForms
 	}
-	l2 = &SwadeshList{
+	l2 = &Wordlist{
 		Group: "2",
 		List: []*Word{
 			{Group: "2", SwadeshID: 1, DecodedForms: []string{"aaa", "bbbb"}},
@@ -102,7 +102,7 @@ func getTestWordlists() (l1, l2 *SwadeshList) {
 	return
 }
 
-func shuffleAndCompare(l1, l2 *SwadeshList) (cost1, cost2 float64) {
+func shuffleAndCompare(l1, l2 *Wordlist) (cost1, cost2 float64) {
 	var (
 		weights = &WeightsStore{
 			swadeshIDToWeight: map[int]float64{1: 40., 2: 50, 4: 60},
@@ -114,11 +114,11 @@ func shuffleAndCompare(l1, l2 *SwadeshList) (cost1, cost2 float64) {
 	for i, v := range perm {
 		shuffled1[v] = l1.List[i]
 	}
-	shuffledList1 := &SwadeshList{List: shuffled1}
+	shuffledList1 := &Wordlist{List: shuffled1}
 	for i, v := range perm {
 		shuffled2[v] = l2.List[i]
 	}
-	shuffledList2 := &SwadeshList{List: shuffled2}
+	shuffledList2 := &Wordlist{List: shuffled2}
 
 	cost1, _ = shuffledList1.Compare(l2, weights)
 	cost2, _ = shuffledList2.Compare(l1, weights)

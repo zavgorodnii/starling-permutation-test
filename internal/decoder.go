@@ -6,8 +6,6 @@ import (
 	"strings"
 	"unicode/utf8"
 
-	"fmt"
-
 	"github.com/pkg/errors"
 	"github.com/tealeg/xlsx"
 )
@@ -84,8 +82,8 @@ func NewSoundClassesInfo(classesPath string) (*SoundClassesDecoder, error) {
 	return out, nil
 }
 
-func (d *SoundClassesDecoder) Decode(listsPath string, selected map[string]bool) ([]*SwadeshList, error) {
-	groupToWordlist := map[string]*SwadeshList{}
+func (d *SoundClassesDecoder) Decode(listsPath string, selected map[string]bool) ([]*Wordlist, error) {
+	groupToWordlist := map[string]*Wordlist{}
 
 	wordlistsFile, err := xlsx.OpenFile(listsPath)
 	if err != nil {
@@ -124,11 +122,9 @@ func (d *SoundClassesDecoder) Decode(listsPath string, selected map[string]bool)
 		if _, ok := selected[groupName]; allSelected || ok {
 			selected[groupName] = true
 			sortedGroupNames = append(sortedGroupNames, groupName)
-			groupToWordlist[groupName] = &SwadeshList{Group: groupName}
+			groupToWordlist[groupName] = &Wordlist{Group: groupName}
 		}
 	}
-
-	fmt.Println(selected)
 
 	var lastSwadeshID = 0
 	for idx := 1; idx < len(wordlistsFile.Sheets[0].Rows); idx++ {
@@ -195,11 +191,12 @@ func (d *SoundClassesDecoder) Decode(listsPath string, selected map[string]bool)
 		lastSwadeshID = swadeshID
 	}
 
-	var out []*SwadeshList
+	var out []*Wordlist
 	for _, groupName := range sortedGroupNames {
-		out = append(out, groupToWordlist[groupName])
+		if len(groupToWordlist[groupName].List) > 0 {
+			out = append(out, groupToWordlist[groupName])
+		}
 	}
-	fmt.Println(out, groupToWordlist)
 
 	return out, nil
 }

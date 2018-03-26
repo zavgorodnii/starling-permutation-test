@@ -2,6 +2,7 @@ package main
 
 import (
 	"flag"
+	"fmt"
 	"log"
 	"math/rand"
 	"os"
@@ -11,6 +12,8 @@ import (
 	"io/ioutil"
 	"runtime/debug"
 
+	"strings"
+
 	"github.com/starling-permutation-test/internal"
 )
 
@@ -19,15 +22,11 @@ const (
 )
 
 var (
-	soundsPath = flag.String(
-		"sounds", "./data/sounds.xlsx", "path to file containing sound classes")
-	wordlistsPath = flag.String(
-		"wordlists", "./data/wordlists.xlsx", "path to file containing wordlists")
+	soundsPath       = flag.String("sounds", "./data/sounds.xlsx", "path to file containing sound classes")
+	wordlistsPath    = flag.String("wordlists", "./data/wordlists.xlsx", "path to file containing wordlists")
 	setA             = flag.String("set_a", "", "path to file containing wordlists for A (triggers AB mode)")
 	setB             = flag.String("set_b", "", "path to file containing wordlists for B (triggers AB mode)")
 	weightsPath      = flag.String("weights", "", "path to file containing class weights")
-	numTrials        = flag.Int("num_trials", 1000000, "number of trials")
-	verbose          = flag.Bool("verbose", false, "verbose output")
 	outputPath       = flag.String("output", "", "path to output file (stdout if not specified)")
 	plotPath         = flag.String("count_groups_plot", "", "path to file with count groups plot")
 	weightedPlotPath = flag.String("cost_groups_plot", "", "path to file with cost groups plot")
@@ -35,6 +34,8 @@ var (
 	lang1            = flag.String("lang_1", "", "first language to compare (optional)")
 	lang2            = flag.String("lang_2", "", "second language to compare (optional)")
 	allPairs         = flag.Bool("all_pairs", false, "compare all pairs for two wordlists")
+	verbose          = flag.Bool("verbose", false, "verbose output")
+	numTrials        = flag.Int("num_trials", 1000000, "number of trials")
 	abMode           bool
 )
 
@@ -61,18 +62,6 @@ func main() {
 			ioutil.WriteFile(stackTracePath, []byte(debug.Stack()), 0666)
 		}
 	}()
-
-	if len(*outputPath) > 0 {
-		os.Remove(*outputPath)
-		w, err := os.OpenFile(*outputPath, os.O_RDWR|os.O_CREATE, 0666)
-		if err != nil {
-			log.Printf("Failed to open %s for writing (using stdout): %s", *outputPath, err)
-		} else {
-			log.SetOutput(w)
-		}
-		defer w.Close()
-	}
-	log.SetFlags(0)
 
 	var weights internal.Weights = &internal.DefaultWeightsStore{}
 	if len(*weightsPath) > 0 {
@@ -107,7 +96,17 @@ func runPermutationTest(weights internal.Weights) {
 		return
 	}
 
-	runTest(wordlists[0], wordlists[1], weights)
+	if *allPairs {
+		for i, l1 := range wordlists {
+			for j, l2 := range wordlists {
+				if i != j {
+					runTest(l1, l2, weights)
+				}
+			}
+		}
+	} else {
+		runTest(wordlists[0], wordlists[1], weights)
+	}
 }
 
 func runPermutationTestAB(weights internal.Weights) {
@@ -142,7 +141,38 @@ func runPermutationTestAB(weights internal.Weights) {
 	runTest(combinedA, combinedB, weights)
 }
 
-func runTest(l1, l2 *internal.SwadeshList, weights internal.Weights) {
+func runTest(l1, l2 *internal.Wordlist, weights internal.Weights) {
+	defer func() {
+		if len(*consonantPath) > 0 {
+			var expConsonantPath = expandPath(*consonantPath, l1, l2)
+			os.Remove(expConsonantPath)
+			consonantW, err := os.OpenFile(expConsonantPath, os.O_RDWR|os.O_CREATE, 0666)
+			if err != nil {
+				log.Printf("Failed to open %s for writing (using stdout): %s", *outputPath, err)
+				log.SetOutput(os.Stdout)
+			} else {
+				log.SetOutput(consonantW)
+			}
+
+			l1.PrintTransformations()
+			l2.PrintTransformations()
+
+		}
+	}()
+
+	if len(*outputPath) > 0 {
+		var expOutputPath = expandPath(*outputPath, l1, l2)
+		os.Remove(expOutputPath)
+		w, err := os.OpenFile(expOutputPath, os.O_RDWR|os.O_CREATE, 0666)
+		if err != nil {
+			log.Printf("Failed to open %s for writing (using stdout): %s", *outputPath, err)
+		} else {
+			log.SetOutput(w)
+		}
+		defer w.Close()
+	}
+	log.SetFlags(0)
+
 	summary, err := internal.CompareWordlists(l1, l2, weights, float64(*numTrials), *allPairs, *verbose)
 	if err != nil {
 		log.Println("Failed to run permutation test:", err)
@@ -176,7 +206,7 @@ func runTest(l1, l2 *internal.SwadeshList, weights internal.Weights) {
 		log.Printf("P (costs) = %d / %d = %f\n", summary.TotalCost, *numTrials,
 			float64(summary.TotalCost)/float64(*numTrials))
 
-		if len(*weightedPlotPath) > 0 {
+		if len(*weightedPlotPath) > 0 && !*allPairs {
 			if err := internal.PlotCostGroups(*weightedPlotPath, summary.Costs, *numTrials); err != nil {
 				log.Printf("Failed to plot cost groups: %s", err)
 			} else {
@@ -185,23 +215,15 @@ func runTest(l1, l2 *internal.SwadeshList, weights internal.Weights) {
 		}
 	}
 
-	if len(*plotPath) > 0 {
+	if len(*plotPath) > 0 && !*allPairs {
 		if err := internal.PlotCountGroups(*plotPath, summary.Counts, *numTrials); err != nil {
 			log.Printf("Failed to plot count groups: %s", err)
 		} else {
 			log.Printf("Count groups plot saved at %s", *plotPath)
 		}
 	}
+}
 
-	if len(*consonantPath) > 0 {
-		os.Remove(*consonantPath)
-		consonantW, err := os.OpenFile(*consonantPath, os.O_RDWR|os.O_CREATE, 0666)
-		if err != nil {
-			log.Printf("Failed to open %s for writing (using stdout): %s", *outputPath, err)
-		} else {
-			log.SetOutput(consonantW)
-			l1.PrintTransformations()
-			l2.PrintTransformations()
-		}
-	}
+func expandPath(path string, l1, l2 *internal.Wordlist) string {
+	return strings.Split(path, ".txt")[0] + fmt.Sprintf("_%s_%s", l1.Group, l2.Group) + ".txt"
 }
