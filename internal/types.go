@@ -23,19 +23,6 @@ func (l *Wordlist) Compare(other *Wordlist, weights Weights) (cost float64, matc
 	return
 }
 
-func (l *Wordlist) CompareAllPairs(other *Wordlist, weights Weights) (cost float64, matches []string) {
-	for _, word1 := range l.List {
-		for _, word2 := range other.List {
-			if ok, match := word1.Compare(word2); ok {
-				cost += weights.GetWeight(word1.SwadeshID)
-				matches = append(matches, match)
-			}
-		}
-	}
-
-	return
-}
-
 func (l *Wordlist) Combine(other *Wordlist) *Wordlist {
 	var (
 		merged []*Word

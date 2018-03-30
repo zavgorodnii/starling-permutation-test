@@ -33,7 +33,7 @@ var (
 	consonantPath    = flag.String("consonant", "", "path to file with consonant encodings")
 	lang1            = flag.String("lang_1", "", "first language to compare (optional)")
 	lang2            = flag.String("lang_2", "", "second language to compare (optional)")
-	allPairs         = flag.Bool("all_pairs", false, "compare all pairs for two wordlists")
+	allPairs         = flag.Bool("all_pairs", false, "compare each wordlist in file")
 	verbose          = flag.Bool("verbose", false, "verbose output")
 	numTrials        = flag.Int("num_trials", 1000000, "number of trials")
 	abMode           bool
@@ -173,13 +173,9 @@ func runTest(l1, l2 *internal.Wordlist, weights internal.Weights) {
 	}
 	log.SetFlags(0)
 
-	summary, err := internal.CompareWordlists(l1, l2, weights, float64(*numTrials), *allPairs, *verbose)
+	summary, err := internal.CompareWordlists(l1, l2, weights, float64(*numTrials), *verbose)
 	if err != nil {
 		log.Println("Failed to run permutation test:", err)
-		return
-	}
-
-	if *allPairs {
 		return
 	}
 
@@ -206,8 +202,10 @@ func runTest(l1, l2 *internal.Wordlist, weights internal.Weights) {
 		log.Printf("P (costs) = %d / %d = %f\n", summary.TotalCost, *numTrials,
 			float64(summary.TotalCost)/float64(*numTrials))
 
-		if len(*weightedPlotPath) > 0 && !*allPairs {
-			if err := internal.PlotCostGroups(*weightedPlotPath, summary.Costs, *numTrials); err != nil {
+		if len(*weightedPlotPath) > 0 {
+			var expWeightedPlotPath = expandPlotPath(*weightedPlotPath, l1, l2)
+			os.Remove(expWeightedPlotPath)
+			if err := internal.PlotCostGroups(expWeightedPlotPath, summary.Costs, *numTrials); err != nil {
 				log.Printf("Failed to plot cost groups: %s", err)
 			} else {
 				log.Printf("Cost groups plot saved at %s", *weightedPlotPath)
@@ -215,8 +213,10 @@ func runTest(l1, l2 *internal.Wordlist, weights internal.Weights) {
 		}
 	}
 
-	if len(*plotPath) > 0 && !*allPairs {
-		if err := internal.PlotCountGroups(*plotPath, summary.Counts, *numTrials); err != nil {
+	if len(*plotPath) > 0 {
+		var expPlotPath = expandPlotPath(*plotPath, l1, l2)
+		os.Remove(expPlotPath)
+		if err := internal.PlotCountGroups(expPlotPath, summary.Counts, *numTrials); err != nil {
 			log.Printf("Failed to plot count groups: %s", err)
 		} else {
 			log.Printf("Count groups plot saved at %s", *plotPath)
@@ -226,4 +226,18 @@ func runTest(l1, l2 *internal.Wordlist, weights internal.Weights) {
 
 func expandPath(path string, l1, l2 *internal.Wordlist) string {
 	return strings.Split(path, ".txt")[0] + fmt.Sprintf("_%s_%s", l1.Group, l2.Group) + ".txt"
+}
+
+func expandPlotPath(path string, l1, l2 *internal.Wordlist) string {
+	var extension string
+	if strings.Contains(path, ".svg") {
+		extension = ".svg"
+	} else if strings.Contains(path, ".png") {
+		extension = ".png"
+	} else if strings.Contains(path, ".jpeg") {
+		extension = ".jpeg"
+	} else {
+		log.Panicf("Plot path should contain extension (one of `.svg`, `.png`, `.jpeg`")
+	}
+	return strings.Split(path, extension)[0] + fmt.Sprintf("_%s_%s", l1.Group, l2.Group) + extension
 }
