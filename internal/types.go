@@ -3,6 +3,7 @@ package internal
 import (
 	"fmt"
 	"log"
+	"math"
 	"strings"
 )
 
@@ -15,7 +16,7 @@ func (l *Wordlist) Compare(other *Wordlist, weights Weights) (cost float64, matc
 	for idx := range l.List {
 		word1, word2 := l.List[idx], other.List[idx]
 		if ok, match := word1.Compare(word2); ok {
-			cost += weights.GetWeight(word1.SwadeshID)
+			cost += math.Min(weights.GetWeight(word1.SwadeshID), weights.GetWeight(word2.SwadeshID))
 			matches = append(matches, match)
 		}
 	}

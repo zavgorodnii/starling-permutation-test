@@ -224,10 +224,12 @@ func runTest(l1, l2 *internal.Wordlist, weights internal.Weights) {
 	}
 }
 
+// expandPath adds info about the compared pair to output file path.
 func expandPath(path string, l1, l2 *internal.Wordlist) string {
 	return strings.Split(path, ".txt")[0] + fmt.Sprintf("_%s_%s", l1.Group, l2.Group) + ".txt"
 }
 
+// expandPath adds info about the compared pair to plot file path.
 func expandPlotPath(path string, l1, l2 *internal.Wordlist) string {
 	var extension string
 	if strings.Contains(path, ".svg") {
