@@ -52,13 +52,14 @@ func init() {
 	}
 
 	rand.Seed(time.Now().UnixNano())
+	log.SetFlags(0)
 }
 
 func main() {
 	defer func() {
 		if e := recover(); e != nil {
 			currDir, _ := os.Getwd()
-			log.Printf("Program crashed, see %s/%s for details\n", currDir, stackTracePath)
+			fmt.Printf("Program crashed, see %s/%s for details\n", currDir, stackTracePath)
 			ioutil.WriteFile(stackTracePath, []byte(debug.Stack()), 0666)
 		}
 	}()
@@ -97,16 +98,49 @@ func runPermutationTest(weights internal.Weights) {
 	}
 
 	if *allPairs {
-		for i, l1 := range wordlists {
-			for j, l2 := range wordlists {
+		for i := 0; i < len(wordlists); i++ {
+			for j := i; j < len(wordlists); j++ {
 				if i != j {
-					runTest(l1, l2, weights)
+					wFile := setupOutput(wordlists[i], wordlists[j])
+					if len(*weightsPath) > 0 {
+						runTestWeighted(wordlists[i], wordlists[j], weights)
+					} else {
+						runTest(wordlists[i], wordlists[j], weights)
+					}
+					if wFile != nil {
+						wFile.Close()
+					}
 				}
 			}
 		}
 	} else {
-		runTest(wordlists[0], wordlists[1], weights)
+		wFile := setupOutput(wordlists[0], wordlists[1])
+		if len(*weightsPath) > 0 {
+			runTestWeighted(wordlists[0], wordlists[1], weights)
+		} else {
+			runTest(wordlists[0], wordlists[1], weights)
+		}
+		if wFile != nil {
+			wFile.Close()
+		}
 	}
+}
+
+func setupOutput(l1, l2 *internal.Wordlist) *os.File {
+	if len(*outputPath) > 0 {
+		var expOutputPath = expandPath(*outputPath, l1, l2)
+		os.Remove(expOutputPath)
+		w, err := os.OpenFile(expOutputPath, os.O_RDWR|os.O_CREATE, 0666)
+		if err != nil {
+			log.Printf("Failed to open %s for writing (using stdout): %s", *outputPath, err)
+		} else {
+			log.SetOutput(w)
+		}
+
+		return w
+	}
+
+	return nil
 }
 
 func runPermutationTestAB(weights internal.Weights) {
@@ -138,10 +172,27 @@ func runPermutationTestAB(weights internal.Weights) {
 		combinedB = combinedB.Combine(wordlistsB[idx])
 	}
 
-	runTest(combinedA, combinedB, weights)
+	wFile := setupOutput(combinedA, combinedB)
+	if len(*weightsPath) > 0 {
+		runTestWeighted(combinedA, combinedB, weights)
+	} else {
+		runTest(combinedA, combinedB, weights)
+	}
+	if wFile != nil {
+		wFile.Close()
+	}
 }
 
-func runTest(l1, l2 *internal.Wordlist, weights internal.Weights) {
+func runTestWeighted(l1, l2 *internal.Wordlist, weights internal.Weights) {
+	maxCost, group1, group2 := runTest(l1, l2, weights), l1.Group, l2.Group
+	if cost := runTest(l2, l1, weights); cost > maxCost {
+		maxCost, group1, group2 = cost, l2.Group, l1.Group
+	}
+
+	log.Printf("\n[FINAL] Max P(costs) = %.3f (%s, %s)", maxCost, group1, group2)
+}
+
+func runTest(l1, l2 *internal.Wordlist, weights internal.Weights) (weightedCost float64) {
 	defer func() {
 		if len(*consonantPath) > 0 {
 			var expConsonantPath = expandPath(*consonantPath, l1, l2)
@@ -156,22 +207,10 @@ func runTest(l1, l2 *internal.Wordlist, weights internal.Weights) {
 
 			l1.PrintTransformations()
 			l2.PrintTransformations()
-
 		}
 	}()
 
-	if len(*outputPath) > 0 {
-		var expOutputPath = expandPath(*outputPath, l1, l2)
-		os.Remove(expOutputPath)
-		w, err := os.OpenFile(expOutputPath, os.O_RDWR|os.O_CREATE, 0666)
-		if err != nil {
-			log.Printf("Failed to open %s for writing (using stdout): %s", *outputPath, err)
-		} else {
-			log.SetOutput(w)
-		}
-		defer w.Close()
-	}
-	log.SetFlags(0)
+	log.Printf("\n[Comparing %s with %s]", l1.Group, l2.Group)
 
 	summary, err := internal.CompareWordlists(l1, l2, weights, float64(*numTrials), *verbose)
 	if err != nil {
@@ -199,8 +238,9 @@ func runTest(l1, l2 *internal.Wordlist, weights internal.Weights) {
 		for _, costGroup := range sortedCosts {
 			log.Printf("s = %.3f: %d trial(s)\n", costGroup, summary.Costs[costGroup])
 		}
-		log.Printf("P (costs) = %d / %d = %f\n", summary.TotalCost, *numTrials,
-			float64(summary.TotalCost)/float64(*numTrials))
+
+		weightedCost = float64(summary.TotalCost) / float64(*numTrials)
+		log.Printf("P (costs) = %d / %d = %f\n", summary.TotalCost, *numTrials, weightedCost)
 
 		if len(*weightedPlotPath) > 0 {
 			var expWeightedPlotPath = expandPlotPath(*weightedPlotPath, l1, l2)
@@ -222,14 +262,14 @@ func runTest(l1, l2 *internal.Wordlist, weights internal.Weights) {
 			log.Printf("Count groups plot saved at %s", *plotPath)
 		}
 	}
+
+	return weightedCost
 }
 
-// expandPath adds info about the compared pair to output file path.
 func expandPath(path string, l1, l2 *internal.Wordlist) string {
 	return strings.Split(path, ".txt")[0] + fmt.Sprintf("_%s_%s", l1.Group, l2.Group) + ".txt"
 }
 
-// expandPath adds info about the compared pair to plot file path.
 func expandPlotPath(path string, l1, l2 *internal.Wordlist) string {
 	var extension string
 	if strings.Contains(path, ".svg") {
