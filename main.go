@@ -30,7 +30,7 @@ var (
 	outputPath       = flag.String("output", "", "path to output file (stdout if not specified)")
 	plotPath         = flag.String("count_groups_plot", "", "path to file with count groups plot")
 	weightedPlotPath = flag.String("cost_groups_plot", "", "path to file with cost groups plot")
-	consonantPath    = flag.String("consonant", "", "path to file with consonant encodings")
+	consonantPath    = flag.String("consonants", "", "path to file with consonant encodings")
 	lang1            = flag.String("lang_1", "", "first language to compare (optional)")
 	lang2            = flag.String("lang_2", "", "second language to compare (optional)")
 	allPairs         = flag.Bool("all_pairs", false, "compare each wordlist in file")
@@ -99,6 +99,7 @@ func runPermutationTest(weights internal.Weights) {
 
 	if *allPairs {
 		for i := 0; i < len(wordlists); i++ {
+			printConsonants(wordlists[i])
 			for j := i; j < len(wordlists); j++ {
 				if i != j {
 					wFile := setupOutput(wordlists[i], wordlists[j])
@@ -123,6 +124,8 @@ func runPermutationTest(weights internal.Weights) {
 		if wFile != nil {
 			wFile.Close()
 		}
+		printConsonants(wordlists[0])
+		printConsonants(wordlists[1])
 	}
 }
 
@@ -141,6 +144,22 @@ func setupOutput(l1, l2 *internal.Wordlist) *os.File {
 	}
 
 	return nil
+}
+
+func printConsonants(l1 *internal.Wordlist) {
+	if len(*consonantPath) > 0 {
+		var expConsonantPath = expandPath(*consonantPath, l1, &internal.Wordlist{})
+		os.Remove(expConsonantPath)
+		consonantW, err := os.OpenFile(expConsonantPath, os.O_RDWR|os.O_CREATE, 0666)
+		if err != nil {
+			log.Printf("Failed to open %s for writing (using stdout): %s", *outputPath, err)
+			log.SetOutput(os.Stdout)
+		} else {
+			log.SetOutput(consonantW)
+		}
+
+		l1.PrintTransformations()
+	}
 }
 
 func runPermutationTestAB(weights internal.Weights) {
@@ -181,6 +200,8 @@ func runPermutationTestAB(weights internal.Weights) {
 	if wFile != nil {
 		wFile.Close()
 	}
+	printConsonants(combinedA)
+	printConsonants(combinedB)
 }
 
 func runTestWeighted(l1, l2 *internal.Wordlist, weights internal.Weights) {
@@ -193,23 +214,6 @@ func runTestWeighted(l1, l2 *internal.Wordlist, weights internal.Weights) {
 }
 
 func runTest(l1, l2 *internal.Wordlist, weights internal.Weights) (weightedCost float64) {
-	defer func() {
-		if len(*consonantPath) > 0 {
-			var expConsonantPath = expandPath(*consonantPath, l1, l2)
-			os.Remove(expConsonantPath)
-			consonantW, err := os.OpenFile(expConsonantPath, os.O_RDWR|os.O_CREATE, 0666)
-			if err != nil {
-				log.Printf("Failed to open %s for writing (using stdout): %s", *outputPath, err)
-				log.SetOutput(os.Stdout)
-			} else {
-				log.SetOutput(consonantW)
-			}
-
-			l1.PrintTransformations()
-			l2.PrintTransformations()
-		}
-	}()
-
 	log.Printf("\n[Comparing %s with %s]", l1.Group, l2.Group)
 
 	summary, err := internal.CompareWordlists(l1, l2, weights, float64(*numTrials), *verbose)

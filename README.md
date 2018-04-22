@@ -8,7 +8,7 @@ Run `./spt --help` for usage:
 Usage of ./spt:
   -all_pairs
     	compare each wordlist in file
-  -consonant string
+  -consonants string
     	path to file with consonant encodings
   -cost_groups_plot string
     	path to file with cost groups plot
