@@ -210,7 +210,7 @@ func runTestWeighted(l1, l2 *internal.Wordlist, weights internal.Weights) {
 		maxCost, group1, group2 = cost, l2.Group, l1.Group
 	}
 
-	log.Printf("\n[FINAL] Max P(costs) = %.3f (%s, %s)", maxCost, group1, group2)
+	log.Printf("\n[FINAL] Max P(costs) = %f (%s, %s)", maxCost, group1, group2)
 }
 
 func runTest(l1, l2 *internal.Wordlist, weights internal.Weights) (weightedCost float64) {
