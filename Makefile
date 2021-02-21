@@ -15,4 +15,4 @@ build:
 	GOOS=linux GOARCH=amd64 go build -o ./bin/spt_linux_x86-64 main.go
 
 test:
-	go test github.com/starling-permutation-test/internal
+	go test github.com/starling-permutation-test/src
