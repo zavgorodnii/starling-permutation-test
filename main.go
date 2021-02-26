@@ -3,18 +3,16 @@ package main
 import (
 	"flag"
 	"fmt"
+	"io/ioutil"
 	"log"
 	"math/rand"
 	"os"
+	"runtime/debug"
 	"sort"
+	"strings"
 	"time"
 
-	"io/ioutil"
-	"runtime/debug"
-
-	"strings"
-
-	"github.com/starling-permutation-test/internal"
+	"github.com/starling-permutation-test/src"
 )
 
 const (
@@ -60,13 +58,13 @@ func main() {
 		if e := recover(); e != nil {
 			currDir, _ := os.Getwd()
 			fmt.Printf("Program crashed, see %s/%s for details\n", currDir, stackTracePath)
-			ioutil.WriteFile(stackTracePath, []byte(debug.Stack()), 0666)
+			_ = ioutil.WriteFile(stackTracePath, []byte(debug.Stack()), 0666)
 		}
 	}()
 
-	var weights internal.Weights = &internal.DefaultWeightsStore{}
+	var weights src.Weights = &src.DefaultWeightsStore{}
 	if len(*weightsPath) > 0 {
-		if weightsStore, err := internal.NewWeightsStore(*weightsPath, *verbose); err != nil {
+		if weightsStore, err := src.NewWeightsStore(*weightsPath, *verbose); err != nil {
 			log.Printf("Failed to open weight file %s (%s), using defaults weights (1.0)", *weightsPath, err)
 		} else {
 			weights = weightsStore
@@ -80,8 +78,8 @@ func main() {
 	}
 }
 
-func runPermutationTest(weights internal.Weights) {
-	decoder, err := internal.NewSoundClassesInfo(*soundsPath)
+func runPermutationTest(weights src.Weights) {
+	decoder, err := src.NewSoundClassesDecoder(*soundsPath)
 	if err != nil {
 		log.Println("Failed to load sound classes info:", err)
 		return
@@ -129,7 +127,7 @@ func runPermutationTest(weights internal.Weights) {
 	}
 }
 
-func setupOutput(l1, l2 *internal.Wordlist) *os.File {
+func setupOutput(l1, l2 *src.Wordlist) *os.File {
 	if len(*outputPath) > 0 {
 		var expOutputPath = expandPath(*outputPath, l1, l2)
 		os.Remove(expOutputPath)
@@ -146,9 +144,9 @@ func setupOutput(l1, l2 *internal.Wordlist) *os.File {
 	return nil
 }
 
-func printConsonants(l1 *internal.Wordlist) {
+func printConsonants(l1 *src.Wordlist) {
 	if len(*consonantPath) > 0 {
-		var expConsonantPath = expandPath(*consonantPath, l1, &internal.Wordlist{})
+		var expConsonantPath = expandPath(*consonantPath, l1, &src.Wordlist{})
 		os.Remove(expConsonantPath)
 		consonantW, err := os.OpenFile(expConsonantPath, os.O_RDWR|os.O_CREATE, 0666)
 		if err != nil {
@@ -162,8 +160,8 @@ func printConsonants(l1 *internal.Wordlist) {
 	}
 }
 
-func runPermutationTestAB(weights internal.Weights) {
-	decoder, err := internal.NewSoundClassesInfo(*soundsPath)
+func runPermutationTestAB(weights src.Weights) {
+	decoder, err := src.NewSoundClassesDecoder(*soundsPath)
 	if err != nil {
 		log.Println("Failed to load sound classes info:", err)
 		return
@@ -204,7 +202,7 @@ func runPermutationTestAB(weights internal.Weights) {
 	printConsonants(combinedB)
 }
 
-func runTestWeighted(l1, l2 *internal.Wordlist, weights internal.Weights) {
+func runTestWeighted(l1, l2 *src.Wordlist, weights src.Weights) {
 	maxCost, group1, group2 := runTest(l1, l2, weights), l1.Group, l2.Group
 	if cost := runTest(l2, l1, weights); cost > maxCost {
 		maxCost, group1, group2 = cost, l2.Group, l1.Group
@@ -213,10 +211,10 @@ func runTestWeighted(l1, l2 *internal.Wordlist, weights internal.Weights) {
 	log.Printf("\n[FINAL] Max P(costs) = %f (%s, %s)", maxCost, group1, group2)
 }
 
-func runTest(l1, l2 *internal.Wordlist, weights internal.Weights) (weightedCost float64) {
+func runTest(l1, l2 *src.Wordlist, weights src.Weights) (weightedCost float64) {
 	log.Printf("\n[Comparing %s with %s]", l1.Group, l2.Group)
 
-	summary, err := internal.CompareWordlists(l1, l2, weights, float64(*numTrials), *verbose)
+	summary, err := src.CompareWordlists(l1, l2, weights, float64(*numTrials), *verbose)
 	if err != nil {
 		log.Println("Failed to run permutation test:", err)
 		return
@@ -249,7 +247,7 @@ func runTest(l1, l2 *internal.Wordlist, weights internal.Weights) (weightedCost 
 		if len(*weightedPlotPath) > 0 {
 			var expWeightedPlotPath = expandPlotPath(*weightedPlotPath, l1, l2)
 			os.Remove(expWeightedPlotPath)
-			if err := internal.PlotCostGroups(expWeightedPlotPath, summary.Costs, *numTrials); err != nil {
+			if err := src.PlotCostGroups(expWeightedPlotPath, summary.Costs, *numTrials); err != nil {
 				log.Printf("Failed to plot cost groups: %s", err)
 			} else {
 				log.Printf("Cost groups plot saved at %s", *weightedPlotPath)
@@ -260,7 +258,7 @@ func runTest(l1, l2 *internal.Wordlist, weights internal.Weights) (weightedCost 
 	if len(*plotPath) > 0 {
 		var expPlotPath = expandPlotPath(*plotPath, l1, l2)
 		os.Remove(expPlotPath)
-		if err := internal.PlotCountGroups(expPlotPath, summary.Counts, *numTrials); err != nil {
+		if err := src.PlotCountGroups(expPlotPath, summary.Counts, *numTrials); err != nil {
 			log.Printf("Failed to plot count groups: %s", err)
 		} else {
 			log.Printf("Count groups plot saved at %s", *plotPath)
@@ -270,11 +268,11 @@ func runTest(l1, l2 *internal.Wordlist, weights internal.Weights) (weightedCost 
 	return weightedCost
 }
 
-func expandPath(path string, l1, l2 *internal.Wordlist) string {
+func expandPath(path string, l1, l2 *src.Wordlist) string {
 	return strings.Split(path, ".txt")[0] + fmt.Sprintf("_%s_%s", l1.Group, l2.Group) + ".txt"
 }
 
-func expandPlotPath(path string, l1, l2 *internal.Wordlist) string {
+func expandPlotPath(path string, l1, l2 *src.Wordlist) string {
 	var extension string
 	if strings.Contains(path, ".svg") {
 		extension = ".svg"
