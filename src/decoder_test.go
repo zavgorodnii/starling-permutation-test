@@ -564,7 +564,7 @@ func TestSoundClassesDecoder_Decode(t *testing.T) {
 			"pʌ̀rʌ̀m":           {"PRM"},
 			"pǝ̀r-ʔǝ́y":         {"PR"},
 			"hʌ́y":              {"HH"},
-		},
+		}
 	}
 
 	decoder, err := NewSoundClassesDecoder("../data/sounds.xlsx")

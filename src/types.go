@@ -71,6 +71,7 @@ type Word struct {
 	Group        string
 	SwadeshID    int
 	SwadeshWord  string
+	BroomedSymbols []string
 	Forms        []string
 	CleanForms   []string
 	DecodedForms []string
@@ -86,9 +87,14 @@ func (w *Word) PrintTransformations() {
 		parsed = append(parsed, fmt.Sprintf("%s\t-->\t%s (Total %d symbols)",
 			cleanForm, w.DecodedForms[idx], len(w.DecodedForms[idx])))
 	}
-
-	formatted := fmt.Sprintf("%s (%s)\nSeen as: %s\n[Transformed]\n%s\n",
-		w.SwadeshWord, w.Group, forms, strings.Join(parsed, "\n"))
+	formatted := fmt.Sprintf("")
+	if len(w.BroomedSymbols)>0{
+		formatted = fmt.Sprintf("%s (%s)\nSeen as: %s\n[Transformed]\n%s\n[Broomed symbols] %s\n",
+			w.SwadeshWord, w.Group, forms, strings.Join(parsed, "\n"), w.BroomedSymbols)
+	} else {
+		formatted = fmt.Sprintf("%s (%s)\nSeen as: %s\n[Transformed]\n%s\n",
+			w.SwadeshWord, w.Group, forms, strings.Join(parsed, "\n"))
+	}
 
 	log.Println(formatted)
 }
@@ -136,10 +142,14 @@ func (w *Word) DeepCopy() *Word {
 	decodedFormsCopy := make([]string, len(w.DecodedForms))
 	copy(decodedFormsCopy, w.DecodedForms)
 
+	BroomedSymbolsCopy := make([]string, len(w.BroomedSymbols))
+	copy(formsCopy, w.BroomedSymbols)
+
 	return &Word{
 		Group:        w.Group,
 		SwadeshID:    w.SwadeshID,
 		SwadeshWord:  w.SwadeshWord,
+		BroomedSymbols: 			BroomedSymbolsCopy,
 		Forms:        formsCopy,
 		CleanForms:   cleanFormsCopy,
 		DecodedForms: decodedFormsCopy,

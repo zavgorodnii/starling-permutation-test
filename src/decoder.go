@@ -5,7 +5,6 @@ import (
 	"regexp"
 	"strings"
 	"unicode/utf8"
-
 	"github.com/pkg/errors"
 	"github.com/tealeg/xlsx"
 )
@@ -21,6 +20,7 @@ var (
 	VowelsAndFeatures string
 	Glides            string
 	LabialGlides      string
+	IPAS							string
 )
 
 type SoundClassesDecoder struct {
@@ -50,6 +50,7 @@ func NewSoundClassesDecoder(classesPath string) (*SoundClassesDecoder, error) {
 			className    = strings.TrimSpace(row.Cells[1].String())
 			classID      = classMembers[:1]
 		)
+		IPAS = strings.Join([]string{IPAS,classMembers}, "")
 		switch className {
 		case "Laryngeals":
 			Laryngeals = classID
@@ -90,9 +91,9 @@ func (d *SoundClassesDecoder) Decode(listsPath string, selected map[string]bool)
 		return nil, errors.Wrapf(err, "failed to read %s", listsPath)
 	}
 
-	if len(wordlistsFile.Sheets) != 1 {
-		return nil, errors.New("single sheet is expected")
-	}
+	//if len(wordlistsFile.Sheets) != 1 {
+	//	return nil, errors.New("single sheet is expected")
+	//} Deleted by D. Krylov, 2021
 
 	if len(wordlistsFile.Sheets[0].Rows) < 2 {
 		return nil, errors.New("document is malformed: less than 2 rows is present")
@@ -128,6 +129,9 @@ func (d *SoundClassesDecoder) Decode(listsPath string, selected map[string]bool)
 
 	var lastSwadeshID = 0
 	for idx := 1; idx < len(wordlistsFile.Sheets[0].Rows); idx++ {
+		if strings.HasPrefix(wordlistsFile.Sheets[0].Rows[idx].Cells[0].String(), "0"){
+			continue
+		}
 		row := wordlistsFile.Sheets[0].Rows[idx].Cells
 		swadeshID, err := row[swadeshIDCol].Int()
 		if err != nil {
@@ -175,12 +179,13 @@ func (d *SoundClassesDecoder) Decode(listsPath string, selected map[string]bool)
 				continue
 			}
 
-			var clean, decoded = d.decodeForm(form)
+			var clean, decoded, broomed = d.decodeForm(form)
 			if !ignoreForm {
 				lastWord := groupToWordlist[groupName].List[len(groupToWordlist[groupName].List)-1]
 				lastWord.Forms = append(lastWord.Forms, form)
 				lastWord.CleanForms = append(lastWord.CleanForms, clean...)
 				lastWord.DecodedForms = append(lastWord.DecodedForms, decoded...)
+				lastWord.BroomedSymbols = append(lastWord.BroomedSymbols, broomed...)
 			}
 
 			if skipColumn {
@@ -201,10 +206,15 @@ func (d *SoundClassesDecoder) Decode(listsPath string, selected map[string]bool)
 	return out, nil
 }
 
-func (d *SoundClassesDecoder) decodeForm(form string) (clean []string, decoded []string) {
-	r, _ := regexp.Compile("\\(.*\\)")
+func (d *SoundClassesDecoder) decodeForm(form string) (clean []string, decoded []string, broomed []string) {
+	r, _ := regexp.Compile("\\{.*?\\}|\\(.*?\\)")
 	form = r.ReplaceAllString(form, "")
+	b, _ := regexp.Compile("[^ !\\-,=/#~"+IPAS+"]")
+	broomed = b.FindAllString(form, -1)
+	form = b.ReplaceAllString(form, "")
+
 	form = strings.Replace(form, "*", "", -1)
+// ## 205-207 modified by D. Krylov, 2021
 
 	if strings.Contains(form, "~") {
 		clean = append(clean, strings.Split(form, "~")...)
@@ -253,9 +263,10 @@ func (d *SoundClassesDecoder) decodeForm(form string) (clean []string, decoded [
 		}
 
 		decoded[idx] = decodedForm
+
 	}
 
-	return clean, decoded
+	return clean, decoded, broomed
 }
 
 func (d SoundClassesDecoder) cleanseForm(form string) (out string) {
