@@ -207,8 +207,11 @@ func runTestWeighted(l1, l2 *src.Wordlist, weights src.Weights) {
 	if cost := runTest(l2, l1, weights); cost > maxCost {
 		maxCost, group1, group2 = cost, l2.Group, l1.Group
 	}
-
-	log.Printf("\nUncalibrated Max P(costs) = %f (%s, %s)", maxCost, group1, group2)
+	if maxCost >0.1 {
+	log.Printf("\nUncalibrated Max P(costs) = %f (%s, %s) > 0.1", maxCost, group1, group2)
+	} else {
+		log.Printf("\nUncalibrated Max P(costs) = %f (%s, %s) ≤ 0.1", maxCost, group1, group2)
+	}
 	clbrtd, err := src.Calibrate(maxCost, *NCPath)
 	if err != nil {
 		fmt.Println("Failed to Calibrate")
