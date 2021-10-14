@@ -18,7 +18,7 @@ func Calibrate(p float64, NCPath string) (float64, error){
 		return calibratedP, nil
 	} else {
     calibratedP = 2.59*p-5.89*p*p
-    log.Printf("\nCalibrated Max P(costs) = 2.59 * %f - 5.89 * %f^2 = %f ≤ 0.1", p,p,calibratedP)
+    log.Printf("\nCalibrated Max P(costs) = 2.59 * %f - 5.89 * %f^2 = %f", p,p,calibratedP)
     return  calibratedP, nil
 	}
 }
@@ -47,6 +47,6 @@ func CountRatio(p float64, NCPath string)(float64, error){
 }
 numsLength := float64(len(nums))
 ratio = countLessThan/numsLength
-log.Printf("\nCalibrated Max P(costs) = %f / %f = %f > 0.1", countLessThan,numsLength,ratio)
+log.Printf("\nCalibrated Max P(costs) = %f / %f = %f", countLessThan,numsLength,ratio)
 return ratio, nil
 }
