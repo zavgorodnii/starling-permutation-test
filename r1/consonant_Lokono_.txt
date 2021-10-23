@@ -1,0 +1,684 @@
+all (Lokono)
+Seen as: haɽã-ŋ {harhan}
+[Transformed]
+haɽã	-->	HR (Total 2 symbols)
+
+ashes (Lokono)
+Seen as: bališi {balishi}
+[Transformed]
+bališi	-->	PLS (Total 3 symbols)
+
+bark (Lokono)
+Seen as: ə=da ~ ada=ə=da ~ ada=da {uda ~ adauda ~ adada}
+[Transformed]
+da	-->	TH (Total 2 symbols)
+da	-->	TH (Total 2 symbols)
+da	-->	TH (Total 2 symbols)
+adauda	-->	HTT (Total 3 symbols)
+adada}	-->	HTT (Total 3 symbols)
+
+belly (Lokono)
+Seen as: ə=te / =te {ute / =te}; =dʸibeyo {=dibeyo}
+[Transformed]
+te	-->	TH (Total 2 symbols)
+te	-->	TH (Total 2 symbols)
+te}	-->	TH (Total 2 symbols)
+dʸibeyo	-->	TP (Total 2 symbols)
+
+big (Lokono)
+Seen as: ɸiɾõ-ŋ {firon}
+[Transformed]
+ɸiɾõ	-->	PR (Total 2 symbols)
+
+bird (Lokono)
+Seen as: kudʸibio {kodibio}
+[Transformed]
+kudʸibio	-->	KTP (Total 3 symbols)
+
+bite (Lokono)
+Seen as: ɾəd-ŋ {rudun}
+[Transformed]
+ɾəd	-->	RT (Total 2 symbols)
+
+black (Lokono)
+Seen as: kʰaɾemẽ-ŋ {kharemen}
+[Transformed]
+kʰaɾemẽ	-->	KRM (Total 3 symbols)
+
+blood (Lokono)
+Seen as: ə=tʰə / =tʰəna {uthu / =thuna}
+[Transformed]
+tʰə	-->	TH (Total 2 symbols)
+tʰəna	-->	TN (Total 2 symbols)
+thuna}	-->	TN (Total 2 symbols)
+
+bone (Lokono)
+Seen as: =bəna {=buna}
+[Transformed]
+bəna	-->	PN (Total 2 symbols)
+
+breast (Lokono)
+Seen as: =loa-šibo ~ =loa-bana {=loashibo ~ =loabana}
+[Transformed]
+loa	-->	LH (Total 2 symbols)
+loa	-->	LH (Total 2 symbols)
+loabana}	-->	LPN (Total 3 symbols)
+
+burn (Lokono)
+Seen as: bitʸĩ-ŋ {bitin}
+[Transformed]
+bitʸĩ	-->	PT (Total 2 symbols)
+
+claw (nail) (Lokono)
+Seen as: =bada {=bada}
+[Transformed]
+bada	-->	PT (Total 2 symbols)
+
+cloud (Lokono)
+Seen as: oɽaɽo ~ hoɽaɽo {orharho ~ horharho}
+[Transformed]
+oɽaɽo	-->	HRR (Total 3 symbols)
+hoɽaɽo	-->	HRR (Total 3 symbols)
+horharho}	-->	HRR (Total 3 symbols)
+
+cold (Lokono)
+Seen as: mimĩ-ŋ {mimin}
+[Transformed]
+mimĩ	-->	MM (Total 2 symbols)
+
+come (Lokono)
+Seen as: ãnd-ŋ {andun}
+[Transformed]
+ãnd	-->	HNT (Total 3 symbols)
+
+die (Lokono)
+Seen as: oːdõ-ŋ {ôdon}
+[Transformed]
+oːdõ	-->	HT (Total 2 symbols)
+
+dog (Lokono)
+Seen as: k=aɾi-ɾo {kariro}
+[Transformed]
+aɾi	-->	HR (Total 2 symbols)
+
+drink (Lokono)
+Seen as: tʰ-ŋ ~ ə=tʰ-ŋ {thun ~ uthun}
+[Transformed]
+tʰ	-->	TH (Total 2 symbols)
+tʰ	-->	TH (Total 2 symbols)
+uthun}	-->	HTN (Total 3 symbols)
+
+dry (Lokono)
+Seen as: wãː-ŋ {wân}
+[Transformed]
+wãː	-->	WH (Total 2 symbols)
+
+ear (Lokono)
+Seen as: =dʸikʸe {=dike}
+[Transformed]
+dʸikʸe	-->	TK (Total 2 symbols)
+
+earth (Lokono)
+Seen as: hoɽoɽo ~ oɽoɽo {horhorho ~ orhorho}
+[Transformed]
+hoɽoɽo	-->	HRR (Total 3 symbols)
+oɽoɽo	-->	HRR (Total 3 symbols)
+orhorho}	-->	HRR (Total 3 symbols)
+
+eat (Lokono)
+Seen as: kĩ=ŋ / kʸeː- {kin / kê-}; kʰotõ-ŋ {khoton}
+[Transformed]
+ŋ	-->	NH (Total 2 symbols)
+kʸeː	-->	KH (Total 2 symbols)
+kê	-->	KH (Total 2 symbols)
+kʰotõ	-->	KT (Total 2 symbols)
+
+egg (Lokono)
+Seen as: ə=sa / =sa {usa / =sa}
+[Transformed]
+sa	-->	SH (Total 2 symbols)
+sa	-->	SH (Total 2 symbols)
+sa}	-->	SH (Total 2 symbols)
+
+eye (Lokono)
+Seen as: =ku-ši ~ =ko {=koshi ~ =ko}
+[Transformed]
+ku	-->	KH (Total 2 symbols)
+ko	-->	KH (Total 2 symbols)
+ko}	-->	KH (Total 2 symbols)
+
+fat n. (Lokono)
+Seen as: =kihi ~ =kî {=kihi ~ =kî}
+[Transformed]
+kihi	-->	KH (Total 2 symbols)
+kî	-->	KH (Total 2 symbols)
+kî}	-->	KH (Total 2 symbols)
+
+feather (Lokono)
+Seen as: baɽa ~ ə=baɽa {barha ~ ubarha}
+[Transformed]
+baɽa	-->	PR (Total 2 symbols)
+baɽa	-->	PR (Total 2 symbols)
+ubarha}	-->	HPR (Total 3 symbols)
+
+fire (Lokono)
+Seen as: ikihi ~ ikiː {ikihi ~ ikî}; =iːme ~ =hime {=îme ~ =hime}
+[Transformed]
+ikihi	-->	HK (Total 2 symbols)
+ikiː	-->	HK (Total 2 symbols)
+ikî}	-->	HK (Total 2 symbols)
+iːme	-->	HM (Total 2 symbols)
+hime	-->	HM (Total 2 symbols)
+hime}	-->	HM (Total 2 symbols)
+
+fish (Lokono)
+Seen as: hime {hime}
+[Transformed]
+hime	-->	HM (Total 2 symbols)
+
+fly v. (Lokono)
+Seen as: moɾodõ-ŋ {morodon}
+[Transformed]
+moɾodõ	-->	MRT (Total 3 symbols)
+
+foot (Lokono)
+Seen as: =kutʸi {=koti}
+[Transformed]
+kutʸi	-->	KT (Total 2 symbols)
+
+full (Lokono)
+Seen as: hebẽ-ŋ {heben}
+[Transformed]
+hebẽ	-->	HP (Total 2 symbols)
+
+give (Lokono)
+Seen as: šikĩ-ŋ {shikin}
+[Transformed]
+šikĩ	-->	SK (Total 2 symbols)
+
+good (Lokono)
+Seen as: sã-ŋ ~ sãː-ŋ {san ~ sân}
+[Transformed]
+sã	-->	SH (Total 2 symbols)
+sãː	-->	SH (Total 2 symbols)
+sân}	-->	SN (Total 2 symbols)
+
+green (Lokono)
+Seen as: sobolẽ-ŋ {sobolen}
+[Transformed]
+sobolẽ	-->	SPL (Total 3 symbols)
+
+hair (Lokono)
+Seen as: baɽa ~ ə=baɽa {barha ~ ubarha}
+[Transformed]
+baɽa	-->	PR (Total 2 symbols)
+baɽa	-->	PR (Total 2 symbols)
+ubarha}	-->	HPR (Total 3 symbols)
+
+hand (Lokono)
+Seen as: =kʰabo {=khabo}
+[Transformed]
+kʰabo	-->	KP (Total 2 symbols)
+
+head (Lokono)
+Seen as: ɨ=šiː ~ i=šiː / =šiː {ushî ~ ishî / =shî}
+[Transformed]
+šiː	-->	SH (Total 2 symbols)
+šiː	-->	SH (Total 2 symbols)
+ishî	-->	HS (Total 2 symbols)
+
+hear (Lokono)
+Seen as: kanab-ŋ {kanabun}
+[Transformed]
+kanab	-->	KNP (Total 3 symbols)
+
+heart (Lokono)
+Seen as: wašina {washina}
+[Transformed]
+wašina	-->	WSN (Total 3 symbols)
+
+horn (Lokono)
+Seen as: ə=koa / =koa {ukoa / =koa}
+[Transformed]
+koa	-->	KH (Total 2 symbols)
+koa	-->	KH (Total 2 symbols)
+koa}	-->	KH (Total 2 symbols)
+
+I (Lokono)
+Seen as: de-i ~ de {dei ~ de}
+[Transformed]
+de	-->	TH (Total 2 symbols)
+de	-->	TH (Total 2 symbols)
+de}	-->	TH (Total 2 symbols)
+
+kill (Lokono)
+Seen as: ɸaɾ-ŋ {farun}
+[Transformed]
+ɸaɾ	-->	PR (Total 2 symbols)
+
+knee (Lokono)
+Seen as: koɽo ~ koɾo {korho ~ koro}
+[Transformed]
+koɽo	-->	KR (Total 2 symbols)
+koɾo	-->	KR (Total 2 symbols)
+koro}	-->	KR (Total 2 symbols)
+
+know (Lokono)
+Seen as: eičĩ-ŋ ~ eːčĩ-ŋ ~ ičĩ-ŋ {eithin ~ êthin ~ ithin}
+[Transformed]
+eičĩ	-->	HC (Total 2 symbols)
+eːčĩ	-->	HC (Total 2 symbols)
+ičĩ	-->	HC (Total 2 symbols)
+êthin	-->	HTN (Total 3 symbols)
+ithin}	-->	HTN (Total 3 symbols)
+
+leaf (Lokono)
+Seen as: =bana ~ ada=bəna ~ adə=bəna {=bana ~ adabuna ~ adubuna}
+[Transformed]
+bana	-->	PN (Total 2 symbols)
+bəna	-->	PN (Total 2 symbols)
+bəna	-->	PN (Total 2 symbols)
+adabuna	-->	HTPN (Total 4 symbols)
+adubuna}	-->	HTPN (Total 4 symbols)
+
+lie (Lokono)
+Seen as: tʰoɽodõ-ŋ {thorhodon}; bəɽeː-k-oã-ŋ ~ boɽe-k-oã-ŋ {burhêkoan ~ borhekoan}
+[Transformed]
+tʰoɽodõ	-->	TRT (Total 3 symbols)
+bəɽeː	-->	PR (Total 2 symbols)
+boɽe	-->	PR (Total 2 symbols)
+borhekoan}	-->	PRKN (Total 4 symbols)
+
+liver (Lokono)
+Seen as: =bana {=bana}
+[Transformed]
+bana	-->	PN (Total 2 symbols)
+
+long (Lokono)
+Seen as: wadʸĩ-ŋ {wadi-n}
+[Transformed]
+wadʸĩ	-->	WT (Total 2 symbols)
+
+louse (Lokono)
+Seen as: ə=ye / =ye {uye / =ye}
+[Transformed]
+ye	-->	YH (Total 2 symbols)
+ye	-->	YH (Total 2 symbols)
+ye}	-->	YH (Total 2 symbols)
+
+man (Lokono)
+Seen as: wadʸi-li {wadili}
+[Transformed]
+wadʸi	-->	WT (Total 2 symbols)
+
+many (Lokono)
+Seen as: yohõ-ŋ ~ yõː-ŋ {yohon ~ yôn}
+[Transformed]
+yohõ	-->	YH (Total 2 symbols)
+yõː	-->	YH (Total 2 symbols)
+yôn}	-->	YN (Total 2 symbols)
+
+meat (Lokono)
+Seen as: kʰot-a {khota}; šiɾoko {shiroko}
+[Transformed]
+kʰot	-->	KT (Total 2 symbols)
+šiɾoko	-->	SRK (Total 3 symbols)
+
+moon (Lokono)
+Seen as: kači {kathi}
+[Transformed]
+kači	-->	KC (Total 2 symbols)
+
+mountain (Lokono)
+Seen as: hoɽoɽo-aːbo {horhorho âbo}
+[Transformed]
+hoɽoɽo	-->	HRR (Total 3 symbols)
+
+mouth (Lokono)
+Seen as: =ɽeɾoko {=lheroko}
+[Transformed]
+ɽeɾoko	-->	RRK (Total 3 symbols)
+
+name (Lokono)
+Seen as: =iːɾi {=îri}
+[Transformed]
+iːɾi	-->	HR (Total 2 symbols)
+
+neck (Lokono)
+Seen as: =noɾo {noro}; =yoɽe ~ =yoɾe {=yorhe ~ =yore}
+[Transformed]
+noɾo	-->	NR (Total 2 symbols)
+yoɽe	-->	YR (Total 2 symbols)
+yoɾe	-->	YR (Total 2 symbols)
+yore}	-->	YR (Total 2 symbols)
+
+new (Lokono)
+Seen as: hemeliã-ŋ ~ emeliã-ŋ {hemelian ~ emelian}
+[Transformed]
+hemeliã	-->	HML (Total 3 symbols)
+emeliã	-->	HML (Total 3 symbols)
+emelian}	-->	HMLN (Total 4 symbols)
+
+night (Lokono)
+Seen as: uɽi-ka {orhika}; kasa=koda {kasakoda}
+[Transformed]
+uɽi	-->	HR (Total 2 symbols)
+koda	-->	KT (Total 2 symbols)
+
+nose (Lokono)
+Seen as: =šiɾi {=shiri}
+[Transformed]
+šiɾi	-->	SR (Total 2 symbols)
+
+not (Lokono)
+Seen as: kʰo ~ kʰoɾo {kho ~ khoro}
+[Transformed]
+kʰo	-->	KH (Total 2 symbols)
+kʰoɾo	-->	KR (Total 2 symbols)
+khoro}	-->	KR (Total 2 symbols)
+
+one (Lokono)
+Seen as: aba {aba}
+[Transformed]
+aba	-->	HP (Total 2 symbols)
+
+person (Lokono)
+Seen as: kakə-či / kakə-tʰo {kakuthi / kakutho}; loko {loko}
+[Transformed]
+kakə	-->	KK (Total 2 symbols)
+kakə	-->	KK (Total 2 symbols)
+kakutho}	-->	KKT (Total 3 symbols)
+loko	-->	LK (Total 2 symbols)
+
+rain (Lokono)
+Seen as: uni {oni}
+[Transformed]
+uni	-->	HN (Total 2 symbols)
+
+red (Lokono)
+Seen as: koɽẽ-ŋ {korhen}
+[Transformed]
+koɽẽ	-->	KR (Total 2 symbols)
+
+road (Lokono)
+Seen as: wabo-ɾoko {waboroko}
+[Transformed]
+wabo	-->	WP (Total 2 symbols)
+
+root (Lokono)
+Seen as: ə=kəɾa / =kəɾa {ukura / =kura}
+[Transformed]
+kəɾa	-->	KR (Total 2 symbols)
+kəɾa	-->	KR (Total 2 symbols)
+kura}	-->	KR (Total 2 symbols)
+
+round (Lokono)
+Seen as: balalã-ŋ {balalan}
+[Transformed]
+balalã	-->	PLL (Total 3 symbols)
+
+sand (Lokono)
+Seen as: motʰoko {mothoko}
+[Transformed]
+motʰoko	-->	MTK (Total 3 symbols)
+
+say (Lokono)
+Seen as: dʸã-ŋ ~ a=dʸã-ŋ ~ ə=dʸã-ŋ {dian ~ adian ~ udian}
+[Transformed]
+dʸã	-->	TH (Total 2 symbols)
+dʸã	-->	TH (Total 2 symbols)
+dʸã	-->	TH (Total 2 symbols)
+adian	-->	HTN (Total 3 symbols)
+udian}	-->	HTN (Total 3 symbols)
+
+see (Lokono)
+Seen as: dəkʰ-ŋ {dukhun}
+[Transformed]
+dəkʰ	-->	TK (Total 2 symbols)
+
+seed (Lokono)
+Seen as: iwi {iwi}
+[Transformed]
+iwi	-->	HH (Total 2 symbols)
+
+sit (Lokono)
+Seen as: bala-k-oã-ŋ {balakoan}
+[Transformed]
+bala	-->	PL (Total 2 symbols)
+
+skin (Lokono)
+Seen as: ə=da / =da {uda / =da}
+[Transformed]
+da	-->	TH (Total 2 symbols)
+da	-->	TH (Total 2 symbols)
+da}	-->	TH (Total 2 symbols)
+
+sleep (Lokono)
+Seen as: dõŋkõ-ŋ {donkon}
+[Transformed]
+dõŋkõ	-->	TNK (Total 3 symbols)
+
+small (Lokono)
+Seen as: šokõ-ŋ {shokon}; ibĩ-ŋ {ibin}
+[Transformed]
+šokõ	-->	SK (Total 2 symbols)
+ibĩ	-->	HP (Total 2 symbols)
+
+smoke (Lokono)
+Seen as: koɽe-li {korheli}
+[Transformed]
+koɽe	-->	KR (Total 2 symbols)
+
+stand (Lokono)
+Seen as: dʸiman-ŋ ~ dʸinam-ŋ ~ dʸinab-ŋ {dimanyn ~ dinamyn ~ dinabyn}
+[Transformed]
+dʸiman	-->	TMN (Total 3 symbols)
+dʸinam	-->	TNM (Total 3 symbols)
+dʸinab	-->	TNP (Total 3 symbols)
+dinamyn	-->	TNMN (Total 4 symbols)
+dinabyn}	-->	TNPN (Total 4 symbols)
+
+star (Lokono)
+Seen as: wiwa ~ iwa {wiwa ~ iwa}
+[Transformed]
+wiwa	-->	WH (Total 2 symbols)
+iwa	-->	HH (Total 2 symbols)
+iwa}	-->	HH (Total 2 symbols)
+
+stone (Lokono)
+Seen as: šiba {shiba}; kədə-ɾo {kuduro}
+[Transformed]
+šiba	-->	SP (Total 2 symbols)
+kədə	-->	KT (Total 2 symbols)
+
+sun (Lokono)
+Seen as: hada-li ~ ada-li {hadali ~ adali}
+[Transformed]
+hada	-->	HT (Total 2 symbols)
+ada	-->	HT (Total 2 symbols)
+adali}	-->	HTL (Total 3 symbols)
+
+swim (Lokono)
+Seen as: tʸim-ŋ ~ tʸimĩ-ŋ {timun ~ timin}
+[Transformed]
+tʸim	-->	TM (Total 2 symbols)
+tʸimĩ	-->	TM (Total 2 symbols)
+timin}	-->	TMN (Total 3 symbols)
+
+tail (Lokono)
+Seen as: =ihi-toko ~ =iː-toko ~ =ihi-doyo ~ =iː-doyo {=ihitoko ~ =îtoko ~ =ihidoyo ~ =îdoyo}
+[Transformed]
+ihi	-->	HH (Total 2 symbols)
+iː	-->	HH (Total 2 symbols)
+ihi	-->	HH (Total 2 symbols)
+iː	-->	HH (Total 2 symbols)
+îtoko	-->	HTK (Total 3 symbols)
+ihidoyo	-->	HT (Total 2 symbols)
+îdoyo}	-->	HT (Total 2 symbols)
+
+that (Lokono)
+Seen as: li=ɾa / to=ɾa / na=ɾa {lira / tora / nara}; li=kita / to=kota ~ tə=kəta / na=kəta {likita / tokota ~ tukuta / nakuta}; li=ɾabo / tə=ɾabo / na=ɾabo {lirabo / turabo / narabo}
+[Transformed]
+ɾa	-->	RH (Total 2 symbols)
+ɾa	-->	RH (Total 2 symbols)
+ɾa	-->	RH (Total 2 symbols)
+tora	-->	TR (Total 2 symbols)
+nara}	-->	NR (Total 2 symbols)
+kita	-->	KT (Total 2 symbols)
+kəta	-->	KT (Total 2 symbols)
+tukuta	-->	TKT (Total 3 symbols)
+ɾabo	-->	RP (Total 2 symbols)
+ɾabo	-->	RP (Total 2 symbols)
+ɾabo	-->	RP (Total 2 symbols)
+turabo	-->	TRP (Total 3 symbols)
+narabo}	-->	NRP (Total 3 symbols)
+
+this (Lokono)
+Seen as: li {li}; to {to}; na {na}
+[Transformed]
+li	-->	LH (Total 2 symbols)
+to	-->	TH (Total 2 symbols)
+na	-->	NH (Total 2 symbols)
+
+thou (Lokono)
+Seen as: bə-i ~ bi-ː {bui ~ bî}
+[Transformed]
+bə	-->	PH (Total 2 symbols)
+bi	-->	PH (Total 2 symbols)
+bî}	-->	PH (Total 2 symbols)
+
+tongue (Lokono)
+Seen as: ə=yeː / =yeː {uyê / =yê}
+[Transformed]
+yeː	-->	YH (Total 2 symbols)
+yeː	-->	YH (Total 2 symbols)
+yê}	-->	YH (Total 2 symbols)
+
+tooth (Lokono)
+Seen as: =aɾi {=ari}
+[Transformed]
+aɾi	-->	HR (Total 2 symbols)
+
+tree (Lokono)
+Seen as: ada {ada}
+[Transformed]
+ada	-->	HT (Total 2 symbols)
+
+two (Lokono)
+Seen as: biama {biama}
+[Transformed]
+biama	-->	PM (Total 2 symbols)
+
+walk (go) (Lokono)
+Seen as: oːs-ŋ {ôsun}
+[Transformed]
+oːs	-->	HS (Total 2 symbols)
+
+warm (hot) (Lokono)
+Seen as: tʰeɾẽ-ŋ {theren}; weɾebẽ-ŋ {wereben}
+[Transformed]
+tʰeɾẽ	-->	TR (Total 2 symbols)
+weɾebẽ	-->	WRP (Total 3 symbols)
+
+water (Lokono)
+Seen as: uni-abo ~ ini-abo {oniabo ~ iniabo}
+[Transformed]
+uni	-->	HN (Total 2 symbols)
+ini	-->	HN (Total 2 symbols)
+iniabo}	-->	HNP (Total 3 symbols)
+
+we (Lokono)
+Seen as: wei ~ we {wei ~ we}
+[Transformed]
+wei	-->	WH (Total 2 symbols)
+we	-->	WH (Total 2 symbols)
+we}	-->	WH (Total 2 symbols)
+
+what (Lokono)
+Seen as: hamaː ~ ama {hamâ ~ ama}
+[Transformed]
+hamaː	-->	HM (Total 2 symbols)
+ama	-->	HM (Total 2 symbols)
+ama}	-->	HM (Total 2 symbols)
+
+white (Lokono)
+Seen as: haɽiɾã-ŋ {harhiran}
+[Transformed]
+haɽiɾã	-->	HRR (Total 3 symbols)
+
+who (Lokono)
+Seen as: hali-kã-ŋ / hali-ka-i / hali-ka-ye ~ ali-kã-ŋ / ali-ka-i / ali-ka-ye {halikan / halikai / halikaye ~ alikan / alikai / alikaye}
+[Transformed]
+hali	-->	HL (Total 2 symbols)
+ali	-->	HL (Total 2 symbols)
+alikan	-->	HLKN (Total 4 symbols)
+
+woman (Lokono)
+Seen as: hiya-ɾo {hiyaro}
+[Transformed]
+hiya	-->	HH (Total 2 symbols)
+
+yellow (Lokono)
+Seen as: hehẽ-ŋ {hehen}; sobolẽ-ŋ {sobolen}
+[Transformed]
+hehẽ	-->	HH (Total 2 symbols)
+sobolẽ	-->	SPL (Total 3 symbols)
+
+far (Lokono)
+Seen as: tahã-ŋ ~ taː {tahan ~ tâ}
+[Transformed]
+tahã	-->	TH (Total 2 symbols)
+taː	-->	TH (Total 2 symbols)
+tâ}	-->	TH (Total 2 symbols)
+
+heavy (Lokono)
+Seen as: kəd-ŋ {kudun}
+[Transformed]
+kəd	-->	KT (Total 2 symbols)
+
+near (Lokono)
+Seen as: həmənĩ-ŋ {humunin}
+[Transformed]
+həmənĩ	-->	HMN (Total 3 symbols)
+
+salt (Lokono)
+Seen as: kʰaba {khaba}
+[Transformed]
+kʰaba	-->	KP (Total 2 symbols)
+
+short (Lokono)
+Seen as: ma=wadʸĩ-ŋ {mawadin}
+[Transformed]
+wadʸĩ	-->	WT (Total 2 symbols)
+
+snake (Lokono)
+Seen as: uɾi {ori}
+[Transformed]
+uɾi	-->	HR (Total 2 symbols)
+
+thin (Lokono)
+Seen as: uɽidã-ŋ {orhidan}
+[Transformed]
+uɽidã	-->	HRT (Total 3 symbols)
+
+wind (Lokono)
+Seen as: awaduli {awadoli}
+[Transformed]
+awaduli	-->	HTL (Total 3 symbols)
+
+worm (Lokono)
+Seen as: ə=se / =se {use / =se}
+[Transformed]
+se	-->	SH (Total 2 symbols)
+se	-->	SH (Total 2 symbols)
+se}	-->	SH (Total 2 symbols)
+
+year (Lokono)
+Seen as: iwa ~ hiwa ~ wiwa {iwa ~ hiwa ~ wiwa}
+[Transformed]
+iwa	-->	HH (Total 2 symbols)
+hiwa	-->	HH (Total 2 symbols)
+wiwa	-->	WH (Total 2 symbols)
+hiwa	-->	HH (Total 2 symbols)
+wiwa}	-->	WH (Total 2 symbols)
+

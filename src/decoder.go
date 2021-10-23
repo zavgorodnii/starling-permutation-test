@@ -179,13 +179,14 @@ func (d *SoundClassesDecoder) Decode(listsPath string, selected map[string]bool)
 				continue
 			}
 
-			var clean, decoded, broomed = d.decodeForm(form)
+			var clean, decoded, broomed, withoutbrackets = d.decodeForm(form)
 			if !ignoreForm {
 				lastWord := groupToWordlist[groupName].List[len(groupToWordlist[groupName].List)-1]
 				lastWord.Forms = append(lastWord.Forms, form)
 				lastWord.CleanForms = append(lastWord.CleanForms, clean...)
 				lastWord.DecodedForms = append(lastWord.DecodedForms, decoded...)
 				lastWord.BroomedSymbols = append(lastWord.BroomedSymbols, broomed...)
+				lastWord.WithoutBrackets = append(lastWord.WithoutBrackets, withoutbrackets...)
 			}
 
 			if skipColumn {
@@ -206,21 +207,24 @@ func (d *SoundClassesDecoder) Decode(listsPath string, selected map[string]bool)
 	return out, nil
 }
 
-func (d *SoundClassesDecoder) decodeForm(form string) (clean []string, decoded []string, broomed []string) {
+func (d *SoundClassesDecoder) decodeForm(form string) (clean []string, decoded []string, broomed []string, withoutbrackets []string) {
 	r, _ := regexp.Compile("\\{.*?\\}|\\(.*?\\)")
 	form = r.ReplaceAllString(form, "")
 	b, _ := regexp.Compile("[^ !\\-,=/#~"+IPAS+"]")
 	broomed = b.FindAllString(form, -1)
-	form = b.ReplaceAllString(form, "")
 
 	form = strings.Replace(form, "*", "", -1)
-// ## 205-207 modified by D. Krylov, 2021
 
 	if strings.Contains(form, "~") {
+		withoutbrackets = append(withoutbrackets, strings.Split(form, "~")...)
+		form = b.ReplaceAllString(form, "")
 		clean = append(clean, strings.Split(form, "~")...)
 	} else if strings.Contains(form, "/") {
+		withoutbrackets = append(withoutbrackets, strings.Split(form, "/")...)
+		form = b.ReplaceAllString(form, "")
 		clean = append(clean, strings.Split(form, "/")...)
 	} else {
+		withoutbrackets = append(withoutbrackets, form)
 		clean = append(clean, form)
 	}
 
@@ -266,7 +270,7 @@ func (d *SoundClassesDecoder) decodeForm(form string) (clean []string, decoded [
 
 	}
 
-	return clean, decoded, broomed
+	return clean, decoded, broomed, withoutbrackets
 }
 
 func (d SoundClassesDecoder) cleanseForm(form string) (out string) {

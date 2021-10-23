@@ -1,0 +1,551 @@
+all (Qiandong)
+Seen as: sɛ4
+[Transformed]
+sɛ4	-->	SH (Total 2 symbols)
+
+ashes (Qiandong)
+Seen as: ʆʰu3
+[Transformed]
+ʆʰu3	-->	SH (Total 2 symbols)
+
+bark (Qiandong)
+Seen as: qa1=liu5-təu5
+[Transformed]
+liu5	-->	LH (Total 2 symbols)
+
+belly (Qiandong)
+Seen as: ɕʰu1
+[Transformed]
+ɕʰu1	-->	CH (Total 2 symbols)
+
+big (Qiandong)
+Seen as: ʰiə1
+[Transformed]
+ʰiə1	-->	 (Total 0 symbols)
+
+bird (Qiandong)
+Seen as: nəu6
+[Transformed]
+nəu6	-->	NH (Total 2 symbols)
+
+bite (Qiandong)
+Seen as: tə8
+[Transformed]
+tə8	-->	TH (Total 2 symbols)
+
+black (Qiandong)
+Seen as: ɬɛ1
+[Transformed]
+ɬɛ1	-->	LH (Total 2 symbols)
+
+blood (Qiandong)
+Seen as: ʃʰaŋ3
+[Transformed]
+ʃʰaŋ3	-->	NH (Total 2 symbols)
+
+bone (Qiandong)
+Seen as: po3=sʰoŋ3
+[Transformed]
+sʰoŋ3	-->	SN (Total 2 symbols)
+
+breast (Qiandong)
+Seen as: kaŋ1-kəu7
+[Transformed]
+kaŋ1	-->	KN (Total 2 symbols)
+
+burn tr. (Qiandong)
+Seen as: tio3
+[Transformed]
+tio3	-->	TH (Total 2 symbols)
+
+claw(nail) (Qiandong)
+Seen as: ken5
+[Transformed]
+ken5	-->	KN (Total 2 symbols)
+
+cloud (Qiandong)
+Seen as: ten5=en5
+[Transformed]
+en5	-->	HN (Total 2 symbols)
+
+cold (Qiandong)
+Seen as: sei4
+[Transformed]
+sei4	-->	SH (Total 2 symbols)
+
+come (Qiandong)
+Seen as: ta2
+[Transformed]
+ta2	-->	TH (Total 2 symbols)
+
+die (Qiandong)
+Seen as: ta6
+[Transformed]
+ta6	-->	TH (Total 2 symbols)
+
+dog (Qiandong)
+Seen as: ɬa3
+[Transformed]
+ɬa3	-->	LH (Total 2 symbols)
+
+drink (Qiandong)
+Seen as: həu7
+[Transformed]
+həu7	-->	HH (Total 2 symbols)
+
+dry (Qiandong)
+Seen as: ŋa6
+[Transformed]
+ŋa6	-->	NH (Total 2 symbols)
+
+ear (Qiandong)
+Seen as: nɛ2
+[Transformed]
+nɛ2	-->	NH (Total 2 symbols)
+
+earth (Qiandong)
+Seen as: ta1
+[Transformed]
+ta1	-->	TH (Total 2 symbols)
+
+eat (Qiandong)
+Seen as: noŋ2
+[Transformed]
+noŋ2	-->	NN (Total 2 symbols)
+
+egg (Qiandong)
+Seen as: ki5
+[Transformed]
+ki5	-->	KH (Total 2 symbols)
+
+eye (Qiandong)
+Seen as: mɛ6
+[Transformed]
+mɛ6	-->	MH (Total 2 symbols)
+
+fat n. (Qiandong)
+Seen as: 
+[Transformed]
+
+
+feather (Qiandong)
+Seen as: ɬiu1-nəu6
+[Transformed]
+ɬiu1	-->	LH (Total 2 symbols)
+
+fire (Qiandong)
+Seen as: tu4
+[Transformed]
+tu4	-->	TH (Total 2 symbols)
+
+fish (Qiandong)
+Seen as: nəu8
+[Transformed]
+nəu8	-->	NH (Total 2 symbols)
+
+fly v. (Qiandong)
+Seen as: ʑaŋ5
+[Transformed]
+ʑaŋ5	-->	SN (Total 2 symbols)
+
+foot (Qiandong)
+Seen as: lo1
+[Transformed]
+lo1	-->	LH (Total 2 symbols)
+
+full (Qiandong)
+Seen as: pɛ3
+[Transformed]
+pɛ3	-->	PH (Total 2 symbols)
+
+give (Qiandong)
+Seen as: pɛ1
+[Transformed]
+pɛ1	-->	PH (Total 2 symbols)
+
+good (Qiandong)
+Seen as: ɣu5
+[Transformed]
+ɣu5	-->	KH (Total 2 symbols)
+
+green (Qiandong)
+Seen as: niu4
+[Transformed]
+niu4	-->	NH (Total 2 symbols)
+
+hair (Qiandong)
+Seen as: ɬiu1-fʰu3
+[Transformed]
+ɬiu1	-->	LH (Total 2 symbols)
+
+hand (Qiandong)
+Seen as: pi4
+[Transformed]
+pi4	-->	PH (Total 2 symbols)
+
+head (Qiandong)
+Seen as: qʰo1
+[Transformed]
+qʰo1	-->	KH (Total 2 symbols)
+
+hear (Qiandong)
+Seen as: coŋ1-nɛ2
+[Transformed]
+coŋ1	-->	CN (Total 2 symbols)
+
+heart (Qiandong)
+Seen as: ɬiu3
+[Transformed]
+ɬiu3	-->	LH (Total 2 symbols)
+
+horn (Qiandong)
+Seen as: ki1
+[Transformed]
+ki1	-->	KH (Total 2 symbols)
+
+I (Qiandong)
+Seen as: vi4
+[Transformed]
+vi4	-->	PH (Total 2 symbols)
+
+kill (Qiandong)
+Seen as: ta5
+[Transformed]
+ta5	-->	TH (Total 2 symbols)
+
+knee (Qiandong)
+Seen as: po3=qo8=ɕu6
+[Transformed]
+ɕu6	-->	CH (Total 2 symbols)
+
+know (Qiandong)
+Seen as: pu1
+[Transformed]
+pu1	-->	PH (Total 2 symbols)
+
+leaf (Qiandong)
+Seen as: qa1=nəu2
+[Transformed]
+nəu2	-->	NH (Total 2 symbols)
+
+lie (Qiandong)
+Seen as: pi5
+[Transformed]
+pi5	-->	PH (Total 2 symbols)
+
+liver (Qiandong)
+Seen as: fʰu3=nɛ6-ɕoŋ5
+[Transformed]
+nɛ6	-->	NH (Total 2 symbols)
+
+long (Qiandong)
+Seen as: ta3
+[Transformed]
+ta3	-->	TH (Total 2 symbols)
+
+louse (Qiandong)
+Seen as: kaŋ1=ɕhu3
+[Transformed]
+ɕhu3	-->	CH (Total 2 symbols)
+
+man (Qiandong)
+Seen as: tia4
+[Transformed]
+tia4	-->	TH (Total 2 symbols)
+
+many (Qiandong)
+Seen as: no5
+[Transformed]
+no5	-->	NH (Total 2 symbols)
+
+meat (Qiandong)
+Seen as: ŋi2
+[Transformed]
+ŋi2	-->	NH (Total 2 symbols)
+
+moon (Qiandong)
+Seen as: ʰa5
+[Transformed]
+ʰa5	-->	 (Total 0 symbols)
+
+mountain (Qiandong)
+Seen as: pi4
+[Transformed]
+pi4	-->	PH (Total 2 symbols)
+
+mouth (Qiandong)
+Seen as: lo5
+[Transformed]
+lo5	-->	LH (Total 2 symbols)
+
+name (Qiandong)
+Seen as: naŋ2=pi5
+[Transformed]
+pi5	-->	PH (Total 2 symbols)
+
+neck (Qiandong)
+Seen as: qa1=qoŋ3
+[Transformed]
+qoŋ3	-->	KN (Total 2 symbols)
+
+new (Qiandong)
+Seen as: xhi1
+[Transformed]
+xhi1	-->	KH (Total 2 symbols)
+
+night (Qiandong)
+Seen as: ʰaŋ5
+[Transformed]
+ʰaŋ5	-->	NH (Total 2 symbols)
+
+nose (Qiandong)
+Seen as: po3=nɛ6
+[Transformed]
+nɛ6	-->	NH (Total 2 symbols)
+
+not (Qiandong)
+Seen as: a2
+[Transformed]
+a2	-->	HH (Total 2 symbols)
+
+one (Qiandong)
+Seen as: i1
+[Transformed]
+i1	-->	HH (Total 2 symbols)
+
+person (Qiandong)
+Seen as: nɛ2
+[Transformed]
+nɛ2	-->	NH (Total 2 symbols)
+
+rain (Qiandong)
+Seen as: noŋ6
+[Transformed]
+noŋ6	-->	NN (Total 2 symbols)
+
+red (Qiandong)
+Seen as: ʃo7
+[Transformed]
+ʃo7	-->	 (Total 0 symbols)
+
+road (Qiandong)
+Seen as: ki3
+[Transformed]
+ki3	-->	KH (Total 2 symbols)
+
+root (Qiandong)
+Seen as: ɕoŋ2
+[Transformed]
+ɕoŋ2	-->	CN (Total 2 symbols)
+
+round (Qiandong)
+Seen as: ɬen2
+[Transformed]
+ɬen2	-->	LN (Total 2 symbols)
+
+sand (Qiandong)
+Seen as: qa1=sʰa5
+[Transformed]
+sʰa5	-->	SH (Total 2 symbols)
+
+say (Qiandong)
+Seen as: ho5
+[Transformed]
+ho5	-->	HH (Total 2 symbols)
+
+see (Qiandong)
+Seen as: poŋ8
+[Transformed]
+poŋ8	-->	PN (Total 2 symbols)
+
+seed (Qiandong)
+Seen as: ʰiu1
+[Transformed]
+ʰiu1	-->	 (Total 0 symbols)
+
+sit (Qiandong)
+Seen as: niaŋ1
+[Transformed]
+niaŋ1	-->	NN (Total 2 symbols)
+
+skin (Qiandong)
+Seen as: tu3
+[Transformed]
+tu3	-->	TH (Total 2 symbols)
+
+sleep (Qiandong)
+Seen as: pi5
+[Transformed]
+pi5	-->	PH (Total 2 symbols)
+
+small (Qiandong)
+Seen as: ʑu5
+[Transformed]
+ʑu5	-->	SH (Total 2 symbols)
+
+smoke (Qiandong)
+Seen as: əu1=i1
+[Transformed]
+i1	-->	HH (Total 2 symbols)
+
+stand (Qiandong)
+Seen as: ʃʰu3
+[Transformed]
+ʃʰu3	-->	 (Total 0 symbols)
+
+star (Qiandong)
+Seen as: tɛ1=qɛ1
+[Transformed]
+qɛ1	-->	KH (Total 2 symbols)
+
+stone (Qiandong)
+Seen as: po3=ɣi1
+[Transformed]
+ɣi1	-->	KH (Total 2 symbols)
+
+sun (Qiandong)
+Seen as: ʰɛ1
+[Transformed]
+ʰɛ1	-->	 (Total 0 symbols)
+
+swim (Qiandong)
+Seen as: loŋ3-əu1
+[Transformed]
+loŋ3	-->	LN (Total 2 symbols)
+
+tail (Qiandong)
+Seen as: qa1=tɛ3
+[Transformed]
+tɛ3	-->	TH (Total 2 symbols)
+
+that (Qiandong)
+Seen as: i3; nen3
+[Transformed]
+i3	-->	HH (Total 2 symbols)
+nen3	-->	NN (Total 2 symbols)
+
+this (Qiandong)
+Seen as: noŋ3
+[Transformed]
+noŋ3	-->	NN (Total 2 symbols)
+
+thou (Qiandong)
+Seen as: moŋ2
+[Transformed]
+moŋ2	-->	MN (Total 2 symbols)
+
+tongue (Qiandong)
+Seen as: ni8
+[Transformed]
+ni8	-->	NH (Total 2 symbols)
+
+tooth (Qiandong)
+Seen as: ʰi3
+[Transformed]
+ʰi3	-->	 (Total 0 symbols)
+
+tree (Qiandong)
+Seen as: təu5
+[Transformed]
+təu5	-->	TH (Total 2 symbols)
+
+two (Qiandong)
+Seen as: o1
+[Transformed]
+o1	-->	HH (Total 2 symbols)
+
+walk (go) (Qiandong)
+Seen as: moŋ4
+[Transformed]
+moŋ4	-->	MN (Total 2 symbols)
+
+warm (hot) (Qiandong)
+Seen as: ʃʰəu3
+[Transformed]
+ʃʰəu3	-->	 (Total 0 symbols)
+
+water (Qiandong)
+Seen as: əu1
+[Transformed]
+əu1	-->	HH (Total 2 symbols)
+
+we (Qiandong)
+Seen as: pi1
+[Transformed]
+pi1	-->	PH (Total 2 symbols)
+
+what (Qiandong)
+Seen as: qei2=ʃi3
+[Transformed]
+ʃi3	-->	 (Total 0 symbols)
+
+white (Qiandong)
+Seen as: ɬu1
+[Transformed]
+ɬu1	-->	LH (Total 2 symbols)
+
+who (Qiandong)
+Seen as: tɛ4=ʃi3
+[Transformed]
+ʃi3	-->	 (Total 0 symbols)
+
+woman (Qiandong)
+Seen as: a3
+[Transformed]
+a3	-->	HH (Total 2 symbols)
+
+yellow (Qiandong)
+Seen as: faŋ2
+[Transformed]
+faŋ2	-->	PN (Total 2 symbols)
+
+far (Qiandong)
+Seen as: to4
+[Transformed]
+to4	-->	TH (Total 2 symbols)
+
+heavy (Qiandong)
+Seen as: ʰioŋ3
+[Transformed]
+ʰioŋ3	-->	NH (Total 2 symbols)
+
+near (Qiandong)
+Seen as: ɣi5
+[Transformed]
+ɣi5	-->	KH (Total 2 symbols)
+
+salt (Qiandong)
+Seen as: ʃi3
+[Transformed]
+ʃi3	-->	 (Total 0 symbols)
+
+short (Qiandong)
+Seen as: lɛ3
+[Transformed]
+lɛ3	-->	LH (Total 2 symbols)
+
+snake (Qiandong)
+Seen as: naŋ1
+[Transformed]
+naŋ1	-->	NN (Total 2 symbols)
+
+thin (Qiandong)
+Seen as: 
+[Transformed]
+
+
+wind (Qiandong)
+Seen as: ɕen5
+[Transformed]
+ɕen5	-->	CN (Total 2 symbols)
+
+worm (Qiandong)
+Seen as: kaŋ1
+[Transformed]
+kaŋ1	-->	KN (Total 2 symbols)
+
+year (Qiandong)
+Seen as: ʰiu5
+[Transformed]
+ʰiu5	-->	 (Total 0 symbols)
+

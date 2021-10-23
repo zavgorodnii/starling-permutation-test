@@ -1,0 +1,562 @@
+all (Kurux)
+Seen as: orm-aː ~ horm-aː
+[Transformed]
+orm	-->	HRM (Total 3 symbols)
+horm	-->	HRM (Total 3 symbols)
+
+ashes (Kurux)
+Seen as: čind
+[Transformed]
+čind	-->	CNT (Total 3 symbols)
+
+bark (Kurux)
+Seen as: oɽŏk ~ oɽok ~ oɽox
+[Transformed]
+oɽŏk	-->	HRK (Total 3 symbols)
+oɽok	-->	HRK (Total 3 symbols)
+oɽox	-->	HRK (Total 3 symbols)
+
+belly (Kurux)
+Seen as: kuːl
+[Transformed]
+kuːl	-->	KL (Total 2 symbols)
+
+big (Kurux)
+Seen as: koːhaː
+[Transformed]
+koːhaː	-->	KH (Total 2 symbols)
+
+bird (Kurux)
+Seen as: oːɽ-aː
+[Transformed]
+oːɽ	-->	HR (Total 2 symbols)
+
+bite (Kurux)
+Seen as: parăm-naː
+[Transformed]
+parăm	-->	PRM (Total 3 symbols)
+
+black (Kurux)
+Seen as: moːxaː-roː
+[Transformed]
+moːxaː	-->	MK (Total 2 symbols)
+
+blood (Kurux)
+Seen as: xẽːs
+[Transformed]
+xẽːs	-->	KS (Total 2 symbols)
+
+bone (Kurux)
+Seen as: xoːčol
+[Transformed]
+xoːčol	-->	KCL (Total 3 symbols)
+
+breast (Kurux)
+Seen as: eõːx
+[Transformed]
+eõːx	-->	HK (Total 2 symbols)
+
+burn tr. (Kurux)
+Seen as: ol-ŏd-naː
+[Transformed]
+ol	-->	HL (Total 2 symbols)
+
+claw(nail) (Kurux)
+Seen as: oɽŏx
+[Transformed]
+oɽŏx	-->	HRK (Total 3 symbols)
+
+cloud (Kurux)
+Seen as: 
+[Transformed]
+
+
+cold (Kurux)
+Seen as: kiːr-naː
+[Transformed]
+kiːr	-->	KR (Total 2 symbols)
+
+come (Kurux)
+Seen as: bar-naː
+[Transformed]
+bar	-->	PR (Total 2 symbols)
+
+die (Kurux)
+Seen as: kʰeːʔe-naː
+[Transformed]
+kʰeːʔe	-->	KH (Total 2 symbols)
+
+dog (Kurux)
+Seen as: all-aː
+[Transformed]
+all	-->	HLL (Total 3 symbols)
+
+drink (Kurux)
+Seen as: oːn-naː
+[Transformed]
+oːn	-->	HN (Total 2 symbols)
+
+dry (Kurux)
+Seen as: xay-kaː
+[Transformed]
+xay	-->	KH (Total 2 symbols)
+
+ear (Kurux)
+Seen as: xebd-aː
+[Transformed]
+xebd	-->	KPT (Total 3 symbols)
+
+earth (Kurux)
+Seen as: xaǯǯ
+[Transformed]
+xaǯǯ	-->	KCC (Total 3 symbols)
+
+eat (Kurux)
+Seen as: moːx-naː
+[Transformed]
+moːx	-->	MK (Total 2 symbols)
+
+egg (Kurux)
+Seen as: 
+[Transformed]
+
+
+eye (Kurux)
+Seen as: xann
+[Transformed]
+xann	-->	KNN (Total 3 symbols)
+
+fat n. (Kurux)
+Seen as: nẽːt-aː
+[Transformed]
+nẽːt	-->	NT (Total 2 symbols)
+
+feather (Kurux)
+Seen as: 
+[Transformed]
+
+
+fire (Kurux)
+Seen as: čičč
+[Transformed]
+čičč	-->	CCC (Total 3 symbols)
+
+fish (Kurux)
+Seen as: iɲǯ-oː
+[Transformed]
+iɲǯ	-->	HNC (Total 3 symbols)
+
+fly v. (Kurux)
+Seen as: 
+[Transformed]
+
+
+foot (Kurux)
+Seen as: xeɖɖ
+[Transformed]
+xeɖɖ	-->	KTT (Total 3 symbols)
+
+full (Kurux)
+Seen as: niːnd-naː
+[Transformed]
+niːnd	-->	NNT (Total 3 symbols)
+
+give (Kurux)
+Seen as: čiʔi-naː
+[Transformed]
+čiʔi	-->	CH (Total 2 symbols)
+
+good (Kurux)
+Seen as: koːɽeː
+[Transformed]
+koːɽeː	-->	KR (Total 2 symbols)
+
+green (Kurux)
+Seen as: 
+[Transformed]
+
+
+hair (Kurux)
+Seen as: čuṭṭiː
+[Transformed]
+čuṭṭiː	-->	CTT (Total 3 symbols)
+
+hand (Kurux)
+Seen as: xekkʰ-aː
+[Transformed]
+xekkʰ	-->	KKK (Total 3 symbols)
+
+head (Kurux)
+Seen as: kukk
+[Transformed]
+kukk	-->	KKK (Total 3 symbols)
+
+hear (Kurux)
+Seen as: men-naː
+[Transformed]
+men	-->	MN (Total 2 symbols)
+
+heart (Kurux)
+Seen as: buk-aː
+[Transformed]
+buk	-->	PK (Total 2 symbols)
+
+horn (Kurux)
+Seen as: marăg
+[Transformed]
+marăg	-->	MRK (Total 3 symbols)
+
+I (Kurux)
+Seen as: eːn
+[Transformed]
+eːn	-->	HN (Total 2 symbols)
+
+kill (Kurux)
+Seen as: piʈ-naː
+[Transformed]
+piʈ	-->	PT (Total 2 symbols)
+
+knee (Kurux)
+Seen as: muːk-aː ~ mũːk-aː
+[Transformed]
+muːk	-->	MK (Total 2 symbols)
+mũːk	-->	MK (Total 2 symbols)
+
+know (Kurux)
+Seen as: ax-naː
+[Transformed]
+ax	-->	HK (Total 2 symbols)
+
+leaf (Kurux)
+Seen as: aʈx-aː
+[Transformed]
+aʈx	-->	HTK (Total 3 symbols)
+
+lie (Kurux)
+Seen as: beɖ-r-naː
+[Transformed]
+beɖ	-->	PT (Total 2 symbols)
+
+liver (Kurux)
+Seen as: 
+[Transformed]
+
+
+long (Kurux)
+Seen as: 
+[Transformed]
+
+
+louse (Kurux)
+Seen as: pẽːn
+[Transformed]
+pẽːn	-->	PN (Total 2 symbols)
+
+man (Kurux)
+Seen as: meːt ~ mẽːt
+[Transformed]
+meːt	-->	MT (Total 2 symbols)
+mẽːt	-->	MT (Total 2 symbols)
+
+many (Kurux)
+Seen as: baggeː ~ baggiː
+[Transformed]
+baggeː	-->	PKK (Total 3 symbols)
+baggiː	-->	PKK (Total 3 symbols)
+
+meat (Kurux)
+Seen as: ahɽ-aː
+[Transformed]
+ahɽ	-->	HR (Total 2 symbols)
+
+moon (Kurux)
+Seen as: 
+[Transformed]
+
+
+mountain (Kurux)
+Seen as: part-aː
+[Transformed]
+part	-->	PRT (Total 3 symbols)
+
+mouth (Kurux)
+Seen as: baiː
+[Transformed]
+baiː	-->	PH (Total 2 symbols)
+
+name (Kurux)
+Seen as: 
+[Transformed]
+
+
+neck (Kurux)
+Seen as: xeːsĕr
+[Transformed]
+xeːsĕr	-->	KSR (Total 3 symbols)
+
+new (Kurux)
+Seen as: pun-aː
+[Transformed]
+pun	-->	PN (Total 2 symbols)
+
+night (Kurux)
+Seen as: maːx-aː
+[Transformed]
+maːx	-->	MK (Total 2 symbols)
+
+nose (Kurux)
+Seen as: muĩː
+[Transformed]
+muĩː	-->	MH (Total 2 symbols)
+
+not (Kurux)
+Seen as: mal ~ malaː
+[Transformed]
+mal	-->	ML (Total 2 symbols)
+malaː	-->	ML (Total 2 symbols)
+
+one (Kurux)
+Seen as: oː-nd ~ oː-n
+[Transformed]
+oː	-->	HH (Total 2 symbols)
+oː	-->	HH (Total 2 symbols)
+
+person (Kurux)
+Seen as: aːl-as
+[Transformed]
+aːl	-->	HL (Total 2 symbols)
+
+rain (Kurux)
+Seen as: čẽːp
+[Transformed]
+čẽːp	-->	CP (Total 2 symbols)
+
+red (Kurux)
+Seen as: xẽːs-o
+[Transformed]
+xẽːs	-->	KS (Total 2 symbols)
+
+road (Kurux)
+Seen as: 
+[Transformed]
+
+
+root (Kurux)
+Seen as: paːd-aː
+[Transformed]
+paːd	-->	PT (Total 2 symbols)
+
+round (Kurux)
+Seen as: 
+[Transformed]
+
+
+sand (Kurux)
+Seen as: čalkur
+[Transformed]
+čalkur	-->	CLKR (Total 4 symbols)
+
+say (Kurux)
+Seen as: aːn-naː
+[Transformed]
+aːn	-->	HN (Total 2 symbols)
+
+see (Kurux)
+Seen as: eːr-naː
+[Transformed]
+eːr	-->	HR (Total 2 symbols)
+
+seed (Kurux)
+Seen as: 
+[Transformed]
+
+
+sit (Kurux)
+Seen as: okk-naː
+[Transformed]
+okk	-->	HKK (Total 3 symbols)
+
+skin (Kurux)
+Seen as: 
+[Transformed]
+
+
+sleep (Kurux)
+Seen as: xand-r-naː
+[Transformed]
+xand	-->	KNT (Total 3 symbols)
+
+small (Kurux)
+Seen as: sanniː
+[Transformed]
+sanniː	-->	SNN (Total 3 symbols)
+
+smoke (Kurux)
+Seen as: moːǯx-aː ~ moːsg-aː
+[Transformed]
+moːǯx	-->	MCK (Total 3 symbols)
+moːsg	-->	MSK (Total 3 symbols)
+
+stand (Kurux)
+Seen as: iǯ-naː
+[Transformed]
+iǯ	-->	HC (Total 2 symbols)
+
+star (Kurux)
+Seen as: biːnk-oː
+[Transformed]
+biːnk	-->	PNK (Total 3 symbols)
+
+stone (Kurux)
+Seen as: pakʰn-aː
+[Transformed]
+pakʰn	-->	PKN (Total 3 symbols)
+
+sun (Kurux)
+Seen as: biːɽ-iː
+[Transformed]
+biːɽ	-->	PR (Total 2 symbols)
+
+swim (Kurux)
+Seen as: oːg-naː
+[Transformed]
+oːg	-->	HK (Total 2 symbols)
+
+tail (Kurux)
+Seen as: xol-aː
+[Transformed]
+xol	-->	KL (Total 2 symbols)
+
+that (Kurux)
+Seen as: aː; huː
+[Transformed]
+aː	-->	HH (Total 2 symbols)
+huː	-->	HH (Total 2 symbols)
+
+this (Kurux)
+Seen as: iː
+[Transformed]
+iː	-->	HH (Total 2 symbols)
+
+thou (Kurux)
+Seen as: niːn
+[Transformed]
+niːn	-->	NN (Total 2 symbols)
+
+tongue (Kurux)
+Seen as: tatx-aː
+[Transformed]
+tatx	-->	TTK (Total 3 symbols)
+
+tooth (Kurux)
+Seen as: pall
+[Transformed]
+pall	-->	PLL (Total 3 symbols)
+
+tree (Kurux)
+Seen as: mann
+[Transformed]
+mann	-->	MNN (Total 3 symbols)
+
+two (Kurux)
+Seen as: eː-ṇḍ ~ ẽː-ɽ
+[Transformed]
+eː	-->	HH (Total 2 symbols)
+ẽː	-->	HH (Total 2 symbols)
+
+walk (go) (Kurux)
+Seen as: kaː-naː
+[Transformed]
+kaː	-->	KH (Total 2 symbols)
+
+warm (hot) (Kurux)
+Seen as: kuɽ-naː
+[Transformed]
+kuɽ	-->	KR (Total 2 symbols)
+
+water (Kurux)
+Seen as: amm
+[Transformed]
+amm	-->	HMM (Total 3 symbols)
+
+we (Kurux)
+Seen as: eːm; naːm
+[Transformed]
+eːm	-->	HM (Total 2 symbols)
+naːm	-->	NM (Total 2 symbols)
+
+what (Kurux)
+Seen as: endĕr
+[Transformed]
+endĕr	-->	HNTR (Total 4 symbols)
+
+white (Kurux)
+Seen as: 
+[Transformed]
+
+
+who (Kurux)
+Seen as: neː
+[Transformed]
+neː	-->	NH (Total 2 symbols)
+
+woman (Kurux)
+Seen as: mukk-aː
+[Transformed]
+mukk	-->	MKK (Total 3 symbols)
+
+yellow (Kurux)
+Seen as: baːlk-aː
+[Transformed]
+baːlk	-->	PLK (Total 3 symbols)
+
+far (Kurux)
+Seen as: geččʰ-aː
+[Transformed]
+geččʰ	-->	KCC (Total 3 symbols)
+
+heavy (Kurux)
+Seen as: ottʰ-aː
+[Transformed]
+ottʰ	-->	HTT (Total 3 symbols)
+
+near (Kurux)
+Seen as: hedde-ntaː
+[Transformed]
+hedde	-->	HTT (Total 3 symbols)
+
+salt (Kurux)
+Seen as: beːk
+[Transformed]
+beːk	-->	PK (Total 2 symbols)
+
+short (Kurux)
+Seen as: puɖɖ-aː
+[Transformed]
+puɖɖ	-->	PTT (Total 3 symbols)
+
+snake (Kurux)
+Seen as: nerr
+[Transformed]
+nerr	-->	NRR (Total 3 symbols)
+
+thin (Kurux)
+Seen as: 
+[Transformed]
+
+
+wind (Kurux)
+Seen as: taːk-aː
+[Transformed]
+taːk	-->	TK (Total 2 symbols)
+
+worm (Kurux)
+Seen as: leɳɖ-aː
+[Transformed]
+leɳɖ	-->	LNT (Total 3 symbols)
+
+year (Kurux)
+Seen as: čaːn
+[Transformed]
+čaːn	-->	CN (Total 2 symbols)
+

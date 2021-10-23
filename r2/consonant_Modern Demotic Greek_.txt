@@ -1,0 +1,562 @@
+all (Modern Demotic Greek)
+Seen as: ol-o- {όλος}
+[Transformed]
+ol	-->	HL (Total 2 symbols)
+
+ashes (Modern Demotic Greek)
+Seen as: staxt-i {στάχτη}
+[Transformed]
+staxt	-->	STKT (Total 4 symbols)
+
+bark (Modern Demotic Greek)
+Seen as: fli-ó-s {φλοιός}
+[Transformed]
+fli	-->	PL (Total 2 symbols)
+
+belly (Modern Demotic Greek)
+Seen as: ȶiʎ-a {κοιλιά}
+[Transformed]
+ȶiʎ	-->	TL (Total 2 symbols)
+
+big (Modern Demotic Greek)
+Seen as: meɣal-o- {μεγάλος}
+[Transformed]
+meɣal	-->	MKL (Total 3 symbols)
+
+bird (Modern Demotic Greek)
+Seen as: pul-i {πουλί}
+[Transformed]
+pul	-->	PL (Total 2 symbols)
+
+bite (Modern Demotic Greek)
+Seen as: ðag-o-n-o {δαγκώνω}
+[Transformed]
+ðag	-->	TK (Total 2 symbols)
+
+black (Modern Demotic Greek)
+Seen as: mavr-o-s {μαύρος}
+[Transformed]
+mavr	-->	MPR (Total 3 symbols)
+
+blood (Modern Demotic Greek)
+Seen as: em-a {αίμα}
+[Transformed]
+em	-->	HM (Total 2 symbols)
+
+bone (Modern Demotic Greek)
+Seen as: kokal-o {κόκκαλο}
+[Transformed]
+kokal	-->	KKL (Total 3 symbols)
+
+breast (Modern Demotic Greek)
+Seen as: stiθ-o-s {στήθος}
+[Transformed]
+stiθ	-->	STT (Total 3 symbols)
+
+burn tr. (Modern Demotic Greek)
+Seen as: ȶe-o {καίω}
+[Transformed]
+ȶe	-->	TH (Total 2 symbols)
+
+claw (nail) (Modern Demotic Greek)
+Seen as: niẙ-i {νύχι}
+[Transformed]
+niẙ	-->	NH (Total 2 symbols)
+
+cloud (Modern Demotic Greek)
+Seen as: si=nef-o {σύννεφο}
+[Transformed]
+nef	-->	NP (Total 2 symbols)
+
+cold (Modern Demotic Greek)
+Seen as: kri-o- {κρύος}
+[Transformed]
+kri	-->	KR (Total 2 symbols)
+
+come (Modern Demotic Greek)
+Seen as: erx-o-me {έρχομαι}; irθ-a {ήρθα}
+[Transformed]
+erx	-->	HRK (Total 3 symbols)
+irθ	-->	HRT (Total 3 symbols)
+
+die (Modern Demotic Greek)
+Seen as: pe=θen-o {πεθαίνω}
+[Transformed]
+θen	-->	TN (Total 2 symbols)
+
+dog (Modern Demotic Greek)
+Seen as: sȶil-o-s {σκύλος}
+[Transformed]
+sȶil	-->	STL (Total 3 symbols)
+
+drink (Modern Demotic Greek)
+Seen as: pi-n-o {πίνω}
+[Transformed]
+pi	-->	PH (Total 2 symbols)
+
+dry (Modern Demotic Greek)
+Seen as: steɣn-o- {στεγνός}
+[Transformed]
+steɣn	-->	STKN (Total 4 symbols)
+
+ear (Modern Demotic Greek)
+Seen as: aft-i {αφτί ~ αυτί}
+[Transformed]
+aft	-->	HPT (Total 3 symbols)
+αυτί}	-->	HH (Total 2 symbols)
+
+earth (Modern Demotic Greek)
+Seen as: xoma {χώμα}
+[Transformed]
+xoma	-->	KM (Total 2 symbols)
+
+eat (Modern Demotic Greek)
+Seen as: tro-o {τρώω}; e=faɣ-a {ἔφαγα}
+[Transformed]
+tro	-->	TR (Total 2 symbols)
+faɣ	-->	PK (Total 2 symbols)
+
+egg (Modern Demotic Greek)
+Seen as: avɣ-o {αβγό ~ αυγό}
+[Transformed]
+avɣ	-->	HPK (Total 3 symbols)
+αυγό}	-->	HK (Total 2 symbols)
+
+eye (Modern Demotic Greek)
+Seen as: mat-i {μάτι}
+[Transformed]
+mat	-->	MT (Total 2 symbols)
+
+fat n. (Modern Demotic Greek)
+Seen as: lip-o-s {λίπος}
+[Transformed]
+lip	-->	LP (Total 2 symbols)
+
+feather (Modern Demotic Greek)
+Seen as: fter-o {φτερό}
+[Transformed]
+fter	-->	PTR (Total 3 symbols)
+
+fire (Modern Demotic Greek)
+Seen as: fot-y-a {φωτιά}
+[Transformed]
+fot	-->	PT (Total 2 symbols)
+
+fish (Modern Demotic Greek)
+Seen as: psar-i {ψάρι}
+[Transformed]
+psar	-->	PSR (Total 3 symbols)
+
+fly v. (Modern Demotic Greek)
+Seen as: pet-o {πετώ}
+[Transformed]
+pet	-->	PT (Total 2 symbols)
+
+foot (Modern Demotic Greek)
+Seen as: poð-i {πόδι}
+[Transformed]
+poð	-->	PT (Total 2 symbols)
+
+full (Modern Demotic Greek)
+Seen as: yem-at-o- {γεμάτος}
+[Transformed]
+yem	-->	YM (Total 2 symbols)
+
+give (Modern Demotic Greek)
+Seen as: ði-n-o {δίνω}
+[Transformed]
+ði	-->	TH (Total 2 symbols)
+
+good (Modern Demotic Greek)
+Seen as: kal-o- {καλός}
+[Transformed]
+kal	-->	KL (Total 2 symbols)
+
+green (Modern Demotic Greek)
+Seen as: pras-in-o- {πράσινος}
+[Transformed]
+pras	-->	PRS (Total 3 symbols)
+
+hair (Modern Demotic Greek)
+Seen as: maʎ-a {μαλλιά}
+[Transformed]
+maʎ	-->	ML (Total 2 symbols)
+
+hand (Modern Demotic Greek)
+Seen as: ẙer-i {χέρι}
+[Transformed]
+ẙer	-->	YR (Total 2 symbols)
+
+head (Modern Demotic Greek)
+Seen as: ȶefal-i {κεφάλι}
+[Transformed]
+ȶefal	-->	TPL (Total 3 symbols)
+
+hear (Modern Demotic Greek)
+Seen as: aku-o {ακούω}
+[Transformed]
+aku	-->	HK (Total 2 symbols)
+
+heart (Modern Demotic Greek)
+Seen as: karð-y-a {καρδιά}
+[Transformed]
+karð	-->	KRT (Total 3 symbols)
+
+horn (Modern Demotic Greek)
+Seen as: ȶera-t-o {κέρατο}
+[Transformed]
+ȶera	-->	TR (Total 2 symbols)
+
+I (Modern Demotic Greek)
+Seen as: eɣo {εγώ}; emena {εμένα}
+[Transformed]
+eɣo	-->	HK (Total 2 symbols)
+emena	-->	HMN (Total 3 symbols)
+
+kill (Modern Demotic Greek)
+Seen as: skot-o-n-o {σκοτώνω}
+[Transformed]
+skot	-->	SKT (Total 3 symbols)
+
+knee (Modern Demotic Greek)
+Seen as: ɣon-at-o {γόνατο}
+[Transformed]
+ɣon	-->	KN (Total 2 symbols)
+
+know (Modern Demotic Greek)
+Seen as: ks=er-o {ξέρω}
+[Transformed]
+er	-->	HR (Total 2 symbols)
+
+leaf (Modern Demotic Greek)
+Seen as: fil-o {φύλλο}
+[Transformed]
+fil	-->	PL (Total 2 symbols)
+
+lie (Modern Demotic Greek)
+Seen as: ks=aplo-n-o {ξαπλώνω}
+[Transformed]
+aplo	-->	HPL (Total 3 symbols)
+
+liver (Modern Demotic Greek)
+Seen as: sikot-i {συκώτι}
+[Transformed]
+sikot	-->	SKT (Total 3 symbols)
+
+long (Modern Demotic Greek)
+Seen as: makr-i- {μακρύς}
+[Transformed]
+makr	-->	MKR (Total 3 symbols)
+
+louse (Modern Demotic Greek)
+Seen as: psir-a {ψείρα}
+[Transformed]
+psir	-->	PSR (Total 3 symbols)
+
+man (Modern Demotic Greek)
+Seen as: anðr-a-s ~ adr-a-s {άνδρας, άντρας}
+[Transformed]
+anðr	-->	HNTR (Total 4 symbols)
+adr	-->	HTR (Total 3 symbols)
+
+many (Modern Demotic Greek)
+Seen as: pol-i- {πολύς}
+[Transformed]
+pol	-->	PL (Total 2 symbols)
+
+meat (Modern Demotic Greek)
+Seen as: krea-s {κρέας}
+[Transformed]
+krea	-->	KR (Total 2 symbols)
+
+moon (Modern Demotic Greek)
+Seen as: fegar-i {φεγγάρι}
+[Transformed]
+fegar	-->	PKR (Total 3 symbols)
+
+mountain (Modern Demotic Greek)
+Seen as: vun-o {βουνό}
+[Transformed]
+vun	-->	PN (Total 2 symbols)
+
+mouth (Modern Demotic Greek)
+Seen as: stom-a {στόμα}
+[Transformed]
+stom	-->	STM (Total 3 symbols)
+
+name (Modern Demotic Greek)
+Seen as: onom-a {όνομα}
+[Transformed]
+onom	-->	HNM (Total 3 symbols)
+
+neck (Modern Demotic Greek)
+Seen as: lem-o-s {λαιμός}
+[Transformed]
+lem	-->	LM (Total 2 symbols)
+
+new (Modern Demotic Greek)
+Seen as: ne-o- {νέος}; ȶenury-o- {καινούργιος ~ καινούριος}
+[Transformed]
+ne	-->	NH (Total 2 symbols)
+ȶenury	-->	TNR (Total 3 symbols)
+καινούριος}	-->	 (Total 0 symbols)
+
+night (Modern Demotic Greek)
+Seen as: nixt-a {νύχτα}
+[Transformed]
+nixt	-->	NKT (Total 3 symbols)
+
+nose (Modern Demotic Greek)
+Seen as: mit-i {μύτη}
+[Transformed]
+mit	-->	MT (Total 2 symbols)
+
+not (Modern Demotic Greek)
+Seen as: ðen {δεν}
+[Transformed]
+ðen	-->	TN (Total 2 symbols)
+
+one (Modern Demotic Greek)
+Seen as: en-a-s {ένας}
+[Transformed]
+en	-->	HN (Total 2 symbols)
+
+person (Modern Demotic Greek)
+Seen as: anθrop-o-s {άνθρωπος}
+[Transformed]
+anθrop	-->	HNTRP (Total 5 symbols)
+
+rain (Modern Demotic Greek)
+Seen as: vroẙ-i {βροχή}
+[Transformed]
+vroẙ	-->	PR (Total 2 symbols)
+
+red (Modern Demotic Greek)
+Seen as: koȶin-o- {κόκκινος}
+[Transformed]
+koȶin	-->	KTN (Total 3 symbols)
+
+road (Modern Demotic Greek)
+Seen as: ðrom-o-s {δρόμος}
+[Transformed]
+ðrom	-->	TRM (Total 3 symbols)
+
+root (Modern Demotic Greek)
+Seen as: riz-a {ρίζα}
+[Transformed]
+riz	-->	RS (Total 2 symbols)
+
+round (D) (Modern Demotic Greek)
+Seen as: stroȡ-il-o- {στρογγυλός}
+[Transformed]
+stroȡ	-->	STRT (Total 4 symbols)
+
+sand (Modern Demotic Greek)
+Seen as: am-o-s {άμμος}
+[Transformed]
+am	-->	HM (Total 2 symbols)
+
+say (Modern Demotic Greek)
+Seen as: le-o {λέω}; ip-a {είπα}
+[Transformed]
+le	-->	LH (Total 2 symbols)
+ip	-->	HP (Total 2 symbols)
+
+see (Modern Demotic Greek)
+Seen as: vlep-o {βλέπω}; ið-a {είδα}
+[Transformed]
+vlep	-->	PLP (Total 3 symbols)
+ið	-->	HT (Total 2 symbols)
+
+seed (Modern Demotic Greek)
+Seen as: spor-o-s {σπόρος}
+[Transformed]
+spor	-->	SPR (Total 3 symbols)
+
+sit (Modern Demotic Greek)
+Seen as: kaθ=o-me {κάθομαι}
+[Transformed]
+o	-->	HH (Total 2 symbols)
+
+skin (Modern Demotic Greek)
+Seen as: ðerm-a {δέρμα}
+[Transformed]
+ðerm	-->	TRM (Total 3 symbols)
+
+sleep (Modern Demotic Greek)
+Seen as: ȶim-a-me {κοιμάμαι}
+[Transformed]
+ȶim	-->	TM (Total 2 symbols)
+
+small (Modern Demotic Greek)
+Seen as: mikr-o- {μικρός}
+[Transformed]
+mikr	-->	MKR (Total 3 symbols)
+
+smoke (Modern Demotic Greek)
+Seen as: kapn-o-s {καπνός}
+[Transformed]
+kapn	-->	KPN (Total 3 symbols)
+
+stand (Modern Demotic Greek)
+Seen as: ste-k-o-me {στέκομαι}
+[Transformed]
+ste	-->	ST (Total 2 symbols)
+
+star (Modern Demotic Greek)
+Seen as: aster-i {αστέρι}
+[Transformed]
+aster	-->	HSTR (Total 4 symbols)
+
+stone (Modern Demotic Greek)
+Seen as: petr-a {πέτρα}
+[Transformed]
+petr	-->	PTR (Total 3 symbols)
+
+sun (Modern Demotic Greek)
+Seen as: iʎ-o-s {ήλιος}
+[Transformed]
+iʎ	-->	HL (Total 2 symbols)
+
+swim (Modern Demotic Greek)
+Seen as: kolib-o {κολυμπώ}
+[Transformed]
+kolib	-->	KLP (Total 3 symbols)
+
+tail (Modern Demotic Greek)
+Seen as: ur-a {ουρά}
+[Transformed]
+ur	-->	HR (Total 2 symbols)
+
+that (Modern Demotic Greek)
+Seen as: eȶin-o- {εκείνος}
+[Transformed]
+eȶin	-->	HTN (Total 3 symbols)
+
+this (Modern Demotic Greek)
+Seen as: aft-o- {αυτός}
+[Transformed]
+aft	-->	HPT (Total 3 symbols)
+
+thou (Modern Demotic Greek)
+Seen as: esi {εσύ}
+[Transformed]
+esi	-->	HS (Total 2 symbols)
+
+tongue (Modern Demotic Greek)
+Seen as: ɣlos-a {γλώσσα}
+[Transformed]
+ɣlos	-->	KLS (Total 3 symbols)
+
+tooth (Modern Demotic Greek)
+Seen as: ðod-i {δόντι}
+[Transformed]
+ðod	-->	TT (Total 2 symbols)
+
+tree (Modern Demotic Greek)
+Seen as: ðedr-o {δέντρο}
+[Transformed]
+ðedr	-->	TTR (Total 3 symbols)
+
+two (Modern Demotic Greek)
+Seen as: ðio {δύο}
+[Transformed]
+ðio	-->	TH (Total 2 symbols)
+
+walk (go) (Modern Demotic Greek)
+Seen as: pa-o ~ piy-e-n-o {πάω, πηγαίνω}; piɣ-a {πήγα}
+[Transformed]
+pa	-->	PH (Total 2 symbols)
+piy	-->	PH (Total 2 symbols)
+piɣ	-->	PK (Total 2 symbols)
+
+warm (hot) (Modern Demotic Greek)
+Seen as: zest-o- {ζεστός}
+[Transformed]
+zest	-->	SST (Total 3 symbols)
+
+water (Modern Demotic Greek)
+Seen as: ner-o {νερό}
+[Transformed]
+ner	-->	NR (Total 2 symbols)
+
+we (Modern Demotic Greek)
+Seen as: emi-s {εμείς}
+[Transformed]
+emi	-->	HM (Total 2 symbols)
+
+what (Modern Demotic Greek)
+Seen as: ti {τι}
+[Transformed]
+ti	-->	TH (Total 2 symbols)
+
+white (Modern Demotic Greek)
+Seen as: aspr-o- {άσπρος}
+[Transformed]
+aspr	-->	HSPR (Total 4 symbols)
+
+who (Modern Demotic Greek)
+Seen as: py-o- {ποιός}
+[Transformed]
+py	-->	PH (Total 2 symbols)
+
+woman (Modern Demotic Greek)
+Seen as: yinek-a {γυναίκα}
+[Transformed]
+yinek	-->	YNK (Total 3 symbols)
+
+yellow (Modern Demotic Greek)
+Seen as: ȶitrin-o- {κίτρινος}
+[Transformed]
+ȶitrin	-->	TTRN (Total 4 symbols)
+
+far (Modern Demotic Greek)
+Seen as: makr-i-a {μακριά}
+[Transformed]
+makr	-->	MKR (Total 3 symbols)
+
+heavy (Modern Demotic Greek)
+Seen as: var-i- {βαρύς}
+[Transformed]
+var	-->	PR (Total 2 symbols)
+
+near (Modern Demotic Greek)
+Seen as: koda {κοντά}
+[Transformed]
+koda	-->	KT (Total 2 symbols)
+
+salt (Modern Demotic Greek)
+Seen as: alat-i {αλάτι}
+[Transformed]
+alat	-->	HLT (Total 3 symbols)
+
+short (Modern Demotic Greek)
+Seen as: kod-o- {κοντός}
+[Transformed]
+kod	-->	KT (Total 2 symbols)
+
+snake (Modern Demotic Greek)
+Seen as: fið-i {φίδι}
+[Transformed]
+fið	-->	PT (Total 2 symbols)
+
+thin (Modern Demotic Greek)
+Seen as: lept-o- {λεπτός}
+[Transformed]
+lept	-->	LPT (Total 3 symbols)
+
+wind (Modern Demotic Greek)
+Seen as: aer-a-s {αέρας}
+[Transformed]
+aer	-->	HR (Total 2 symbols)
+
+worm (Modern Demotic Greek)
+Seen as: skuliȶ-i {σκουλήκι}
+[Transformed]
+skuliȶ	-->	SKLT (Total 4 symbols)
+
+year (Modern Demotic Greek)
+Seen as: xron-o-s {χρόνος}
+[Transformed]
+xron	-->	KRN (Total 3 symbols)
+

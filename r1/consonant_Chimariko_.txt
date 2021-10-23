@@ -1,0 +1,568 @@
+all (Chimariko)
+Seen as: kʰˈumitʼʸin
+[Transformed]
+kʰˈumitʼʸin	-->	KMTN (Total 4 symbols)
+
+ashes (Chimariko)
+Seen as: mˈacʼipa
+[Transformed]
+mˈacʼipa	-->	MCKP (Total 4 symbols)
+
+bark (Chimariko)
+Seen as: h=ˈipačʼi ~ h=ˈipːači
+[Transformed]
+ˈipačʼi	-->	PKC (Total 3 symbols)
+ˈipːači	-->	PKC (Total 3 symbols)
+
+belly (Chimariko)
+Seen as: h=ˈutʸun-ew
+[Transformed]
+ˈutʸun	-->	TN (Total 2 symbols)
+
+big (Chimariko)
+Seen as: čˈew:u
+[Transformed]
+čˈew:u	-->	CH (Total 2 symbols)
+
+bird (Chimariko)
+Seen as: tˈiʔira
+[Transformed]
+tˈiʔira	-->	TR (Total 2 symbols)
+
+bite (Chimariko)
+Seen as: =utpa- #
+[Transformed]
+utpa	-->	HTP (Total 3 symbols)
+
+black (Chimariko)
+Seen as: čʰˈele-ʔi
+[Transformed]
+čʰˈele	-->	CL (Total 2 symbols)
+
+blood (Chimariko)
+Seen as: sˈicqʼi
+[Transformed]
+sˈicqʼi	-->	SCK (Total 3 symbols)
+
+bone (Chimariko)
+Seen as: cʰʸˈa=tʰun
+[Transformed]
+tʰun	-->	TKN (Total 3 symbols)
+
+breast (Chimariko)
+Seen as: h=uʔsˈiʔ #
+[Transformed]
+uʔsˈiʔ	-->	HS (Total 2 symbols)
+
+burn tr. (Chimariko)
+Seen as: 
+[Transformed]
+
+
+claw(nail) (Chimariko)
+Seen as: pˈolaot
+[Transformed]
+pˈolaot	-->	PLKT (Total 4 symbols)
+
+cloud (Chimariko)
+Seen as: hawˈetaʔm
+[Transformed]
+hawˈetaʔm	-->	HTM (Total 3 symbols)
+
+cold (Chimariko)
+Seen as: ˈeso
+[Transformed]
+ˈeso	-->	SH (Total 2 symbols)
+
+come (Chimariko)
+Seen as: =ˈuwa-kʰ-
+[Transformed]
+ˈuwa	-->	HH (Total 2 symbols)
+
+die (Chimariko)
+Seen as: qʼˈe-
+[Transformed]
+qʼˈe	-->	KH (Total 2 symbols)
+
+dog (Chimariko)
+Seen as: sˈičʼ-ela
+[Transformed]
+sˈičʼ	-->	SC (Total 2 symbols)
+
+drink (Chimariko)
+Seen as: luʔ-i
+[Transformed]
+luʔ	-->	LH (Total 2 symbols)
+
+dry (Chimariko)
+Seen as: ˈačxunmi
+[Transformed]
+ˈačxunmi	-->	CKNM (Total 4 symbols)
+
+ear (Chimariko)
+Seen as: h=ˈisama
+[Transformed]
+ˈisama	-->	SM (Total 2 symbols)
+
+earth (Chimariko)
+Seen as: ˈamːa
+[Transformed]
+ˈamːa	-->	MH (Total 2 symbols)
+
+eat (Chimariko)
+Seen as: h=ˈamːa
+[Transformed]
+ˈamːa	-->	MH (Total 2 symbols)
+
+egg (Chimariko)
+Seen as: ˈanuqʰa
+[Transformed]
+ˈanuqʰa	-->	NK (Total 2 symbols)
+
+eye (Chimariko)
+Seen as: h=ˈusot ~ h=ˈusu
+[Transformed]
+ˈusot	-->	ST (Total 2 symbols)
+ˈusu	-->	SH (Total 2 symbols)
+
+fat n. (Chimariko)
+Seen as: pʰˈiʔa
+[Transformed]
+pʰˈiʔa	-->	PH (Total 2 symbols)
+
+feather (Chimariko)
+Seen as: h=ˈuto ~ h=ˈutːu ~ h=ˈutu
+[Transformed]
+ˈuto	-->	TH (Total 2 symbols)
+ˈutːu	-->	TH (Total 2 symbols)
+ˈutu	-->	TH (Total 2 symbols)
+
+fire (Chimariko)
+Seen as: ˈapu
+[Transformed]
+ˈapu	-->	PH (Total 2 symbols)
+
+fish (Chimariko)
+Seen as: 
+[Transformed]
+
+
+fly v. (Chimariko)
+Seen as: =tu- #
+[Transformed]
+tu	-->	TH (Total 2 symbols)
+
+foot (Chimariko)
+Seen as: h=ˈupʰːo
+[Transformed]
+ˈupʰːo	-->	PH (Total 2 symbols)
+
+full (Chimariko)
+Seen as: h=icʼʸˈo-lam
+[Transformed]
+icʼʸˈo	-->	HC (Total 2 symbols)
+
+give (Chimariko)
+Seen as: h=ˈawu-t
+[Transformed]
+ˈawu	-->	HH (Total 2 symbols)
+
+good (Chimariko)
+Seen as: hisˈiʔ-tʼa
+[Transformed]
+hisˈiʔ	-->	HS (Total 2 symbols)
+
+green (Chimariko)
+Seen as: hˈimamsuʔ
+[Transformed]
+hˈimamsuʔ	-->	HMMS (Total 4 symbols)
+
+hair (Chimariko)
+Seen as: h=ˈimːi
+[Transformed]
+ˈimːi	-->	MH (Total 2 symbols)
+
+hand (Chimariko)
+Seen as: h=ˈitʸa ~ h=ˈicʸa
+[Transformed]
+ˈitʸa	-->	TH (Total 2 symbols)
+ˈicʸa	-->	CH (Total 2 symbols)
+
+head (Chimariko)
+Seen as: h=ˈimaʔ
+[Transformed]
+ˈimaʔ	-->	MH (Total 2 symbols)
+
+hear (Chimariko)
+Seen as: =ˈukey-at
+[Transformed]
+ˈukey	-->	KH (Total 2 symbols)
+
+heart (Chimariko)
+Seen as: husaʔančeːi #
+[Transformed]
+husaʔančeːi	-->	HSNC (Total 4 symbols)
+
+horn (Chimariko)
+Seen as: h=ˈuwesʸ
+[Transformed]
+ˈuwesʸ	-->	SH (Total 2 symbols)
+
+I (Chimariko)
+Seen as: nˈoʔ-ot
+[Transformed]
+nˈoʔ	-->	NH (Total 2 symbols)
+
+kill (Chimariko)
+Seen as: h=ˈakʰo
+[Transformed]
+ˈakʰo	-->	KH (Total 2 symbols)
+
+knee (Chimariko)
+Seen as: h=itxan-imaxa #
+[Transformed]
+itxan	-->	HTKN (Total 4 symbols)
+
+know (Chimariko)
+Seen as: h=ˈicʼahu
+[Transformed]
+ˈicʼahu	-->	CH (Total 2 symbols)
+
+leaf (Chimariko)
+Seen as: hitaxai #
+[Transformed]
+hitaxai	-->	HTK (Total 3 symbols)
+
+lie (Chimariko)
+Seen as: h=ačˈuː-ta-t
+[Transformed]
+ačˈuː	-->	HC (Total 2 symbols)
+
+liver (Chimariko)
+Seen as: h=ˈusi
+[Transformed]
+ˈusi	-->	SH (Total 2 symbols)
+
+long (Chimariko)
+Seen as: h=ˈicʰʸu-t
+[Transformed]
+ˈicʰʸu	-->	CH (Total 2 symbols)
+
+louse (Chimariko)
+Seen as: 
+[Transformed]
+
+
+man (Chimariko)
+Seen as: ˈitʼʸi ~ ˈicʼʸi
+[Transformed]
+ˈitʼʸi	-->	TH (Total 2 symbols)
+ˈicʼʸi	-->	CH (Total 2 symbols)
+
+many (Chimariko)
+Seen as: hˈitat ~ hˈitʼam
+[Transformed]
+hˈitat	-->	HTT (Total 3 symbols)
+hˈitʼam	-->	HTM (Total 3 symbols)
+
+meat (Chimariko)
+Seen as: ˈaʔa #
+[Transformed]
+ˈaʔa	-->	HH (Total 2 symbols)
+
+moon (Chimariko)
+Seen as: ˈala ~ alla
+[Transformed]
+ˈala	-->	LH (Total 2 symbols)
+alla	-->	HLL (Total 3 symbols)
+
+mountain (Chimariko)
+Seen as: ˈawu
+[Transformed]
+ˈawu	-->	HH (Total 2 symbols)
+
+mouth (Chimariko)
+Seen as: hˈ=awa
+[Transformed]
+awa	-->	HH (Total 2 symbols)
+
+name (Chimariko)
+Seen as: 
+[Transformed]
+
+
+neck (Chimariko)
+Seen as: h=ˈikːi
+[Transformed]
+ˈikːi	-->	KH (Total 2 symbols)
+
+new (Chimariko)
+Seen as: ˈamani ~ ˈamani-t
+[Transformed]
+ˈamani	-->	MN (Total 2 symbols)
+ˈamani	-->	MN (Total 2 symbols)
+
+night (Chimariko)
+Seen as: hˈimːi ~ hˈimːe
+[Transformed]
+hˈimːi	-->	HM (Total 2 symbols)
+hˈimːe	-->	HM (Total 2 symbols)
+
+nose (Chimariko)
+Seen as: h=ˈou
+[Transformed]
+ˈou	-->	KH (Total 2 symbols)
+
+not (Chimariko)
+Seen as: x=...na
+[Transformed]
+...na	-->	NH (Total 2 symbols)
+
+one (Chimariko)
+Seen as: pʼun
+[Transformed]
+pʼun	-->	PN (Total 2 symbols)
+
+person (Chimariko)
+Seen as: cʼʸˈimar ~ tʼʸimar
+[Transformed]
+cʼʸˈimar	-->	CMR (Total 3 symbols)
+tʼʸimar	-->	TMR (Total 3 symbols)
+
+rain (Chimariko)
+Seen as: h=ˈitakʰ-ta #
+[Transformed]
+ˈitakʰ	-->	TK (Total 2 symbols)
+
+red (Chimariko)
+Seen as: yˈecol ~ yˈacol #
+[Transformed]
+yˈecol	-->	YCKL (Total 4 symbols)
+yˈacol	-->	YCKL (Total 4 symbols)
+
+road (Chimariko)
+Seen as: hˈisːa
+[Transformed]
+hˈisːa	-->	HS (Total 2 symbols)
+
+root (Chimariko)
+Seen as: ʔˈači
+[Transformed]
+ʔˈači	-->	HC (Total 2 symbols)
+
+round (Chimariko)
+Seen as: nˈolːe
+[Transformed]
+nˈolːe	-->	NL (Total 2 symbols)
+
+sand (Chimariko)
+Seen as: ʔama-yˈaqʰa
+[Transformed]
+ʔama	-->	HM (Total 2 symbols)
+
+say (Chimariko)
+Seen as: h=ˈekʼo #
+[Transformed]
+ˈekʼo	-->	KH (Total 2 symbols)
+
+see (Chimariko)
+Seen as: h=ˈimam-ta
+[Transformed]
+ˈimam	-->	MM (Total 2 symbols)
+
+seed (Chimariko)
+Seen as: 
+[Transformed]
+
+
+sit (Chimariko)
+Seen as: h=ˈiwo-hintʼa
+[Transformed]
+ˈiwo	-->	HH (Total 2 symbols)
+
+skin (Chimariko)
+Seen as: 
+[Transformed]
+
+
+sleep (Chimariko)
+Seen as: pʰˈo-h-mu
+[Transformed]
+pʰˈo	-->	PH (Total 2 symbols)
+
+small (Chimariko)
+Seen as: ˈuleːta
+[Transformed]
+ˈuleːta	-->	LT (Total 2 symbols)
+
+smoke (Chimariko)
+Seen as: qʰe
+[Transformed]
+qʰe	-->	KH (Total 2 symbols)
+
+stand (Chimariko)
+Seen as: ho(ː)hˈa-tːa
+[Transformed]
+hohˈa	-->	HH (Total 2 symbols)
+
+star (Chimariko)
+Seen as: mˈunːe
+[Transformed]
+mˈunːe	-->	MN (Total 2 symbols)
+
+stone (Chimariko)
+Seen as: qʰˈaʔa
+[Transformed]
+qʰˈaʔa	-->	KH (Total 2 symbols)
+
+sun (Chimariko)
+Seen as: ˈasːa
+[Transformed]
+ˈasːa	-->	SH (Total 2 symbols)
+
+swim (Chimariko)
+Seen as: =xuː- #
+[Transformed]
+xuː	-->	KH (Total 2 symbols)
+
+tail (Chimariko)
+Seen as: ˈaqʰuye
+[Transformed]
+ˈaqʰuye	-->	KH (Total 2 symbols)
+
+that (Chimariko)
+Seen as: pʰˈaʔ-ut
+[Transformed]
+pʰˈaʔ	-->	PH (Total 2 symbols)
+
+this (Chimariko)
+Seen as: kʰˈiw-at ~ kˈiw-ot
+[Transformed]
+kʰˈiw	-->	KH (Total 2 symbols)
+kˈiw	-->	KH (Total 2 symbols)
+
+thou (Chimariko)
+Seen as: mˈam-ot
+[Transformed]
+mˈam	-->	MM (Total 2 symbols)
+
+tongue (Chimariko)
+Seen as: h=ˈipʰen
+[Transformed]
+ˈipʰen	-->	PN (Total 2 symbols)
+
+tooth (Chimariko)
+Seen as: h=ˈucʼʸu
+[Transformed]
+ˈucʼʸu	-->	CH (Total 2 symbols)
+
+tree (Chimariko)
+Seen as: ˈatʸa ~ ˈacʸa ~ acʸːa
+[Transformed]
+ˈatʸa	-->	TH (Total 2 symbols)
+ˈacʸa	-->	CH (Total 2 symbols)
+acʸːa	-->	HC (Total 2 symbols)
+
+two (Chimariko)
+Seen as: ˈoqu
+[Transformed]
+ˈoqu	-->	KKK (Total 3 symbols)
+
+walk (go) (Chimariko)
+Seen as: hˈ=uwa-m
+[Transformed]
+uwa	-->	HH (Total 2 symbols)
+
+warm (hot) (Chimariko)
+Seen as: ʔˈeloh-tʼa
+[Transformed]
+ʔˈeloh	-->	HL (Total 2 symbols)
+
+water (Chimariko)
+Seen as: aqʰˈa
+[Transformed]
+aqʰˈa	-->	HK (Total 2 symbols)
+
+we (Chimariko)
+Seen as: nˈaː-čʰitas
+[Transformed]
+nˈaː	-->	NH (Total 2 symbols)
+
+what (Chimariko)
+Seen as: pˈacʰʸi ~ pʰˈacʰʸi #
+[Transformed]
+pˈacʰʸi	-->	PC (Total 2 symbols)
+pʰˈacʰʸi	-->	PC (Total 2 symbols)
+
+white (Chimariko)
+Seen as: mˈene-ʔi
+[Transformed]
+mˈene	-->	MN (Total 2 symbols)
+
+who (Chimariko)
+Seen as: qʰˈo-masʸ #
+[Transformed]
+qʰˈo	-->	KH (Total 2 symbols)
+
+woman (Chimariko)
+Seen as: pˈunsar ~ pˈunsaːr ~ pˈuncaːr-
+[Transformed]
+pˈunsar	-->	PNSR (Total 4 symbols)
+pˈunsaːr	-->	PNSR (Total 4 symbols)
+pˈuncaːr	-->	PNCR (Total 4 symbols)
+
+yellow (Chimariko)
+Seen as: 
+[Transformed]
+
+
+far (Chimariko)
+Seen as: 
+[Transformed]
+
+
+heavy (Chimariko)
+Seen as: himita- #
+[Transformed]
+himita	-->	HMT (Total 3 symbols)
+
+near (Chimariko)
+Seen as: 
+[Transformed]
+
+
+salt (Chimariko)
+Seen as: ˈakʼi
+[Transformed]
+ˈakʼi	-->	KH (Total 2 symbols)
+
+short (Chimariko)
+Seen as: =ˈucʰʸu-lːa
+[Transformed]
+ˈucʰʸu	-->	CH (Total 2 symbols)
+
+snake (Chimariko)
+Seen as: 
+[Transformed]
+
+
+thin (Chimariko)
+Seen as: ˈelmu #
+[Transformed]
+ˈelmu	-->	KLM (Total 3 symbols)
+
+wind (Chimariko)
+Seen as: h=ˈikʼos-eʔ
+[Transformed]
+ˈikʼos	-->	KS (Total 2 symbols)
+
+worm (Chimariko)
+Seen as: hemuta #
+[Transformed]
+hemuta	-->	HMT (Total 3 symbols)
+
+year (Chimariko)
+Seen as: 
+[Transformed]
+
+

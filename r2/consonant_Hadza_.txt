@@ -1,0 +1,551 @@
+all (Hadza)
+Seen as: wáʔìná-mà
+[Transformed]
+wáʔìná	-->	WN (Total 2 symbols)
+
+ashes (Hadza)
+Seen as: ɦó=cʼò-wà-kʰò
+[Transformed]
+cʼò	-->	CH (Total 2 symbols)
+
+bark (Hadza)
+Seen as: ɦé=kʼwà-pʰè
+[Transformed]
+kʼwà	-->	KH (Total 2 symbols)
+
+belly (Hadza)
+Seen as: ɦo=ča-ko
+[Transformed]
+ča	-->	CH (Total 2 symbols)
+
+big (Hadza)
+Seen as: pákàpàʔá-à
+[Transformed]
+pákàpàʔá	-->	PKP (Total 3 symbols)
+
+bird (Hadza)
+Seen as: tʰítʰí-
+[Transformed]
+tʰítʰí	-->	TT (Total 2 symbols)
+
+bite (Hadza)
+Seen as: kàƛʼˈé-ʔ
+[Transformed]
+kàƛʼˈé	-->	KQ (Total 2 symbols)
+
+black (Hadza)
+Seen as: tíčʼì-yé-yà
+[Transformed]
+tíčʼì	-->	TC (Total 2 symbols)
+
+blood (Hadza)
+Seen as: ʔá=tʰàmˈá-à
+[Transformed]
+tʰàmˈá	-->	TM (Total 2 symbols)
+
+bone (Hadza)
+Seen as: mìƛʼá-à
+[Transformed]
+mìƛʼá	-->	MQ (Total 2 symbols)
+
+breast (Hadza)
+Seen as: ɦo=čʼo-pe
+[Transformed]
+čʼo	-->	CH (Total 2 symbols)
+
+burn tr. (Hadza)
+Seen as: mùlì-
+[Transformed]
+mùlì	-->	ML (Total 2 symbols)
+
+claw(nail) (Hadza)
+Seen as: baɬu-ko
+[Transformed]
+baɬu	-->	PL (Total 2 symbols)
+
+cloud (Hadza)
+Seen as: 
+[Transformed]
+
+
+cold (Hadza)
+Seen as: àƛʼˈá-nè-yà
+[Transformed]
+àƛʼˈá	-->	QQ (Total 2 symbols)
+
+come (Hadza)
+Seen as: ʒá-ʔà
+[Transformed]
+ʒá	-->	CH (Total 2 symbols)
+
+die (Hadza)
+Seen as: tàǁʼì-ʔì
+[Transformed]
+tàǁʼì	-->	TQ (Total 2 symbols)
+
+dog (Hadza)
+Seen as: ǁáʔànò-wà
+[Transformed]
+ǁáʔànò	-->	QN (Total 2 symbols)
+
+drink (Hadza)
+Seen as: fá-ʔà
+[Transformed]
+fá	-->	PH (Total 2 symbols)
+
+dry (Hadza)
+Seen as: ǁʼape
+[Transformed]
+ǁʼape	-->	QP (Total 2 symbols)
+
+ear (Hadza)
+Seen as: ɦà=čʼàpìčʼì-kʰò
+[Transformed]
+čʼàpìčʼì	-->	CPC (Total 3 symbols)
+
+earth (Hadza)
+Seen as: yámùʔˈá-à
+[Transformed]
+yámùʔˈá	-->	YM (Total 2 symbols)
+
+eat (Hadza)
+Seen as: sémè-ʔè
+[Transformed]
+sémè	-->	SM (Total 2 symbols)
+
+egg (Hadza)
+Seen as: ʔu=ɬe-ko
+[Transformed]
+ɬe	-->	LH (Total 2 symbols)
+
+eye (Hadza)
+Seen as: ʔà=kʰwá-à-kʰò
+[Transformed]
+kʰwá	-->	KH (Total 2 symbols)
+
+fat n. (Hadza)
+Seen as: ɦì=cʼá-pʰè
+[Transformed]
+cʼá	-->	CH (Total 2 symbols)
+
+feather (Hadza)
+Seen as: ɦai-ya-ko
+[Transformed]
+ɦai	-->	HH (Total 2 symbols)
+
+fire (Hadza)
+Seen as: cʼòkó-wà
+[Transformed]
+cʼòkó	-->	CK (Total 2 symbols)
+
+fish (Hadza)
+Seen as: ǀʼàmá-à
+[Transformed]
+ǀʼàmá	-->	CM (Total 2 symbols)
+
+fly v. (Hadza)
+Seen as: hukwa
+[Transformed]
+hukwa	-->	HK (Total 2 symbols)
+
+foot (Hadza)
+Seen as: ʔú=pʰúkʰwà-à
+[Transformed]
+pʰúkʰwà	-->	PK (Total 2 symbols)
+
+full (Hadza)
+Seen as: ǀʼósò-ʔò
+[Transformed]
+ǀʼósò	-->	CS (Total 2 symbols)
+
+give (Hadza)
+Seen as: kwà-
+[Transformed]
+kwà	-->	KH (Total 2 symbols)
+
+good (Hadza)
+Seen as: cʼìʔèʔè-nà
+[Transformed]
+cʼìʔèʔè	-->	CH (Total 2 symbols)
+
+green (Hadza)
+Seen as: áwéčʼˈè-nè
+[Transformed]
+áwéčʼˈè	-->	QC (Total 2 symbols)
+
+hair (Hadza)
+Seen as: ɦˈá=ƛʼé-pʰè
+[Transformed]
+ƛʼé	-->	QH (Total 2 symbols)
+
+hand (Hadza)
+Seen as: ʔù=kʰwˈà-pʰì
+[Transformed]
+kʰwˈà	-->	KH (Total 2 symbols)
+
+head (Hadza)
+Seen as: ƛómà-à-kʰò
+[Transformed]
+ƛómà	-->	QM (Total 2 symbols)
+
+hear (Hadza)
+Seen as: ˈáʔè-ʔ
+[Transformed]
+ˈáʔè	-->	QH (Total 2 symbols)
+
+heart (Hadza)
+Seen as: 
+[Transformed]
+
+
+horn (Hadza)
+Seen as: lòʔò-pʰè
+[Transformed]
+lòʔò	-->	LH (Total 2 symbols)
+
+I (Hadza)
+Seen as: ʔono
+[Transformed]
+ʔono	-->	HN (Total 2 symbols)
+
+kill (Hadza)
+Seen as: ǁˈó-wè-ʔ
+[Transformed]
+ǁˈó	-->	QH (Total 2 symbols)
+
+knee (Hadza)
+Seen as: gùlìŋgùrí-yà-kʰò
+[Transformed]
+gùlìŋgùrí	-->	KLNKR (Total 5 symbols)
+
+know (Hadza)
+Seen as: cʼàɦà-ʔè
+[Transformed]
+cʼàɦà	-->	CH (Total 2 symbols)
+
+leaf (Hadza)
+Seen as: ɦá=cʼàpʰì-pʰì
+[Transformed]
+cʼàpʰì	-->	CP (Total 2 symbols)
+
+lie (Hadza)
+Seen as: ʔase
+[Transformed]
+ʔase	-->	HS (Total 2 symbols)
+
+liver (Hadza)
+Seen as: ǁʼè-yà-kʰò
+[Transformed]
+ǁʼè	-->	QH (Total 2 symbols)
+
+long (Hadza)
+Seen as: tʰàsé-yà
+[Transformed]
+tʰàsé	-->	TS (Total 2 symbols)
+
+louse (Hadza)
+Seen as: ǀʼámˈácʼì-yà-kʰò
+[Transformed]
+ǀʼámˈácʼì	-->	CMC (Total 3 symbols)
+
+man (Hadza)
+Seen as: ɬèmé-yà
+[Transformed]
+ɬèmé	-->	LM (Total 2 symbols)
+
+many (Hadza)
+Seen as: luƛʼuʔe
+[Transformed]
+luƛʼuʔe	-->	LQ (Total 2 symbols)
+
+meat (Hadza)
+Seen as: màná-à-kʰò
+[Transformed]
+màná	-->	MN (Total 2 symbols)
+
+moon (Hadza)
+Seen as: 
+[Transformed]
+
+
+mountain (Hadza)
+Seen as: ǁʼùƛʼè-yà
+[Transformed]
+ǁʼùƛʼè	-->	QQ (Total 2 symbols)
+
+mouth (Hadza)
+Seen as: ʔá=wànìká-à
+[Transformed]
+wànìká	-->	WNK (Total 3 symbols)
+
+name (Hadza)
+Seen as: 
+[Transformed]
+
+
+neck (Hadza)
+Seen as: ǀútì-yà
+[Transformed]
+ǀútì	-->	CT (Total 2 symbols)
+
+new (Hadza)
+Seen as: ʒana
+[Transformed]
+ʒana	-->	CN (Total 2 symbols)
+
+night (Hadza)
+Seen as: cʼìfì-yà
+[Transformed]
+cʼìfì	-->	CP (Total 2 symbols)
+
+nose (Hadza)
+Seen as: ʔì=ntʰàwè-
+[Transformed]
+ntʰàwè	-->	NT (Total 2 symbols)
+
+not (Hadza)
+Seen as: ʔakw-
+[Transformed]
+ʔakw	-->	HK (Total 2 symbols)
+
+one (Hadza)
+Seen as: ʔì=čámè-yà
+[Transformed]
+čámè	-->	CM (Total 2 symbols)
+
+person (Hadza)
+Seen as: ʔúnù-
+[Transformed]
+ʔúnù	-->	HN (Total 2 symbols)
+
+rain (Hadza)
+Seen as: ʔa=ti-ya
+[Transformed]
+ti	-->	TH (Total 2 symbols)
+
+red (Hadza)
+Seen as: tese-
+[Transformed]
+tese	-->	TS (Total 2 symbols)
+
+road (Hadza)
+Seen as: yeké-ya-ko
+[Transformed]
+yeké	-->	YK (Total 2 symbols)
+
+root (Hadza)
+Seen as: wili-pi
+[Transformed]
+wili	-->	WL (Total 2 symbols)
+
+round (Hadza)
+Seen as: 
+[Transformed]
+
+
+sand (Hadza)
+Seen as: cʼawa-pe
+[Transformed]
+cʼawa	-->	CH (Total 2 symbols)
+
+say (Hadza)
+Seen as: ɦè-
+[Transformed]
+ɦè	-->	HH (Total 2 symbols)
+
+see (Hadza)
+Seen as: ǀˈì-yé-ʔ
+[Transformed]
+ǀˈì	-->	CH (Total 2 symbols)
+
+seed (Hadza)
+Seen as: 
+[Transformed]
+
+
+sit (Hadza)
+Seen as: ɦama
+[Transformed]
+ɦama	-->	HM (Total 2 symbols)
+
+skin (Hadza)
+Seen as: ʔá=ɦˈú-wà
+[Transformed]
+ɦˈú	-->	HH (Total 2 symbols)
+
+sleep (Hadza)
+Seen as: ǁʼúpì-
+[Transformed]
+ǁʼúpì	-->	QP (Total 2 symbols)
+
+small (Hadza)
+Seen as: kʼùmì-
+[Transformed]
+kʼùmì	-->	KM (Total 2 symbols)
+
+smoke (Hadza)
+Seen as: cʼìkʼó-wà
+[Transformed]
+cʼìkʼó	-->	CK (Total 2 symbols)
+
+stand (Hadza)
+Seen as: ʔìkà-
+[Transformed]
+ʔìkà	-->	HK (Total 2 symbols)
+
+star (Hadza)
+Seen as: ncà-à-kʰò
+[Transformed]
+ncà	-->	NC (Total 2 symbols)
+
+stone (Hadza)
+Seen as: ɦà=!ʼá-à-kʰò
+[Transformed]
+!ʼá	-->	KH (Total 2 symbols)
+
+sun (Hadza)
+Seen as: ʔì=šó-wà-kʰò
+[Transformed]
+šó	-->	SH (Total 2 symbols)
+
+swim (Hadza)
+Seen as: 
+[Transformed]
+
+
+tail (Hadza)
+Seen as: cʼáɦˈó-wà
+[Transformed]
+cʼáɦˈó	-->	CH (Total 2 symbols)
+
+that (Hadza)
+Seen as: bV-; na
+[Transformed]
+bV	-->	PH (Total 2 symbols)
+na	-->	NH (Total 2 symbols)
+
+this (Hadza)
+Seen as: ha-
+[Transformed]
+ha	-->	HH (Total 2 symbols)
+
+thou (Hadza)
+Seen as: te
+[Transformed]
+te	-->	TH (Total 2 symbols)
+
+tongue (Hadza)
+Seen as: ˈátà-à
+[Transformed]
+ˈátà	-->	CT (Total 2 symbols)
+
+tooth (Hadza)
+Seen as: ʔá=ɦá-pʰè
+[Transformed]
+ɦá	-->	HH (Total 2 symbols)
+
+tree (Hadza)
+Seen as: cʼìtí-yà
+[Transformed]
+cʼìtí	-->	CT (Total 2 symbols)
+
+two (Hadza)
+Seen as: píyè-pʰè
+[Transformed]
+píyè	-->	PH (Total 2 symbols)
+
+walk (go) (Hadza)
+Seen as: hàká-ʔà
+[Transformed]
+hàká	-->	HK (Total 2 symbols)
+
+warm (hot) (Hadza)
+Seen as: !ome
+[Transformed]
+!ome	-->	KM (Total 2 symbols)
+
+water (Hadza)
+Seen as: ʔà=tʰí-pʰì
+[Transformed]
+tʰí	-->	TH (Total 2 symbols)
+
+we (Hadza)
+Seen as: u-
+[Transformed]
+u	-->	HH (Total 2 symbols)
+
+what (Hadza)
+Seen as: akwa-ʒa
+[Transformed]
+akwa	-->	HK (Total 2 symbols)
+
+white (Hadza)
+Seen as: pèƛʼáì-yà
+[Transformed]
+pèƛʼáì	-->	PQ (Total 2 symbols)
+
+who (Hadza)
+Seen as: ta-
+[Transformed]
+ta	-->	TH (Total 2 symbols)
+
+woman (Hadza)
+Seen as: ʔá=kʰwìtí-yà-kʰò
+[Transformed]
+kʰwìtí	-->	KT (Total 2 symbols)
+
+yellow (Hadza)
+Seen as: nayo-wa
+[Transformed]
+nayo	-->	NH (Total 2 symbols)
+
+far (Hadza)
+Seen as: ʔiča
+[Transformed]
+ʔiča	-->	HC (Total 2 symbols)
+
+heavy (Hadza)
+Seen as: apane-
+[Transformed]
+apane	-->	CPN (Total 3 symbols)
+
+near (Hadza)
+Seen as: kupa-na
+[Transformed]
+kupa	-->	KP (Total 2 symbols)
+
+salt (Hadza)
+Seen as: 
+[Transformed]
+
+
+short (Hadza)
+Seen as: ǀʼìcʼé-yà
+[Transformed]
+ǀʼìcʼé	-->	CC (Total 2 symbols)
+
+snake (Hadza)
+Seen as: ʔì=yátù-pʰì
+[Transformed]
+yátù	-->	YT (Total 2 symbols)
+
+thin (Hadza)
+Seen as: olowi
+[Transformed]
+olowi	-->	CL (Total 2 symbols)
+
+wind (Hadza)
+Seen as: cʼúčì-pʰì
+[Transformed]
+cʼúčì	-->	CC (Total 2 symbols)
+
+worm (Hadza)
+Seen as: kwicʼiri
+[Transformed]
+kwicʼiri	-->	KCR (Total 3 symbols)
+
+year (Hadza)
+Seen as: 
+[Transformed]
+
+

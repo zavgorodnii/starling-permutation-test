@@ -1,0 +1,555 @@
+all (Cahuilla)
+Seen as: ʔˈumun
+[Transformed]
+ʔˈumun	-->	HMN (Total 3 symbols)
+
+ashes (Cahuilla)
+Seen as: nˈisxiš
+[Transformed]
+nˈisxiš	-->	NSKS (Total 4 symbols)
+
+bark (Cahuilla)
+Seen as: sˈaβa-l #
+[Transformed]
+sˈaβa	-->	SP (Total 2 symbols)
+
+belly (Cahuilla)
+Seen as: tˈiʔi-ʎ
+[Transformed]
+tˈiʔi	-->	TH (Total 2 symbols)
+
+big (Cahuilla)
+Seen as: ʔˈamna-wet
+[Transformed]
+ʔˈamna	-->	HMN (Total 3 symbols)
+
+bird (Cahuilla)
+Seen as: wˈikikmal
+[Transformed]
+wˈikikmal	-->	WKKML (Total 5 symbols)
+
+bite (Cahuilla)
+Seen as: =kˈeʔ-
+[Transformed]
+kˈeʔ	-->	KH (Total 2 symbols)
+
+black (Cahuilla)
+Seen as: tˈul-nek
+[Transformed]
+tˈul	-->	TL (Total 2 symbols)
+
+blood (Cahuilla)
+Seen as: ʔˈew-iʎ
+[Transformed]
+ʔˈew	-->	HH (Total 2 symbols)
+
+bone (Cahuilla)
+Seen as: tˈeʔi-ʎ
+[Transformed]
+tˈeʔi	-->	TH (Total 2 symbols)
+
+breast (Cahuilla)
+Seen as: =taw
+[Transformed]
+taw	-->	TH (Total 2 symbols)
+
+burn tr. (Cahuilla)
+Seen as: =čˈut- #
+[Transformed]
+čˈut	-->	CT (Total 2 symbols)
+
+claw(nail) (Cahuilla)
+Seen as: sˈalu-l
+[Transformed]
+sˈalu	-->	SL (Total 2 symbols)
+
+cloud (Cahuilla)
+Seen as: wˈewn-iš
+[Transformed]
+wˈewn	-->	WN (Total 2 symbols)
+
+cold (Cahuilla)
+Seen as: yˈuy-ma
+[Transformed]
+yˈuy	-->	YH (Total 2 symbols)
+
+come (Cahuilla)
+Seen as: =nˈek-en
+[Transformed]
+nˈek	-->	NK (Total 2 symbols)
+
+die (Cahuilla)
+Seen as: =mˈuk-
+[Transformed]
+mˈuk	-->	MK (Total 2 symbols)
+
+dog (Cahuilla)
+Seen as: ʔˈawal
+[Transformed]
+ʔˈawal	-->	HL (Total 2 symbols)
+
+drink (Cahuilla)
+Seen as: =pˈa-
+[Transformed]
+pˈa	-->	PH (Total 2 symbols)
+
+dry (Cahuilla)
+Seen as: wˈax-iš
+[Transformed]
+wˈax	-->	WK (Total 2 symbols)
+
+ear (Cahuilla)
+Seen as: nˈaq-al
+[Transformed]
+nˈaq	-->	NK (Total 2 symbols)
+
+earth (Cahuilla)
+Seen as: tˈema-l
+[Transformed]
+tˈema	-->	TM (Total 2 symbols)
+
+eat (Cahuilla)
+Seen as: =kʷˈaʔ-; =wˈayiki-
+[Transformed]
+kʷˈaʔ	-->	KH (Total 2 symbols)
+wˈayiki	-->	WK (Total 2 symbols)
+
+egg (Cahuilla)
+Seen as: 
+[Transformed]
+
+
+eye (Cahuilla)
+Seen as: pˈuč-iʎ
+[Transformed]
+pˈuč	-->	PC (Total 2 symbols)
+
+fat n. (Cahuilla)
+Seen as: wˈi-ʎ
+[Transformed]
+wˈi	-->	WH (Total 2 symbols)
+
+feather (Cahuilla)
+Seen as: wˈikiʎ
+[Transformed]
+wˈikiʎ	-->	WKL (Total 3 symbols)
+
+fire (Cahuilla)
+Seen as: kˈu-t
+[Transformed]
+kˈu	-->	KH (Total 2 symbols)
+
+fish (Cahuilla)
+Seen as: kˈiyul
+[Transformed]
+kˈiyul	-->	KL (Total 2 symbols)
+
+fly v. (Cahuilla)
+Seen as: =hˈiŋ-
+[Transformed]
+hˈiŋ	-->	HN (Total 2 symbols)
+
+foot (Cahuilla)
+Seen as: =ʔi
+[Transformed]
+ʔi	-->	HH (Total 2 symbols)
+
+full (Cahuilla)
+Seen as: 
+[Transformed]
+
+
+give (Cahuilla)
+Seen as: =mˈax-
+[Transformed]
+mˈax	-->	MK (Total 2 symbols)
+
+good (Cahuilla)
+Seen as: ʔˈača-ʔe
+[Transformed]
+ʔˈača	-->	HC (Total 2 symbols)
+
+green (Cahuilla)
+Seen as: tˈukβaš-nek-iš
+[Transformed]
+tˈukβaš	-->	TKPS (Total 4 symbols)
+
+hair (Cahuilla)
+Seen as: yˈuluka-l
+[Transformed]
+yˈuluka	-->	YLK (Total 3 symbols)
+
+hand (Cahuilla)
+Seen as: hˈe=ma-l
+[Transformed]
+ma	-->	MH (Total 2 symbols)
+
+head (Cahuilla)
+Seen as: yˈuluka-l
+[Transformed]
+yˈuluka	-->	YLK (Total 3 symbols)
+
+hear (Cahuilla)
+Seen as: =nˈaq-ma-
+[Transformed]
+nˈaq	-->	NK (Total 2 symbols)
+
+heart (Cahuilla)
+Seen as: sˈun-iʎ
+[Transformed]
+sˈun	-->	SN (Total 2 symbols)
+
+horn (Cahuilla)
+Seen as: ʔˈawa-l
+[Transformed]
+ʔˈawa	-->	HH (Total 2 symbols)
+
+I (Cahuilla)
+Seen as: nˈeʔ
+[Transformed]
+nˈeʔ	-->	NH (Total 2 symbols)
+
+kill (Cahuilla)
+Seen as: =mˈek-an-
+[Transformed]
+mˈek	-->	MK (Total 2 symbols)
+
+knee (Cahuilla)
+Seen as: tˈami-ʎ
+[Transformed]
+tˈami	-->	TM (Total 2 symbols)
+
+know (Cahuilla)
+Seen as: =ʔˈeʔnan-
+[Transformed]
+ʔˈeʔnan	-->	HNN (Total 3 symbols)
+
+leaf (Cahuilla)
+Seen as: pˈala-t
+[Transformed]
+pˈala	-->	PL (Total 2 symbols)
+
+lie (Cahuilla)
+Seen as: =qˈal- #
+[Transformed]
+qˈal	-->	KL (Total 2 symbols)
+
+liver (Cahuilla)
+Seen as: =nˈemʔa- #
+[Transformed]
+nˈemʔa	-->	NM (Total 2 symbols)
+
+long (Cahuilla)
+Seen as: wˈaβu-ma
+[Transformed]
+wˈaβu	-->	WP (Total 2 symbols)
+
+louse (Cahuilla)
+Seen as: sˈaʔwal
+[Transformed]
+sˈaʔwal	-->	SL (Total 2 symbols)
+
+man (Cahuilla)
+Seen as: nˈaxaniš
+[Transformed]
+nˈaxaniš	-->	NKNS (Total 4 symbols)
+
+many (Cahuilla)
+Seen as: mˈete-wet
+[Transformed]
+mˈete	-->	MT (Total 2 symbols)
+
+meat (Cahuilla)
+Seen as: wˈaʔ-iš
+[Transformed]
+wˈaʔ	-->	WH (Total 2 symbols)
+
+moon (Cahuilla)
+Seen as: mˈeniʎ
+[Transformed]
+mˈeniʎ	-->	MNL (Total 3 symbols)
+
+mountain (Cahuilla)
+Seen as: qˈawiš
+[Transformed]
+qˈawiš	-->	KS (Total 2 symbols)
+
+mouth (Cahuilla)
+Seen as: tˈama-l
+[Transformed]
+tˈama	-->	TM (Total 2 symbols)
+
+name (Cahuilla)
+Seen as: tˈew-al
+[Transformed]
+tˈew	-->	TH (Total 2 symbols)
+
+neck (Cahuilla)
+Seen as: 
+[Transformed]
+
+
+new (Cahuilla)
+Seen as: pˈaŋiš
+[Transformed]
+pˈaŋiš	-->	PNS (Total 3 symbols)
+
+night (Cahuilla)
+Seen as: tˈuk-miyat ~ tˈuk-maːt #
+[Transformed]
+tˈuk	-->	TK (Total 2 symbols)
+tˈuk	-->	TK (Total 2 symbols)
+
+nose (Cahuilla)
+Seen as: hˈe=mu-l
+[Transformed]
+mu	-->	MH (Total 2 symbols)
+
+not (Cahuilla)
+Seen as: kiʎe
+[Transformed]
+kiʎe	-->	KL (Total 2 symbols)
+
+one (Cahuilla)
+Seen as: sˈupʎi ~ sˈupʎe
+[Transformed]
+sˈupʎi	-->	SPL (Total 3 symbols)
+sˈupʎe	-->	SPL (Total 3 symbols)
+
+person (Cahuilla)
+Seen as: tˈax-lis-wet
+[Transformed]
+tˈax	-->	TK (Total 2 symbols)
+
+rain (Cahuilla)
+Seen as: wˈewn-iš
+[Transformed]
+wˈewn	-->	WN (Total 2 symbols)
+
+red (Cahuilla)
+Seen as: sˈel-nek-iš
+[Transformed]
+sˈel	-->	SL (Total 2 symbols)
+
+road (Cahuilla)
+Seen as: pˈi-t
+[Transformed]
+pˈi	-->	PH (Total 2 symbols)
+
+root (Cahuilla)
+Seen as: pˈuku-ʔu
+[Transformed]
+pˈuku	-->	PK (Total 2 symbols)
+
+round (D) (Cahuilla)
+Seen as: pumli=pˈumliʔ-wet; tuyβa=tˈuyβaʔ-wet
+[Transformed]
+pˈumliʔ	-->	PML (Total 3 symbols)
+tˈuyβaʔ	-->	TP (Total 2 symbols)
+
+sand (Cahuilla)
+Seen as: ŋˈači-š
+[Transformed]
+ŋˈači	-->	NC (Total 2 symbols)
+
+say (Cahuilla)
+Seen as: yˈax- ~ =yax-
+[Transformed]
+yˈax	-->	YK (Total 2 symbols)
+yax	-->	YK (Total 2 symbols)
+
+see (Cahuilla)
+Seen as: =tˈeːw-
+[Transformed]
+tˈeːw	-->	TH (Total 2 symbols)
+
+seed (Cahuilla)
+Seen as: pˈuč-iʎ #
+[Transformed]
+pˈuč	-->	PC (Total 2 symbols)
+
+sit (Cahuilla)
+Seen as: =čˈiʔa-
+[Transformed]
+čˈiʔa	-->	CH (Total 2 symbols)
+
+skin (Cahuilla)
+Seen as: sˈaβa-l
+[Transformed]
+sˈaβa	-->	SP (Total 2 symbols)
+
+sleep (Cahuilla)
+Seen as: =kˈup-
+[Transformed]
+kˈup	-->	KP (Total 2 symbols)
+
+small (Cahuilla)
+Seen as: ʔˈiniš-iʎ
+[Transformed]
+ʔˈiniš	-->	HNS (Total 3 symbols)
+
+smoke (Cahuilla)
+Seen as: mˈiʔ-at
+[Transformed]
+mˈiʔ	-->	MH (Total 2 symbols)
+
+stand (Cahuilla)
+Seen as: =hˈiwen-
+[Transformed]
+hˈiwen	-->	HN (Total 2 symbols)
+
+star (Cahuilla)
+Seen as: sˈuʔ-we-t
+[Transformed]
+sˈuʔ	-->	SH (Total 2 symbols)
+
+stone (Cahuilla)
+Seen as: qˈawiš
+[Transformed]
+qˈawiš	-->	KS (Total 2 symbols)
+
+sun (Cahuilla)
+Seen as: tˈamit
+[Transformed]
+tˈamit	-->	TMT (Total 3 symbols)
+
+swim (Cahuilla)
+Seen as: =wˈaye- #
+[Transformed]
+wˈaye	-->	WH (Total 2 symbols)
+
+tail (Cahuilla)
+Seen as: =kʷas
+[Transformed]
+kʷas	-->	KS (Total 2 symbols)
+
+that (Cahuilla)
+Seen as: pˈeʔ
+[Transformed]
+pˈeʔ	-->	PH (Total 2 symbols)
+
+this (Cahuilla)
+Seen as: ʔˈiʔ
+[Transformed]
+ʔˈiʔ	-->	HH (Total 2 symbols)
+
+thou (Cahuilla)
+Seen as: ʔˈet
+[Transformed]
+ʔˈet	-->	HT (Total 2 symbols)
+
+tongue (Cahuilla)
+Seen as: hˈe=naŋ-iʎ
+[Transformed]
+naŋ	-->	NN (Total 2 symbols)
+
+tooth (Cahuilla)
+Seen as: tˈama-l
+[Transformed]
+tˈama	-->	TM (Total 2 symbols)
+
+tree (Cahuilla)
+Seen as: kˈelaw-at
+[Transformed]
+kˈelaw	-->	KL (Total 2 symbols)
+
+two (Cahuilla)
+Seen as: wˈih
+[Transformed]
+wˈih	-->	WH (Total 2 symbols)
+
+walk (go) (Cahuilla)
+Seen as: =hˈiči-
+[Transformed]
+hˈiči	-->	HC (Total 2 symbols)
+
+warm (hot) (Cahuilla)
+Seen as: sˈiw-ma
+[Transformed]
+sˈiw	-->	SH (Total 2 symbols)
+
+water (Cahuilla)
+Seen as: pˈa-l
+[Transformed]
+pˈa	-->	PH (Total 2 symbols)
+
+we (Cahuilla)
+Seen as: čˈem
+[Transformed]
+čˈem	-->	CM (Total 2 symbols)
+
+what (Cahuilla)
+Seen as: hˈičeʔa
+[Transformed]
+hˈičeʔa	-->	HC (Total 2 symbols)
+
+white (Cahuilla)
+Seen as: tˈeβiš-nek
+[Transformed]
+tˈeβiš	-->	TPS (Total 3 symbols)
+
+who (Cahuilla)
+Seen as: hˈaxʔi
+[Transformed]
+hˈaxʔi	-->	HK (Total 2 symbols)
+
+woman (Cahuilla)
+Seen as: ɲˈičiʎ
+[Transformed]
+ɲˈičiʎ	-->	NCL (Total 3 symbols)
+
+yellow (Cahuilla)
+Seen as: tˈes-nek-iš
+[Transformed]
+tˈes	-->	TS (Total 2 symbols)
+
+far (Cahuilla)
+Seen as: pˈepiy
+[Transformed]
+pˈepiy	-->	PP (Total 2 symbols)
+
+heavy (Cahuilla)
+Seen as: pˈele-ma
+[Transformed]
+pˈele	-->	PL (Total 2 symbols)
+
+near (Cahuilla)
+Seen as: sˈunči #
+[Transformed]
+sˈunči	-->	SNC (Total 3 symbols)
+
+salt (Cahuilla)
+Seen as: ʔˈiŋ-iʎ
+[Transformed]
+ʔˈiŋ	-->	HN (Total 2 symbols)
+
+short (Cahuilla)
+Seen as: 
+[Transformed]
+
+
+snake (Cahuilla)
+Seen as: sˈewet #
+[Transformed]
+sˈewet	-->	ST (Total 2 symbols)
+
+thin (Cahuilla)
+Seen as: 
+[Transformed]
+
+
+wind (Cahuilla)
+Seen as: yˈaʔi
+[Transformed]
+yˈaʔi	-->	YH (Total 2 symbols)
+
+worm (Cahuilla)
+Seen as: sˈiβuy-al
+[Transformed]
+sˈiβuy	-->	SP (Total 2 symbols)
+
+year (Cahuilla)
+Seen as: tˈawpax-iš
+[Transformed]
+tˈawpax	-->	TPK (Total 3 symbols)
+

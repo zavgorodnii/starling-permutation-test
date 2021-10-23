@@ -1,0 +1,562 @@
+all (Konda)
+Seen as: viz-
+[Transformed]
+viz	-->	PS (Total 2 symbols)
+
+ashes (Konda)
+Seen as: niːr-u
+[Transformed]
+niːr	-->	NR (Total 2 symbols)
+
+bark (Konda)
+Seen as: toko
+[Transformed]
+toko	-->	TK (Total 2 symbols)
+
+belly (Konda)
+Seen as: poʈ-a
+[Transformed]
+poʈ	-->	PT (Total 2 symbols)
+
+big (Konda)
+Seen as: peɾi
+[Transformed]
+peɾi	-->	PR (Total 2 symbols)
+
+bird (Konda)
+Seen as: poʈi
+[Transformed]
+poʈi	-->	PT (Total 2 symbols)
+
+bite (Konda)
+Seen as: kaʈ-
+[Transformed]
+kaʈ	-->	KT (Total 2 symbols)
+
+black (Konda)
+Seen as: kari
+[Transformed]
+kari	-->	KR (Total 2 symbols)
+
+blood (Konda)
+Seen as: neteɾ
+[Transformed]
+neteɾ	-->	NTR (Total 3 symbols)
+
+bone (Konda)
+Seen as: ɖumu
+[Transformed]
+ɖumu	-->	TM (Total 2 symbols)
+
+breast (Konda)
+Seen as: eduram
+[Transformed]
+eduram	-->	HTRM (Total 4 symbols)
+
+burn tr. (Konda)
+Seen as: eɾ- #
+[Transformed]
+eɾ	-->	HR (Total 2 symbols)
+
+claw(nail) (Konda)
+Seen as: goːɾ ~ goːɾ-u
+[Transformed]
+goːɾ	-->	KR (Total 2 symbols)
+goːɾ	-->	KR (Total 2 symbols)
+
+cloud (Konda)
+Seen as: mosop
+[Transformed]
+mosop	-->	MSP (Total 3 symbols)
+
+cold (Konda)
+Seen as: pini
+[Transformed]
+pini	-->	PN (Total 2 symbols)
+
+come (Konda)
+Seen as: vaː-
+[Transformed]
+vaː	-->	PH (Total 2 symbols)
+
+die (Konda)
+Seen as: saː-
+[Transformed]
+saː	-->	SH (Total 2 symbols)
+
+dog (Konda)
+Seen as: nukuɽi
+[Transformed]
+nukuɽi	-->	NKR (Total 3 symbols)
+
+drink (Konda)
+Seen as: uɳ-
+[Transformed]
+uɳ	-->	HN (Total 2 symbols)
+
+dry (Konda)
+Seen as: vaɽ-
+[Transformed]
+vaɽ	-->	PR (Total 2 symbols)
+
+ear (Konda)
+Seen as: gibi
+[Transformed]
+gibi	-->	KP (Total 2 symbols)
+
+earth (Konda)
+Seen as: 
+[Transformed]
+
+
+eat (Konda)
+Seen as: tin-
+[Transformed]
+tin	-->	TN (Total 2 symbols)
+
+egg (Konda)
+Seen as: 
+[Transformed]
+
+
+eye (Konda)
+Seen as: kaɳ-ka
+[Transformed]
+kaɳ	-->	KN (Total 2 symbols)
+
+fat n. (Konda)
+Seen as: koɽvu
+[Transformed]
+koɽvu	-->	KRP (Total 3 symbols)
+
+feather (Konda)
+Seen as: kel-u
+[Transformed]
+kel	-->	KL (Total 2 symbols)
+
+fire (Konda)
+Seen as: sis-u
+[Transformed]
+sis	-->	SS (Total 2 symbols)
+
+fish (Konda)
+Seen as: moy-a
+[Transformed]
+moy	-->	MH (Total 2 symbols)
+
+fly v. (Konda)
+Seen as: egri-
+[Transformed]
+egri	-->	HKR (Total 3 symbols)
+
+foot (Konda)
+Seen as: paːdam
+[Transformed]
+paːdam	-->	PTM (Total 3 symbols)
+
+full (Konda)
+Seen as: ninri-
+[Transformed]
+ninri	-->	NNR (Total 3 symbols)
+
+give (Konda)
+Seen as: siː-
+[Transformed]
+siː	-->	SH (Total 2 symbols)
+
+good (Konda)
+Seen as: negi
+[Transformed]
+negi	-->	NK (Total 2 symbols)
+
+green (Konda)
+Seen as: pasi
+[Transformed]
+pasi	-->	PS (Total 2 symbols)
+
+hair (Konda)
+Seen as: zut-u
+[Transformed]
+zut	-->	ST (Total 2 symbols)
+
+hand (Konda)
+Seen as: kiy-u
+[Transformed]
+kiy	-->	KH (Total 2 symbols)
+
+head (Konda)
+Seen as: tal-a
+[Transformed]
+tal	-->	TL (Total 2 symbols)
+
+hear (Konda)
+Seen as: ven-
+[Transformed]
+ven	-->	PN (Total 2 symbols)
+
+heart (Konda)
+Seen as: guɳɖe
+[Transformed]
+guɳɖe	-->	KNT (Total 3 symbols)
+
+horn (Konda)
+Seen as: kom-u
+[Transformed]
+kom	-->	KM (Total 2 symbols)
+
+I (Konda)
+Seen as: naː-n ~ naː-n-u
+[Transformed]
+naː	-->	NH (Total 2 symbols)
+naː	-->	NH (Total 2 symbols)
+
+kill (Konda)
+Seen as: sa-p-
+[Transformed]
+sa	-->	SH (Total 2 symbols)
+
+knee (Konda)
+Seen as: miɽv-a
+[Transformed]
+miɽv	-->	MRP (Total 3 symbols)
+
+know (Konda)
+Seen as: nes-
+[Transformed]
+nes	-->	NS (Total 2 symbols)
+
+leaf (Konda)
+Seen as: aːku
+[Transformed]
+aːku	-->	HK (Total 2 symbols)
+
+lie (Konda)
+Seen as: guːɾ-
+[Transformed]
+guːɾ	-->	KR (Total 2 symbols)
+
+liver (Konda)
+Seen as: pit-a
+[Transformed]
+pit	-->	PT (Total 2 symbols)
+
+long (Konda)
+Seen as: niri
+[Transformed]
+niri	-->	NR (Total 2 symbols)
+
+louse (Konda)
+Seen as: pen-i
+[Transformed]
+pen	-->	PN (Total 2 symbols)
+
+man (Konda)
+Seen as: 
+[Transformed]
+
+
+many (Konda)
+Seen as: ɖaʈam
+[Transformed]
+ɖaʈam	-->	TTM (Total 3 symbols)
+
+meat (Konda)
+Seen as: kaɳɖ-a
+[Transformed]
+kaɳɖ	-->	KNT (Total 3 symbols)
+
+moon (Konda)
+Seen as: nel-a
+[Transformed]
+nel	-->	NL (Total 2 symbols)
+
+mountain (Konda)
+Seen as: goron
+[Transformed]
+goron	-->	KRN (Total 3 symbols)
+
+mouth (Konda)
+Seen as: vey-u
+[Transformed]
+vey	-->	PH (Total 2 symbols)
+
+name (Konda)
+Seen as: peːɾ ~ peːɾ-u
+[Transformed]
+peːɾ	-->	PR (Total 2 symbols)
+peːɾ	-->	PR (Total 2 symbols)
+
+neck (Konda)
+Seen as: meɽ-a
+[Transformed]
+meɽ	-->	MR (Total 2 symbols)
+
+new (Konda)
+Seen as: 
+[Transformed]
+
+
+night (Konda)
+Seen as: rey-u
+[Transformed]
+rey	-->	RH (Total 2 symbols)
+
+nose (Konda)
+Seen as: muːnzi
+[Transformed]
+muːnzi	-->	MNS (Total 3 symbols)
+
+not (Konda)
+Seen as: =ʔe- / =ʔ-
+[Transformed]
+ʔe	-->	HH (Total 2 symbols)
+ʔ	-->	HH (Total 2 symbols)
+
+one (Konda)
+Seen as: oɾ-
+[Transformed]
+oɾ	-->	HR (Total 2 symbols)
+
+person (Konda)
+Seen as: 
+[Transformed]
+
+
+rain (Konda)
+Seen as: pir-u
+[Transformed]
+pir	-->	PR (Total 2 symbols)
+
+red (Konda)
+Seen as: era
+[Transformed]
+era	-->	HR (Total 2 symbols)
+
+road (Konda)
+Seen as: sar-i
+[Transformed]
+sar	-->	SR (Total 2 symbols)
+
+root (Konda)
+Seen as: 
+[Transformed]
+
+
+round (Konda)
+Seen as: 
+[Transformed]
+
+
+sand (Konda)
+Seen as: iska
+[Transformed]
+iska	-->	HSK (Total 3 symbols)
+
+say (Konda)
+Seen as: in-
+[Transformed]
+in	-->	HN (Total 2 symbols)
+
+see (Konda)
+Seen as: suɽ- ~ suːɳ-
+[Transformed]
+suɽ	-->	SR (Total 2 symbols)
+suːɳ	-->	SN (Total 2 symbols)
+
+seed (Konda)
+Seen as: ginz-a
+[Transformed]
+ginz	-->	KNS (Total 3 symbols)
+
+sit (Konda)
+Seen as: bas-
+[Transformed]
+bas	-->	PS (Total 2 symbols)
+
+skin (Konda)
+Seen as: toːl-u
+[Transformed]
+toːl	-->	TL (Total 2 symbols)
+
+sleep (Konda)
+Seen as: guːɾ-
+[Transformed]
+guːɾ	-->	KR (Total 2 symbols)
+
+small (Konda)
+Seen as: izɾi
+[Transformed]
+izɾi	-->	HSR (Total 3 symbols)
+
+smoke (Konda)
+Seen as: goːyi
+[Transformed]
+goːyi	-->	KH (Total 2 symbols)
+
+stand (Konda)
+Seen as: nil-
+[Transformed]
+nil	-->	NL (Total 2 symbols)
+
+star (Konda)
+Seen as: suk-a #
+[Transformed]
+suk	-->	SK (Total 2 symbols)
+
+stone (Konda)
+Seen as: paɳku
+[Transformed]
+paɳku	-->	PNK (Total 3 symbols)
+
+sun (Konda)
+Seen as: podu
+[Transformed]
+podu	-->	PT (Total 2 symbols)
+
+swim (Konda)
+Seen as: poːŋgɾay aː-
+[Transformed]
+poːŋgɾay	-->	PNKR (Total 4 symbols)
+
+tail (Konda)
+Seen as: toːk-a
+[Transformed]
+toːk	-->	TK (Total 2 symbols)
+
+that (Konda)
+Seen as: a-
+[Transformed]
+a	-->	HH (Total 2 symbols)
+
+this (Konda)
+Seen as: i-
+[Transformed]
+i	-->	HH (Total 2 symbols)
+
+thou (Konda)
+Seen as: niː-n ~ niː-n-u
+[Transformed]
+niː	-->	NH (Total 2 symbols)
+niː	-->	NH (Total 2 symbols)
+
+tongue (Konda)
+Seen as: naːlik-a
+[Transformed]
+naːlik	-->	NLK (Total 3 symbols)
+
+tooth (Konda)
+Seen as: pal-u
+[Transformed]
+pal	-->	PL (Total 2 symbols)
+
+tree (Konda)
+Seen as: maɾa-n
+[Transformed]
+maɾa	-->	MR (Total 2 symbols)
+
+two (Konda)
+Seen as: ɾiʔ- ~ ɾi-
+[Transformed]
+ɾiʔ	-->	RH (Total 2 symbols)
+ɾi	-->	RH (Total 2 symbols)
+
+walk (go) (Konda)
+Seen as: son-
+[Transformed]
+son	-->	SN (Total 2 symbols)
+
+warm (hot) (Konda)
+Seen as: ves-ni
+[Transformed]
+ves	-->	PS (Total 2 symbols)
+
+water (Konda)
+Seen as: eːru
+[Transformed]
+eːru	-->	HR (Total 2 symbols)
+
+we (Konda)
+Seen as: maːp ~ maːp-u; maːʈ ~ maːʈ-u
+[Transformed]
+maːp	-->	MP (Total 2 symbols)
+maːp	-->	MP (Total 2 symbols)
+maːʈ	-->	MT (Total 2 symbols)
+maːʈ	-->	MT (Total 2 symbols)
+
+what (Konda)
+Seen as: aye-
+[Transformed]
+aye	-->	HH (Total 2 symbols)
+
+white (Konda)
+Seen as: telan-i ~ telaŋ-di
+[Transformed]
+telan	-->	TLN (Total 3 symbols)
+telaŋ	-->	TLN (Total 3 symbols)
+
+who (Konda)
+Seen as: aye-
+[Transformed]
+aye	-->	HH (Total 2 symbols)
+
+woman (Konda)
+Seen as: 
+[Transformed]
+
+
+yellow (Konda)
+Seen as: pasiŋ #
+[Transformed]
+pasiŋ	-->	PSN (Total 3 symbols)
+
+far (Konda)
+Seen as: 
+[Transformed]
+
+
+heavy (Konda)
+Seen as: 
+[Transformed]
+
+
+near (Konda)
+Seen as: ɖagru
+[Transformed]
+ɖagru	-->	TKR (Total 3 symbols)
+
+salt (Konda)
+Seen as: soːɾ-u
+[Transformed]
+soːɾ	-->	SR (Total 2 symbols)
+
+short (Konda)
+Seen as: kuri
+[Transformed]
+kuri	-->	KR (Total 2 symbols)
+
+snake (Konda)
+Seen as: saɾas ~ saɾas-u
+[Transformed]
+saɾas	-->	SRS (Total 3 symbols)
+saɾas	-->	SRS (Total 3 symbols)
+
+thin (Konda)
+Seen as: 
+[Transformed]
+
+
+wind (Konda)
+Seen as: gaːli
+[Transformed]
+gaːli	-->	KL (Total 2 symbols)
+
+worm (Konda)
+Seen as: piɽ-vu
+[Transformed]
+piɽ	-->	PR (Total 2 symbols)
+
+year (Konda)
+Seen as: 
+[Transformed]
+
+

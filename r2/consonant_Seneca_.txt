@@ -1,0 +1,558 @@
+all (Seneca)
+Seen as: ka=kweːk-ɔ̃h
+[Transformed]
+kweːk	-->	KK (Total 2 symbols)
+
+ashes (Seneca)
+Seen as: ʔo=ʔkɛ̃ː-ʔ
+[Transformed]
+ʔkɛ̃ː	-->	HK (Total 2 symbols)
+
+bark (Seneca)
+Seen as: ʔo=ʔwaʒista-ʔ
+[Transformed]
+ʔwaʒista	-->	HCST (Total 4 symbols)
+
+belly (Seneca)
+Seen as: ʔo=sheːwa-ʔ #
+[Transformed]
+sheːwa	-->	SH (Total 2 symbols)
+
+big (Seneca)
+Seen as: k=owaːnɛ̃-h
+[Transformed]
+owaːnɛ̃	-->	HN (Total 2 symbols)
+
+bird (Seneca)
+Seen as: ʒiʔt-ɛ̃ʔɔ̃ː-h ~ ʒiʔt-ɛ̃ʔɔ̃ː-h
+[Transformed]
+ʒiʔt	-->	CT (Total 2 symbols)
+ʒiʔt	-->	CT (Total 2 symbols)
+
+bite (Seneca)
+Seen as: ʔoʔ=k=iːk
+[Transformed]
+iːk	-->	HK (Total 2 symbols)
+
+black (Seneca)
+Seen as: ʒɛ̃ːsta-ʔɛ̃ː-ʔ
+[Transformed]
+ʒɛ̃ːsta	-->	CST (Total 3 symbols)
+
+blood (Seneca)
+Seen as: ʔo=tkwɛ̃hsa-ʔ
+[Transformed]
+tkwɛ̃hsa	-->	TKS (Total 3 symbols)
+
+bone (Seneca)
+Seen as: ʔo=ʔnɛ̃ːya-ʔ
+[Transformed]
+ʔnɛ̃ːya	-->	HN (Total 2 symbols)
+
+breast (Seneca)
+Seen as: ke=ʔtɔ̃hsä-ʔkeh
+[Transformed]
+ʔtɔ̃hsä	-->	HTS (Total 3 symbols)
+
+burn tr. (Seneca)
+Seen as: ʔak=hɛ̃ʔtaː-h #
+[Transformed]
+hɛ̃ʔtaː	-->	HT (Total 2 symbols)
+
+claw(nail) (Seneca)
+Seen as: ʔo=ʔehta-ʔ
+[Transformed]
+ʔehta	-->	HT (Total 2 symbols)
+
+cloud (Seneca)
+Seen as: ʔo=hʒiʔkä-ʔ
+[Transformed]
+hʒiʔkä	-->	HCK (Total 3 symbols)
+
+cold (Seneca)
+Seen as: ʔo=nɔ̃ʔnoː-h
+[Transformed]
+nɔ̃ʔnoː	-->	NN (Total 2 symbols)
+
+come (Seneca)
+Seen as: h=aktɔ̃-s
+[Transformed]
+aktɔ̃	-->	HKT (Total 3 symbols)
+
+die (Seneca)
+Seen as: haw=eːey-ɔ̃ːh
+[Transformed]
+eːey	-->	HH (Total 2 symbols)
+
+dog (Seneca)
+Seen as: ʒiːyä-h
+[Transformed]
+ʒiːyä	-->	CH (Total 2 symbols)
+
+drink (Seneca)
+Seen as: hoː=neke-ɛ̃h
+[Transformed]
+neke	-->	NK (Total 2 symbols)
+
+dry (Seneca)
+Seen as: ʔo=hɛ̃ː-h
+[Transformed]
+hɛ̃ː	-->	HH (Total 2 symbols)
+
+ear (Seneca)
+Seen as: ʔo=ɔ̃hta-ʔ
+[Transformed]
+ɔ̃hta	-->	HT (Total 2 symbols)
+
+earth (Seneca)
+Seen as: y=ɔ̃ɛ̃ʒa-te-ʔ
+[Transformed]
+ɔ̃ɛ̃ʒa	-->	HC (Total 2 symbols)
+
+eat (Seneca)
+Seen as: ʔakeː=k-ɔ̃h
+[Transformed]
+k	-->	KH (Total 2 symbols)
+
+egg (Seneca)
+Seen as: ʔo=ʔhɔ̃hsa-ʔ
+[Transformed]
+ʔhɔ̃hsa	-->	HS (Total 2 symbols)
+
+eye (Seneca)
+Seen as: ka=kaː-ʔ
+[Transformed]
+kaː	-->	KH (Total 2 symbols)
+
+fat n. (Seneca)
+Seen as: ʔoː=nɔ̃-ʔ
+[Transformed]
+nɔ̃	-->	NH (Total 2 symbols)
+
+feather (Seneca)
+Seen as: ʔo=äʔta-ʔ
+[Transformed]
+äʔta	-->	HT (Total 2 symbols)
+
+fire (Seneca)
+Seen as: ka=ʒiːsta-ʔ
+[Transformed]
+ʒiːsta	-->	CST (Total 3 symbols)
+
+fish (Seneca)
+Seen as: kɛ̃=ʒɔ̃-h
+[Transformed]
+ʒɔ̃	-->	CH (Total 2 symbols)
+
+fly v. (Seneca)
+Seen as: te=yoː=tɛ̃ː-h
+[Transformed]
+tɛ̃ː	-->	TH (Total 2 symbols)
+
+foot (Seneca)
+Seen as: ʔo=hsiʔta-ʔ
+[Transformed]
+hsiʔta	-->	HST (Total 3 symbols)
+
+full (Seneca)
+Seen as: ka=nɔ̃ːh-ɔ̃h
+[Transformed]
+nɔ̃ːh	-->	NH (Total 2 symbols)
+
+give (Seneca)
+Seen as: hak=aːwiː-h
+[Transformed]
+aːwiː	-->	HH (Total 2 symbols)
+
+good (Seneca)
+Seen as: w=iːyoː-h
+[Transformed]
+iːyoː	-->	HH (Total 2 symbols)
+
+green (Seneca)
+Seen as: ka=nɛ̃hta-ik-hɔ̃-ʔ ~ ka=nähta-ik-hɔ̃-ʔ
+[Transformed]
+nɛ̃hta	-->	NT (Total 2 symbols)
+nähta	-->	NT (Total 2 symbols)
+
+hair (Seneca)
+Seen as: ʔo=keʔä-ʔ
+[Transformed]
+keʔä	-->	KH (Total 2 symbols)
+
+hand (Seneca)
+Seen as: ʔo=sʔohta-ʔ
+[Transformed]
+sʔohta	-->	ST (Total 2 symbols)
+
+head (Seneca)
+Seen as: ʔo=nɔ̃ʔɛ̃ː-ʔ
+[Transformed]
+nɔ̃ʔɛ̃ː	-->	NH (Total 2 symbols)
+
+hear (Seneca)
+Seen as: ʔak=aːɔ̃k-ɛ̃h
+[Transformed]
+aːɔ̃k	-->	HK (Total 2 symbols)
+
+heart (Seneca)
+Seen as: ʔaw=ɛ̃nyahsa-ʔ
+[Transformed]
+ɛ̃nyahsa	-->	HNS (Total 3 symbols)
+
+horn (Seneca)
+Seen as: ʔo=nɔ̃ʔkäː-ʔ
+[Transformed]
+nɔ̃ʔkäː	-->	NK (Total 2 symbols)
+
+I (Seneca)
+Seen as: ʔiːʔ ~ niːʔ
+[Transformed]
+ʔiːʔ	-->	HH (Total 2 symbols)
+niːʔ	-->	NH (Total 2 symbols)
+
+kill (Seneca)
+Seen as: ʔak=iːyoː-h
+[Transformed]
+iːyoː	-->	HH (Total 2 symbols)
+
+knee (Seneca)
+Seen as: ʔa=ɔ̃sha-ʔ
+[Transformed]
+ɔ̃sha	-->	HS (Total 2 symbols)
+
+know (Seneca)
+Seen as: ʔak=ɛ̃nɔ̃htɔ̃-ʔ
+[Transformed]
+ɛ̃nɔ̃htɔ̃	-->	HNT (Total 3 symbols)
+
+leaf (Seneca)
+Seen as: ʔo=nɛ̃hta-ʔ ~ ʔo=nähta-ʔ
+[Transformed]
+nɛ̃hta	-->	NT (Total 2 symbols)
+nähta	-->	NT (Total 2 symbols)
+
+lie (Seneca)
+Seen as: ha=yashɛ̃-ʔ
+[Transformed]
+yashɛ̃	-->	YS (Total 2 symbols)
+
+liver (Seneca)
+Seen as: ʔo=thwɛ̃hsa-ʔ
+[Transformed]
+thwɛ̃hsa	-->	TS (Total 2 symbols)
+
+long (Seneca)
+Seen as: ʔiːy=ɔ̃ːs
+[Transformed]
+ɔ̃ːs	-->	HS (Total 2 symbols)
+
+louse (Seneca)
+Seen as: ʒiʔnɔ̃ː-h
+[Transformed]
+ʒiʔnɔ̃ː	-->	CN (Total 2 symbols)
+
+man (Seneca)
+Seen as: ha=ʒiːnɔ̃-h
+[Transformed]
+ʒiːnɔ̃	-->	CN (Total 2 symbols)
+
+many (Seneca)
+Seen as: w=eːso-ʔ
+[Transformed]
+eːso	-->	HS (Total 2 symbols)
+
+meat (Seneca)
+Seen as: ʔo=ʔwaː-ʔ
+[Transformed]
+ʔwaː	-->	HH (Total 2 symbols)
+
+moon (Seneca)
+Seen as: k=äːhkwaː-ʔ
+[Transformed]
+äːhkwaː	-->	HK (Total 2 symbols)
+
+mountain (Seneca)
+Seen as: ʔo=nɔ̃ta-te-ʔ
+[Transformed]
+nɔ̃ta	-->	NT (Total 2 symbols)
+
+mouth (Seneca)
+Seen as: ha=hsa-kaːɛ̃t
+[Transformed]
+hsa	-->	HS (Total 2 symbols)
+
+name (Seneca)
+Seen as: ka=hsɛ̃ːnɔ̃-ʔ
+[Transformed]
+hsɛ̃ːnɔ̃	-->	HSN (Total 3 symbols)
+
+neck (Seneca)
+Seen as: ʔoː=nyaʔsa-ʔ
+[Transformed]
+nyaʔsa	-->	NS (Total 2 symbols)
+
+new (Seneca)
+Seen as: w=aːseː-ʔ
+[Transformed]
+aːseː	-->	HS (Total 2 symbols)
+
+night (Seneca)
+Seen as: w=ahsɔ̃ta-te-ʔ #
+[Transformed]
+ahsɔ̃ta	-->	HST (Total 3 symbols)
+
+nose (Seneca)
+Seen as: ke=kɔ̃ta-ʔkeh
+[Transformed]
+kɔ̃ta	-->	KT (Total 2 symbols)
+
+not (Seneca)
+Seen as: teʔ-
+[Transformed]
+teʔ	-->	TH (Total 2 symbols)
+
+one (Seneca)
+Seen as: skaːt ~ skaː
+[Transformed]
+skaːt	-->	SKT (Total 3 symbols)
+skaː	-->	SK (Total 2 symbols)
+
+person (Seneca)
+Seen as: ʔ=ɔ̃ːkwe-h
+[Transformed]
+ɔ̃ːkwe	-->	HK (Total 2 symbols)
+
+rain (Seneca)
+Seen as: ʔo=staːa-ʔ
+[Transformed]
+staːa	-->	ST (Total 2 symbols)
+
+red (Seneca)
+Seen as: tkwɛ̃htäː-ʔɛ̃ː-ʔ
+[Transformed]
+tkwɛ̃htäː	-->	TKT (Total 3 symbols)
+
+road (Seneca)
+Seen as: ʔoː=a-te-ʔ
+[Transformed]
+a	-->	HH (Total 2 symbols)
+
+root (Seneca)
+Seen as: ʔo=kteä-ʔ
+[Transformed]
+kteä	-->	KT (Total 2 symbols)
+
+round (Seneca)
+Seen as: te=yo=t=hweʔn-ɔ̃ːniː-h
+[Transformed]
+hweʔn	-->	HN (Total 2 symbols)
+
+sand (Seneca)
+Seen as: ʔo=ʔnehsa-ʔ
+[Transformed]
+ʔnehsa	-->	HNS (Total 3 symbols)
+
+say (Seneca)
+Seen as: ʔaːk=ɛ̃ː-h
+[Transformed]
+ɛ̃ː	-->	HH (Total 2 symbols)
+
+see (Seneca)
+Seen as: ʔakeː=kɛ̃ː-h
+[Transformed]
+kɛ̃ː	-->	KH (Total 2 symbols)
+
+seed (Seneca)
+Seen as: ʔo=nɔ̃hkwɛ̃ɔ̃-ʔ
+[Transformed]
+nɔ̃hkwɛ̃ɔ̃	-->	NK (Total 2 symbols)
+
+sit (Seneca)
+Seen as: ke=nyosyoːt
+[Transformed]
+nyosyoːt	-->	NST (Total 3 symbols)
+
+skin (Seneca)
+Seen as: k=iːnɔ̃ː-neh
+[Transformed]
+iːnɔ̃ː	-->	HN (Total 2 symbols)
+
+sleep (Seneca)
+Seen as: ho=taʔ-ɔ̃h
+[Transformed]
+taʔ	-->	TH (Total 2 symbols)
+
+small (Seneca)
+Seen as: ni=w=aʔaː-h
+[Transformed]
+aʔaː	-->	HH (Total 2 symbols)
+
+smoke (Seneca)
+Seen as: ʔo=yɛ̃ʔkwäː-ʔ
+[Transformed]
+yɛ̃ʔkwäː	-->	YK (Total 2 symbols)
+
+stand (Seneca)
+Seen as: ʔiːkeː=t
+[Transformed]
+t	-->	TH (Total 2 symbols)
+
+star (Seneca)
+Seen as: ʔo=ʒihsɔ̃ʔta-ʔ
+[Transformed]
+ʒihsɔ̃ʔta	-->	CST (Total 3 symbols)
+
+stone (Seneca)
+Seen as: ka=ʔskwaːa-ʔ
+[Transformed]
+ʔskwaːa	-->	HSK (Total 3 symbols)
+
+sun (Seneca)
+Seen as: k=äːhkwaː-ʔ
+[Transformed]
+äːhkwaː	-->	HK (Total 2 symbols)
+
+swim (Seneca)
+Seen as: ʔak=atawɛ̃ː-h
+[Transformed]
+atawɛ̃ː	-->	HT (Total 2 symbols)
+
+tail (Seneca)
+Seen as: kɛ̃=hkaːa-ʔ
+[Transformed]
+hkaːa	-->	HK (Total 2 symbols)
+
+that (Seneca)
+Seen as: neʔhoh
+[Transformed]
+neʔhoh	-->	NH (Total 2 symbols)
+
+this (Seneca)
+Seen as: nɛ̃:kɛ̃:h
+[Transformed]
+nɛ̃:kɛ̃:h	-->	NK (Total 2 symbols)
+
+thou (Seneca)
+Seen as: ʔiːs ~ niːs
+[Transformed]
+ʔiːs	-->	HS (Total 2 symbols)
+niːs	-->	NS (Total 2 symbols)
+
+tongue (Seneca)
+Seen as: ʔo=äʔnɔ̃hsa-ʔ
+[Transformed]
+äʔnɔ̃hsa	-->	HNS (Total 3 symbols)
+
+tooth (Seneca)
+Seen as: ʔo=noʔʒa-ʔ
+[Transformed]
+noʔʒa	-->	NC (Total 2 symbols)
+
+tree (Seneca)
+Seen as: k=äːit
+[Transformed]
+äːit	-->	HT (Total 2 symbols)
+
+two (Seneca)
+Seen as: tekhniːh
+[Transformed]
+tekhniːh	-->	TKN (Total 3 symbols)
+
+walk (go) (Seneca)
+Seen as: ʔak=ahtɛ̃ty-ɔ̃ːh
+[Transformed]
+ahtɛ̃ty	-->	HTT (Total 3 symbols)
+
+warm (hot) (Seneca)
+Seen as: ʔo=ʔtaiɛ̃ː-h
+[Transformed]
+ʔtaiɛ̃ː	-->	HT (Total 2 symbols)
+
+water (Seneca)
+Seen as: ʔoː=neka-no-s
+[Transformed]
+neka	-->	NK (Total 2 symbols)
+
+we (Seneca)
+Seen as: ʔiːʔ ~ niːʔ
+[Transformed]
+ʔiːʔ	-->	HH (Total 2 symbols)
+niːʔ	-->	NH (Total 2 symbols)
+
+what (Seneca)
+Seen as: tɛ̃ʔɛ̃h
+[Transformed]
+tɛ̃ʔɛ̃h	-->	TH (Total 2 symbols)
+
+white (Seneca)
+Seen as: ka=kɛ̃ːɛ̃t
+[Transformed]
+kɛ̃ːɛ̃t	-->	KT (Total 2 symbols)
+
+who (Seneca)
+Seen as: sɔ̃ːh
+[Transformed]
+sɔ̃ːh	-->	SH (Total 2 symbols)
+
+woman (Seneca)
+Seen as: ye=ɔ̃-h
+[Transformed]
+ɔ̃	-->	HH (Total 2 symbols)
+
+yellow (Seneca)
+Seen as: ʒitkwäː-ʔɛ̃ː-ʔ
+[Transformed]
+ʒitkwäː	-->	CTK (Total 3 symbols)
+
+far (Seneca)
+Seen as: weːɛ̃h
+[Transformed]
+weːɛ̃h	-->	WH (Total 2 symbols)
+
+heavy (Seneca)
+Seen as: ʔo=ste-ʔ
+[Transformed]
+ste	-->	ST (Total 2 symbols)
+
+near (Seneca)
+Seen as: toskɛ̃h
+[Transformed]
+toskɛ̃h	-->	TSK (Total 3 symbols)
+
+salt (Seneca)
+Seen as: ʔo=ʒikheʔta-ʔ
+[Transformed]
+ʒikheʔta	-->	CKT (Total 3 symbols)
+
+short (Seneca)
+Seen as: ni=w=akʔaː-h
+[Transformed]
+akʔaː	-->	HK (Total 2 symbols)
+
+snake (Seneca)
+Seen as: ʔo=shaista-ʔ
+[Transformed]
+shaista	-->	SST (Total 3 symbols)
+
+thin (Seneca)
+Seen as: ni=ka=takäː-ɔ̃h
+[Transformed]
+takäː	-->	TK (Total 2 symbols)
+
+wind (Seneca)
+Seen as: ʔoː=ä-te-ʔ
+[Transformed]
+ä	-->	HH (Total 2 symbols)
+
+worm (Seneca)
+Seen as: ʔo=ʔnɔ̃wɔ̃ehta-ʔ ~ ʔo=ʔnɔ̃weːhta-ʔ
+[Transformed]
+ʔnɔ̃wɔ̃ehta	-->	HNT (Total 3 symbols)
+ʔnɔ̃weːhta	-->	HNT (Total 3 symbols)
+
+year (Seneca)
+Seen as: y=oshäː-te-ʔ
+[Transformed]
+oshäː	-->	HS (Total 2 symbols)
+

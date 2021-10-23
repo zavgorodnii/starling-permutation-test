@@ -1,0 +1,556 @@
+all (Chara)
+Seen as: fˈitt-a; ˈurɐri
+[Transformed]
+fˈitt	-->	PTT (Total 3 symbols)
+ˈurɐri	-->	RR (Total 2 symbols)
+
+ashes (Chara)
+Seen as: bˈend-a
+[Transformed]
+bˈend	-->	PNT (Total 3 symbols)
+
+bark (Chara)
+Seen as: gˈong-a; gˈurʔ-a
+[Transformed]
+gˈong	-->	KNK (Total 3 symbols)
+gˈurʔ	-->	KR (Total 2 symbols)
+
+belly (Chara)
+Seen as: ʔˈiːn-a
+[Transformed]
+ʔˈiːn	-->	HN (Total 2 symbols)
+
+big (Chara)
+Seen as: mˈeːs-a
+[Transformed]
+mˈeːs	-->	MS (Total 2 symbols)
+
+bird (Chara)
+Seen as: kˈaf-a
+[Transformed]
+kˈaf	-->	KP (Total 2 symbols)
+
+bite (Chara)
+Seen as: sˈasʼ-
+[Transformed]
+sˈasʼ	-->	SS (Total 2 symbols)
+
+black (Chara)
+Seen as: kɐrt-ˈa
+[Transformed]
+kɐrt	-->	KRT (Total 3 symbols)
+
+blood (Chara)
+Seen as: sˈuːt-a
+[Transformed]
+sˈuːt	-->	ST (Total 2 symbols)
+
+bone (Chara)
+Seen as: mert-ˈa
+[Transformed]
+mert	-->	MRT (Total 3 symbols)
+
+breast (Chara)
+Seen as: tʼˈam-a #
+[Transformed]
+tʼˈam	-->	TM (Total 2 symbols)
+
+burn tr. (Chara)
+Seen as: mˈičʼ-
+[Transformed]
+mˈičʼ	-->	MC (Total 2 symbols)
+
+claw(nail) (Chara)
+Seen as: šʼˈug-na
+[Transformed]
+šʼˈug	-->	SK (Total 2 symbols)
+
+cloud (Chara)
+Seen as: tˈug-na
+[Transformed]
+tˈug	-->	TK (Total 2 symbols)
+
+cold (Chara)
+Seen as: šˈač-a
+[Transformed]
+šˈač	-->	SC (Total 2 symbols)
+
+come (Chara)
+Seen as: wˈoy-
+[Transformed]
+wˈoy	-->	WH (Total 2 symbols)
+
+die (Chara)
+Seen as: hˈay-
+[Transformed]
+hˈay	-->	HH (Total 2 symbols)
+
+dog (Chara)
+Seen as: kˈan-a
+[Transformed]
+kˈan	-->	KN (Total 2 symbols)
+
+drink (Chara)
+Seen as: ˈuš-ša
+[Transformed]
+ˈuš	-->	SH (Total 2 symbols)
+
+dry (Chara)
+Seen as: kˈoːl-a
+[Transformed]
+kˈoːl	-->	KL (Total 2 symbols)
+
+ear (Chara)
+Seen as: wˈoːy-a
+[Transformed]
+wˈoːy	-->	WH (Total 2 symbols)
+
+earth (Chara)
+Seen as: dˈukʼ-a
+[Transformed]
+dˈukʼ	-->	TK (Total 2 symbols)
+
+eat (Chara)
+Seen as: nˈa-na
+[Transformed]
+nˈa	-->	NH (Total 2 symbols)
+
+egg (Chara)
+Seen as: mˈoːl-a
+[Transformed]
+mˈoːl	-->	ML (Total 2 symbols)
+
+eye (Chara)
+Seen as: ˈaːp-a
+[Transformed]
+ˈaːp	-->	PH (Total 2 symbols)
+
+fat n. (Chara)
+Seen as: kˈuw-a
+[Transformed]
+kˈuw	-->	KH (Total 2 symbols)
+
+feather (Chara)
+Seen as: kˈus-na
+[Transformed]
+kˈus	-->	KS (Total 2 symbols)
+
+fire (Chara)
+Seen as: tˈam-a
+[Transformed]
+tˈam	-->	TM (Total 2 symbols)
+
+fish (Chara)
+Seen as: mol-ˈa
+[Transformed]
+mol	-->	ML (Total 2 symbols)
+
+fly v. (Chara)
+Seen as: wˈol-
+[Transformed]
+wˈol	-->	WL (Total 2 symbols)
+
+foot (Chara)
+Seen as: tˈaːy-a
+[Transformed]
+tˈaːy	-->	TH (Total 2 symbols)
+
+full (Chara)
+Seen as: sʼosʼ-ˈa
+[Transformed]
+sʼosʼ	-->	SS (Total 2 symbols)
+
+give (Chara)
+Seen as: ʔˈín
+[Transformed]
+ʔˈín	-->	HN (Total 2 symbols)
+
+good (Chara)
+Seen as: ˈons-a
+[Transformed]
+ˈons	-->	NS (Total 2 symbols)
+
+green (Chara)
+Seen as: čʼˈil-a
+[Transformed]
+čʼˈil	-->	CL (Total 2 symbols)
+
+hair (Chara)
+Seen as: kˈus-naʔ
+[Transformed]
+kˈus	-->	KS (Total 2 symbols)
+
+hand (Chara)
+Seen as: kuč-ˈa
+[Transformed]
+kuč	-->	KC (Total 2 symbols)
+
+head (Chara)
+Seen as: toːy-ˈa
+[Transformed]
+toːy	-->	TH (Total 2 symbols)
+
+hear (Chara)
+Seen as: hayt-nˈa
+[Transformed]
+hayt	-->	HT (Total 2 symbols)
+
+heart (Chara)
+Seen as: maːy-a
+[Transformed]
+maːy	-->	MH (Total 2 symbols)
+
+horn (Chara)
+Seen as: ˈuš-a
+[Transformed]
+ˈuš	-->	SH (Total 2 symbols)
+
+I (Chara)
+Seen as: tˈa-ni
+[Transformed]
+tˈa	-->	TH (Total 2 symbols)
+
+kill (Chara)
+Seen as: wˈotʼ-
+[Transformed]
+wˈotʼ	-->	WT (Total 2 symbols)
+
+knee (Chara)
+Seen as: kʼum-a
+[Transformed]
+kʼum	-->	KM (Total 2 symbols)
+
+know (Chara)
+Seen as: ˈar-
+[Transformed]
+ˈar	-->	RH (Total 2 symbols)
+
+leaf (Chara)
+Seen as: wˈuy-a
+[Transformed]
+wˈuy	-->	WH (Total 2 symbols)
+
+lie (Chara)
+Seen as: gˈetik-
+[Transformed]
+gˈetik	-->	KTK (Total 3 symbols)
+
+liver (Chara)
+Seen as: maːy-ˈa
+[Transformed]
+maːy	-->	MH (Total 2 symbols)
+
+long (Chara)
+Seen as: ɓɐd-ˈa ~ ɓɐɗ-ˈa
+[Transformed]
+ɓɐd	-->	PT (Total 2 symbols)
+ɓɐɗ	-->	PT (Total 2 symbols)
+
+louse (Chara)
+Seen as: čʼučʼ-ˈa
+[Transformed]
+čʼučʼ	-->	CC (Total 2 symbols)
+
+man (Chara)
+Seen as: naːzi #
+[Transformed]
+naːzi	-->	NS (Total 2 symbols)
+
+many (Chara)
+Seen as: bord-ˈa
+[Transformed]
+bord	-->	PRT (Total 3 symbols)
+
+meat (Chara)
+Seen as: ˈač-a
+[Transformed]
+ˈač	-->	CH (Total 2 symbols)
+
+moon (Chara)
+Seen as: dˈoz-a
+[Transformed]
+dˈoz	-->	TS (Total 2 symbols)
+
+mountain (Chara)
+Seen as: mˈuːt-a
+[Transformed]
+mˈuːt	-->	MT (Total 2 symbols)
+
+mouth (Chara)
+Seen as: noːn-ˈa
+[Transformed]
+noːn	-->	NN (Total 2 symbols)
+
+name (Chara)
+Seen as: sum-ˈa
+[Transformed]
+sum	-->	SM (Total 2 symbols)
+
+neck (Chara)
+Seen as: bork-ˈa
+[Transformed]
+bork	-->	PRK (Total 3 symbols)
+
+new (Chara)
+Seen as: kˈaːy-a
+[Transformed]
+kˈaːy	-->	KH (Total 2 symbols)
+
+night (Chara)
+Seen as: ˈunt-a
+[Transformed]
+ˈunt	-->	NT (Total 2 symbols)
+
+nose (Chara)
+Seen as: sˈintʼu
+[Transformed]
+sˈintʼu	-->	SNT (Total 3 symbols)
+
+not (Chara)
+Seen as: 
+[Transformed]
+
+
+one (Chara)
+Seen as: iss-ˈa
+[Transformed]
+iss	-->	HSS (Total 3 symbols)
+
+person (Chara)
+Seen as: ˈac-a
+[Transformed]
+ˈac	-->	CH (Total 2 symbols)
+
+rain (Chara)
+Seen as: ˈiːr-a
+[Transformed]
+ˈiːr	-->	RH (Total 2 symbols)
+
+red (Chara)
+Seen as: zˈuw-a
+[Transformed]
+zˈuw	-->	SH (Total 2 symbols)
+
+road (Chara)
+Seen as: bˈuk-a
+[Transformed]
+bˈuk	-->	PK (Total 2 symbols)
+
+root (Chara)
+Seen as: sʼˈaɓ-a
+[Transformed]
+sʼˈaɓ	-->	SP (Total 2 symbols)
+
+round (Chara)
+Seen as: 
+[Transformed]
+
+
+sand (Chara)
+Seen as: ˈamš-a
+[Transformed]
+ˈamš	-->	MS (Total 2 symbols)
+
+say (Chara)
+Seen as: dˈiʔ-en
+[Transformed]
+dˈiʔ	-->	TH (Total 2 symbols)
+
+see (Chara)
+Seen as: beʔ-
+[Transformed]
+beʔ	-->	PH (Total 2 symbols)
+
+seed (Chara)
+Seen as: dˈukʼ-a
+[Transformed]
+dˈukʼ	-->	TK (Total 2 symbols)
+
+sit (Chara)
+Seen as: kalm-ne; ut-na
+[Transformed]
+kalm	-->	KLM (Total 3 symbols)
+ut	-->	HT (Total 2 symbols)
+
+skin (Chara)
+Seen as: gong-ˈa
+[Transformed]
+gong	-->	KNK (Total 3 symbols)
+
+sleep (Chara)
+Seen as: gˈiʔ-
+[Transformed]
+gˈiʔ	-->	KH (Total 2 symbols)
+
+small (Chara)
+Seen as: gˈuc-a
+[Transformed]
+gˈuc	-->	KC (Total 2 symbols)
+
+smoke (Chara)
+Seen as: čʼˈuy-a
+[Transformed]
+čʼˈuy	-->	CH (Total 2 symbols)
+
+stand (Chara)
+Seen as: aš-ne; neyt-nˈa
+[Transformed]
+aš	-->	HS (Total 2 symbols)
+neyt	-->	NT (Total 2 symbols)
+
+star (Chara)
+Seen as: wˈončet-a
+[Transformed]
+wˈončet	-->	WNCT (Total 4 symbols)
+
+stone (Chara)
+Seen as: šuč-ˈa
+[Transformed]
+šuč	-->	SC (Total 2 symbols)
+
+sun (Chara)
+Seen as: oy-ˈa
+[Transformed]
+oy	-->	HH (Total 2 symbols)
+
+swim (Chara)
+Seen as: wˈatʼ-
+[Transformed]
+wˈatʼ	-->	WT (Total 2 symbols)
+
+tail (Chara)
+Seen as: sʼˈer-a
+[Transformed]
+sʼˈer	-->	SR (Total 2 symbols)
+
+that (Chara)
+Seen as: sˈekn ~ sˈekɐn
+[Transformed]
+sˈekn	-->	SKN (Total 3 symbols)
+sˈekɐn	-->	SKN (Total 3 symbols)
+
+this (Chara)
+Seen as: hˈaː-
+[Transformed]
+hˈaː	-->	HH (Total 2 symbols)
+
+thou (Chara)
+Seen as: nˈe-ni
+[Transformed]
+nˈe	-->	NH (Total 2 symbols)
+
+tongue (Chara)
+Seen as: ʔˈinsʼil-a
+[Transformed]
+ʔˈinsʼil	-->	HNSL (Total 4 symbols)
+
+tooth (Chara)
+Seen as: ˈačʼ-a
+[Transformed]
+ˈačʼ	-->	CH (Total 2 symbols)
+
+tree (Chara)
+Seen as: mˈic-a
+[Transformed]
+mˈic	-->	MC (Total 2 symbols)
+
+two (Chara)
+Seen as: nɐnt-ˈa
+[Transformed]
+nɐnt	-->	NNT (Total 3 symbols)
+
+walk (go) (Chara)
+Seen as: hˈam-
+[Transformed]
+hˈam	-->	HM (Total 2 symbols)
+
+warm (hot) (Chara)
+Seen as: 
+[Transformed]
+
+
+water (Chara)
+Seen as: ˈaːsʼ-a
+[Transformed]
+ˈaːsʼ	-->	SH (Total 2 symbols)
+
+we (Chara)
+Seen as: nˈu-ni
+[Transformed]
+nˈu	-->	NH (Total 2 symbols)
+
+what (Chara)
+Seen as: ˈaː-ze
+[Transformed]
+ˈaː	-->	 (Total 0 symbols)
+
+white (Chara)
+Seen as: dɐl-ˈa
+[Transformed]
+dɐl	-->	TL (Total 2 symbols)
+
+who (Chara)
+Seen as: ˈoː-ne
+[Transformed]
+ˈoː	-->	 (Total 0 symbols)
+
+woman (Chara)
+Seen as: maš-nˈa
+[Transformed]
+maš	-->	MS (Total 2 symbols)
+
+yellow (Chara)
+Seen as: tˈočʼɐr-a
+[Transformed]
+tˈočʼɐr	-->	TCR (Total 3 symbols)
+
+far (Chara)
+Seen as: 
+[Transformed]
+
+
+heavy (Chara)
+Seen as: baːy-ˈa
+[Transformed]
+baːy	-->	PH (Total 2 symbols)
+
+near (Chara)
+Seen as: 
+[Transformed]
+
+
+salt (Chara)
+Seen as: ʓeːg-ˈa
+[Transformed]
+ʓeːg	-->	CK (Total 2 symbols)
+
+short (Chara)
+Seen as: kʼˈoy-na
+[Transformed]
+kʼˈoy	-->	KH (Total 2 symbols)
+
+snake (Chara)
+Seen as: šˈoš-a
+[Transformed]
+šˈoš	-->	SS (Total 2 symbols)
+
+thin (Chara)
+Seen as: ʓˈiːm-a
+[Transformed]
+ʓˈiːm	-->	CM (Total 2 symbols)
+
+wind (Chara)
+Seen as: čˈub-a
+[Transformed]
+čˈub	-->	CP (Total 2 symbols)
+
+worm (Chara)
+Seen as: dˈunkʼ-a
+[Transformed]
+dˈunkʼ	-->	TNK (Total 3 symbols)
+
+year (Chara)
+Seen as: 
+[Transformed]
+
+

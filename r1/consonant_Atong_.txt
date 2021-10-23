@@ -1,0 +1,566 @@
+all (Atong)
+Seen as: gumuk
+[Transformed]
+gumuk	-->	KMK (Total 3 symbols)
+
+ashes (Atong)
+Seen as: tʰapəra
+[Transformed]
+tʰapəra	-->	TPR (Total 3 symbols)
+
+bark (Atong)
+Seen as: maw=kʰol
+[Transformed]
+kʰol	-->	KL (Total 2 symbols)
+
+belly (Atong)
+Seen as: pi=puk
+[Transformed]
+puk	-->	PK (Total 2 symbols)
+
+big (Atong)
+Seen as: čuŋ-
+[Transformed]
+čuŋ	-->	CN (Total 2 symbols)
+
+bird (Atong)
+Seen as: tawʔ
+[Transformed]
+tawʔ	-->	TH (Total 2 symbols)
+
+bite (Atong)
+Seen as: kak-
+[Transformed]
+kak	-->	KK (Total 2 symbols)
+
+black (Atong)
+Seen as: nak-
+[Transformed]
+nak	-->	NK (Total 2 symbols)
+
+blood (Atong)
+Seen as: tʰəiʔ
+[Transformed]
+tʰəiʔ	-->	TH (Total 2 symbols)
+
+bone (Atong)
+Seen as: kereŋ
+[Transformed]
+kereŋ	-->	KRN (Total 3 symbols)
+
+breast (Atong)
+Seen as: čel-bak
+[Transformed]
+čel	-->	CL (Total 2 symbols)
+
+burn tr. (Atong)
+Seen as: sawʔ-
+[Transformed]
+sawʔ	-->	SH (Total 2 symbols)
+
+claw(nail) (Atong)
+Seen as: čak=si=kʰol
+[Transformed]
+kʰol	-->	KL (Total 2 symbols)
+
+cloud (Atong)
+Seen as: raŋ=brəm
+[Transformed]
+brəm	-->	PRM (Total 3 symbols)
+
+cold (Atong)
+Seen as: ček- ~ čək-
+[Transformed]
+ček	-->	CK (Total 2 symbols)
+čək	-->	CK (Total 2 symbols)
+
+come (Atong)
+Seen as: raiʔ-a-
+[Transformed]
+raiʔ	-->	RH (Total 2 symbols)
+
+die (Atong)
+Seen as: tʰəi-
+[Transformed]
+tʰəi	-->	TH (Total 2 symbols)
+
+dog (Atong)
+Seen as: kəiʔ
+[Transformed]
+kəiʔ	-->	KH (Total 2 symbols)
+
+drink (Atong)
+Seen as: rəŋ-
+[Transformed]
+rəŋ	-->	RN (Total 2 symbols)
+
+dry (Atong)
+Seen as: ranʔ-
+[Transformed]
+ranʔ	-->	RN (Total 2 symbols)
+
+ear (Atong)
+Seen as: na-kʰal
+[Transformed]
+na	-->	NH (Total 2 symbols)
+
+earth (Atong)
+Seen as: haʔ
+[Transformed]
+haʔ	-->	HH (Total 2 symbols)
+
+eat (Atong)
+Seen as: saʔ-
+[Transformed]
+saʔ	-->	SH (Total 2 symbols)
+
+egg (Atong)
+Seen as: tawʔ=ti ~ tawʔ=təi
+[Transformed]
+ti	-->	TH (Total 2 symbols)
+təi	-->	TH (Total 2 symbols)
+
+eye (Atong)
+Seen as: mək-ren ~ mək-ərən
+[Transformed]
+mək	-->	MK (Total 2 symbols)
+mək	-->	MK (Total 2 symbols)
+
+fat n. (Atong)
+Seen as: bə=təm
+[Transformed]
+təm	-->	TM (Total 2 symbols)
+
+feather (Atong)
+Seen as: tawʔ=mənʔ
+[Transformed]
+mənʔ	-->	MN (Total 2 symbols)
+
+fire (Atong)
+Seen as: walʔ
+[Transformed]
+walʔ	-->	WL (Total 2 symbols)
+
+fish (Atong)
+Seen as: naʔ
+[Transformed]
+naʔ	-->	NH (Total 2 symbols)
+
+fly v. (Atong)
+Seen as: pəw-
+[Transformed]
+pəw	-->	PH (Total 2 symbols)
+
+foot (Atong)
+Seen as: čaʔ
+[Transformed]
+čaʔ	-->	CH (Total 2 symbols)
+
+full (Atong)
+Seen as: pʰiŋ-
+[Transformed]
+pʰiŋ	-->	PN (Total 2 symbols)
+
+give (Atong)
+Seen as: hənʔ-
+[Transformed]
+hənʔ	-->	HN (Total 2 symbols)
+
+good (Atong)
+Seen as: nem-
+[Transformed]
+nem	-->	NM (Total 2 symbols)
+
+green (Atong)
+Seen as: kʰeŋ-ček
+[Transformed]
+kʰeŋ	-->	KN (Total 2 symbols)
+
+hair (Atong)
+Seen as: kʰaw
+[Transformed]
+kʰaw	-->	KH (Total 2 symbols)
+
+hand (Atong)
+Seen as: čak
+[Transformed]
+čak	-->	CK (Total 2 symbols)
+
+head (Atong)
+Seen as: də=kəm
+[Transformed]
+kəm	-->	KM (Total 2 symbols)
+
+hear (Atong)
+Seen as: na-
+[Transformed]
+na	-->	NH (Total 2 symbols)
+
+heart (Atong)
+Seen as: kʰaʔ=tʰoŋ
+[Transformed]
+tʰoŋ	-->	TN (Total 2 symbols)
+
+horn (Atong)
+Seen as: kʰoroŋ ~ koroŋ ~ kəroŋ
+[Transformed]
+kʰoroŋ	-->	KRN (Total 3 symbols)
+koroŋ	-->	KRN (Total 3 symbols)
+kəroŋ	-->	KRN (Total 3 symbols)
+
+I (Atong)
+Seen as: aŋ
+[Transformed]
+aŋ	-->	HN (Total 2 symbols)
+
+kill (Atong)
+Seen as: soʔot-
+[Transformed]
+soʔot	-->	ST (Total 2 symbols)
+
+knee (Atong)
+Seen as: čaʔ=kəw ~ čaʔ=ku
+[Transformed]
+kəw	-->	KH (Total 2 symbols)
+ku	-->	KH (Total 2 symbols)
+
+know (Atong)
+Seen as: təŋ-
+[Transformed]
+təŋ	-->	TN (Total 2 symbols)
+
+leaf (Atong)
+Seen as: pan=čak
+[Transformed]
+čak	-->	CK (Total 2 symbols)
+
+lie (Atong)
+Seen as: ǯəw-
+[Transformed]
+ǯəw	-->	CH (Total 2 symbols)
+
+liver (Atong)
+Seen as: biʔ=tʰən ~ piʔ=tʰən
+[Transformed]
+tʰən	-->	TN (Total 2 symbols)
+tʰən	-->	TN (Total 2 symbols)
+
+long (Atong)
+Seen as: rawʔ-
+[Transformed]
+rawʔ	-->	RH (Total 2 symbols)
+
+louse (Atong)
+Seen as: kʰə=rək
+[Transformed]
+rək	-->	RK (Total 2 symbols)
+
+man (Atong)
+Seen as: 
+[Transformed]
+
+
+many (Atong)
+Seen as: paŋʔ-
+[Transformed]
+paŋʔ	-->	PN (Total 2 symbols)
+
+meat (Atong)
+Seen as: ran=dai
+[Transformed]
+dai	-->	TH (Total 2 symbols)
+
+moon (Atong)
+Seen as: ǯa
+[Transformed]
+ǯa	-->	CH (Total 2 symbols)
+
+mountain (Atong)
+Seen as: haʔ=bəri
+[Transformed]
+bəri	-->	PR (Total 2 symbols)
+
+mouth (Atong)
+Seen as: kʰuʔ-čuk
+[Transformed]
+kʰuʔ	-->	KH (Total 2 symbols)
+
+name (Atong)
+Seen as: bi=muŋ ~ bi=məŋ
+[Transformed]
+muŋ	-->	MN (Total 2 symbols)
+məŋ	-->	MN (Total 2 symbols)
+
+neck (Atong)
+Seen as: tok-əreŋ
+[Transformed]
+tok	-->	TK (Total 2 symbols)
+
+new (Atong)
+Seen as: pi=dan
+[Transformed]
+dan	-->	TN (Total 2 symbols)
+
+night (Atong)
+Seen as: wal
+[Transformed]
+wal	-->	WL (Total 2 symbols)
+
+nose (Atong)
+Seen as: na-kʰuŋ ~ na-kuŋ
+[Transformed]
+na	-->	NH (Total 2 symbols)
+na	-->	NH (Total 2 symbols)
+
+not (Atong)
+Seen as: -ča
+[Transformed]
+	-->	 (Total 0 symbols)
+
+one (Atong)
+Seen as: sa
+[Transformed]
+sa	-->	SH (Total 2 symbols)
+
+person (Atong)
+Seen as: 
+[Transformed]
+
+
+rain (Atong)
+Seen as: raŋ
+[Transformed]
+raŋ	-->	RN (Total 2 symbols)
+
+red (Atong)
+Seen as: pi=sak
+[Transformed]
+sak	-->	SK (Total 2 symbols)
+
+road (Atong)
+Seen as: ram
+[Transformed]
+ram	-->	RM (Total 2 symbols)
+
+root (Atong)
+Seen as: čaʔ=dəl
+[Transformed]
+dəl	-->	TL (Total 2 symbols)
+
+round (Atong)
+Seen as: 
+[Transformed]
+
+
+sand (Atong)
+Seen as: haʔ=bə=kuŋ
+[Transformed]
+kuŋ	-->	KN (Total 2 symbols)
+
+say (Atong)
+Seen as: no-
+[Transformed]
+no	-->	NH (Total 2 symbols)
+
+see (Atong)
+Seen as: nuk-
+[Transformed]
+nuk	-->	NK (Total 2 symbols)
+
+seed (Atong)
+Seen as: karan
+[Transformed]
+karan	-->	KRN (Total 3 symbols)
+
+sit (Atong)
+Seen as: muʔ-
+[Transformed]
+muʔ	-->	MH (Total 2 symbols)
+
+skin (Atong)
+Seen as: kʰol
+[Transformed]
+kʰol	-->	KL (Total 2 symbols)
+
+sleep (Atong)
+Seen as: ǯəw-
+[Transformed]
+ǯəw	-->	CH (Total 2 symbols)
+
+small (Atong)
+Seen as: məl-
+[Transformed]
+məl	-->	ML (Total 2 symbols)
+
+smoke (Atong)
+Seen as: walʔ=kʰu
+[Transformed]
+kʰu	-->	KH (Total 2 symbols)
+
+stand (Atong)
+Seen as: čap-
+[Transformed]
+čap	-->	CP (Total 2 symbols)
+
+star (Atong)
+Seen as: a=ski ~ a=skʰui ~ a=skui
+[Transformed]
+ski	-->	SK (Total 2 symbols)
+skʰui	-->	SK (Total 2 symbols)
+skui	-->	SK (Total 2 symbols)
+
+stone (Atong)
+Seen as: roŋʔ
+[Transformed]
+roŋʔ	-->	RN (Total 2 symbols)
+
+sun (Atong)
+Seen as: raŋ=san
+[Transformed]
+san	-->	SN (Total 2 symbols)
+
+swim (Atong)
+Seen as: huŋ-
+[Transformed]
+huŋ	-->	HN (Total 2 symbols)
+
+tail (Atong)
+Seen as: diʔ=mai
+[Transformed]
+mai	-->	MH (Total 2 symbols)
+
+that (Atong)
+Seen as: ue- ~ u-
+[Transformed]
+ue	-->	HH (Total 2 symbols)
+u	-->	HH (Total 2 symbols)
+
+this (Atong)
+Seen as: ie ~ i-
+[Transformed]
+ie	-->	HH (Total 2 symbols)
+i	-->	HH (Total 2 symbols)
+
+thou (Atong)
+Seen as: naŋʔ
+[Transformed]
+naŋʔ	-->	NN (Total 2 symbols)
+
+tongue (Atong)
+Seen as: tʰəla-pak ~ tʰəlam-pak
+[Transformed]
+tʰəla	-->	TL (Total 2 symbols)
+tʰəlam	-->	TLM (Total 3 symbols)
+
+tooth (Atong)
+Seen as: wa
+[Transformed]
+wa	-->	WH (Total 2 symbols)
+
+tree (Atong)
+Seen as: pan
+[Transformed]
+pan	-->	PN (Total 2 symbols)
+
+two (Atong)
+Seen as: ni
+[Transformed]
+ni	-->	NH (Total 2 symbols)
+
+walk (go) (Atong)
+Seen as: raiʔ-
+[Transformed]
+raiʔ	-->	RH (Total 2 symbols)
+
+warm (hot) (Atong)
+Seen as: tuŋʔ-
+[Transformed]
+tuŋʔ	-->	TN (Total 2 symbols)
+
+water (Atong)
+Seen as: təi
+[Transformed]
+təi	-->	TH (Total 2 symbols)
+
+we (Atong)
+Seen as: niŋ; naʔ-naŋ
+[Transformed]
+niŋ	-->	NN (Total 2 symbols)
+naʔ	-->	NH (Total 2 symbols)
+
+what (Atong)
+Seen as: atoŋ
+[Transformed]
+atoŋ	-->	HTN (Total 3 symbols)
+
+white (Atong)
+Seen as: pi=bok
+[Transformed]
+bok	-->	PK (Total 2 symbols)
+
+who (Atong)
+Seen as: čaŋ
+[Transformed]
+čaŋ	-->	CN (Total 2 symbols)
+
+woman (Atong)
+Seen as: gawi
+[Transformed]
+gawi	-->	KH (Total 2 symbols)
+
+yellow (Atong)
+Seen as: rəmət
+[Transformed]
+rəmət	-->	RMT (Total 3 symbols)
+
+far (Atong)
+Seen as: ǯanʔ-
+[Transformed]
+ǯanʔ	-->	CN (Total 2 symbols)
+
+heavy (Atong)
+Seen as: čerəm- ~ čərəm-
+[Transformed]
+čerəm	-->	CRM (Total 3 symbols)
+čərəm	-->	CRM (Total 3 symbols)
+
+near (Atong)
+Seen as: nek-
+[Transformed]
+nek	-->	NK (Total 2 symbols)
+
+salt (Atong)
+Seen as: səmʔ
+[Transformed]
+səmʔ	-->	SM (Total 2 symbols)
+
+short (Atong)
+Seen as: suŋʔ-
+[Transformed]
+suŋʔ	-->	SN (Total 2 symbols)
+
+snake (Atong)
+Seen as: də=pəw
+[Transformed]
+pəw	-->	PH (Total 2 symbols)
+
+thin (Atong)
+Seen as: pʰet-
+[Transformed]
+pʰet	-->	PT (Total 2 symbols)
+
+wind (Atong)
+Seen as: bal-wa
+[Transformed]
+bal	-->	PL (Total 2 symbols)
+
+worm (Atong)
+Seen as: kʰan=sərui
+[Transformed]
+sərui	-->	SR (Total 2 symbols)
+
+year (Atong)
+Seen as: 
+[Transformed]
+
+

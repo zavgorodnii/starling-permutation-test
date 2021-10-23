@@ -1,0 +1,551 @@
+all (Aasax)
+Seen as: wataka
+[Transformed]
+wataka	-->	WTK (Total 3 symbols)
+
+ashes (Aasax)
+Seen as: wura-to
+[Transformed]
+wura	-->	WR (Total 2 symbols)
+
+bark (Aasax)
+Seen as: 
+[Transformed]
+
+
+belly (Aasax)
+Seen as: 
+[Transformed]
+
+
+big (Aasax)
+Seen as: =ǯira
+[Transformed]
+ǯira	-->	CR (Total 2 symbols)
+
+bird (Aasax)
+Seen as: širaʔa
+[Transformed]
+širaʔa	-->	SR (Total 2 symbols)
+
+bite (Aasax)
+Seen as: ǯalas-
+[Transformed]
+ǯalas	-->	CLS (Total 3 symbols)
+
+black (Aasax)
+Seen as: =biasa
+[Transformed]
+biasa	-->	PS (Total 2 symbols)
+
+blood (Aasax)
+Seen as: saʔaka
+[Transformed]
+saʔaka	-->	SK (Total 2 symbols)
+
+bone (Aasax)
+Seen as: far-it
+[Transformed]
+far	-->	PR (Total 2 symbols)
+
+breast (Aasax)
+Seen as: liba
+[Transformed]
+liba	-->	LP (Total 2 symbols)
+
+burn tr. (Aasax)
+Seen as: daʔ-
+[Transformed]
+daʔ	-->	TH (Total 2 symbols)
+
+claw(nail) (Aasax)
+Seen as: seŋ-et
+[Transformed]
+seŋ	-->	SN (Total 2 symbols)
+
+cloud (Aasax)
+Seen as: buʕurita
+[Transformed]
+buʕurita	-->	PRT (Total 3 symbols)
+
+cold (Aasax)
+Seen as: 
+[Transformed]
+
+
+come (Aasax)
+Seen as: dah-
+[Transformed]
+dah	-->	TH (Total 2 symbols)
+
+die (Aasax)
+Seen as: ga-
+[Transformed]
+ga	-->	KH (Total 2 symbols)
+
+dog (Aasax)
+Seen as: 
+[Transformed]
+
+
+drink (Aasax)
+Seen as: wa-t-
+[Transformed]
+wa	-->	WH (Total 2 symbols)
+
+dry (Aasax)
+Seen as: =rakaš
+[Transformed]
+rakaš	-->	RKS (Total 3 symbols)
+
+ear (Aasax)
+Seen as: yatara
+[Transformed]
+yatara	-->	YTR (Total 3 symbols)
+
+earth (Aasax)
+Seen as: haǯa-t
+[Transformed]
+haǯa	-->	HC (Total 2 symbols)
+
+eat (Aasax)
+Seen as: ʔag- ~ ʔag-im-
+[Transformed]
+ʔag	-->	HK (Total 2 symbols)
+ʔag	-->	HK (Total 2 symbols)
+
+egg (Aasax)
+Seen as: 
+[Transformed]
+
+
+eye (Aasax)
+Seen as: ila-t
+[Transformed]
+ila	-->	HL (Total 2 symbols)
+
+fat n. (Aasax)
+Seen as: ʔoreʔ-ek
+[Transformed]
+ʔoreʔ	-->	HR (Total 2 symbols)
+
+feather (Aasax)
+Seen as: seʔem-uk
+[Transformed]
+seʔem	-->	SM (Total 2 symbols)
+
+fire (Aasax)
+Seen as: yogo-t
+[Transformed]
+yogo	-->	YK (Total 2 symbols)
+
+fish (Aasax)
+Seen as: 
+[Transformed]
+
+
+fly v. (Aasax)
+Seen as: ǯiʔit-
+[Transformed]
+ǯiʔit	-->	CT (Total 2 symbols)
+
+foot (Aasax)
+Seen as: yeʔe
+[Transformed]
+yeʔe	-->	YH (Total 2 symbols)
+
+full (Aasax)
+Seen as: haš-
+[Transformed]
+haš	-->	HS (Total 2 symbols)
+
+give (Aasax)
+Seen as: 
+[Transformed]
+
+
+good (Aasax)
+Seen as: =ʔila
+[Transformed]
+ʔila	-->	HL (Total 2 symbols)
+
+green (Aasax)
+Seen as: =ǯareta
+[Transformed]
+ǯareta	-->	CRT (Total 3 symbols)
+
+hair (Aasax)
+Seen as: seʔem-uk
+[Transformed]
+seʔem	-->	SM (Total 2 symbols)
+
+hand (Aasax)
+Seen as: moŋ-ok
+[Transformed]
+moŋ	-->	MN (Total 2 symbols)
+
+head (Aasax)
+Seen as: sog-ok
+[Transformed]
+sog	-->	SK (Total 2 symbols)
+
+hear (Aasax)
+Seen as: has-
+[Transformed]
+has	-->	HS (Total 2 symbols)
+
+heart (Aasax)
+Seen as: mon-ok
+[Transformed]
+mon	-->	MN (Total 2 symbols)
+
+horn (Aasax)
+Seen as: hadoŋ
+[Transformed]
+hadoŋ	-->	HTN (Total 3 symbols)
+
+I (Aasax)
+Seen as: 
+[Transformed]
+
+
+kill (Aasax)
+Seen as: ga-s-
+[Transformed]
+ga	-->	KH (Total 2 symbols)
+
+knee (Aasax)
+Seen as: ŋulu-et
+[Transformed]
+ŋulu	-->	NL (Total 2 symbols)
+
+know (Aasax)
+Seen as: šah-
+[Transformed]
+šah	-->	SH (Total 2 symbols)
+
+leaf (Aasax)
+Seen as: debiya
+[Transformed]
+debiya	-->	TP (Total 2 symbols)
+
+lie (Aasax)
+Seen as: ʔat-
+[Transformed]
+ʔat	-->	HT (Total 2 symbols)
+
+liver (Aasax)
+Seen as: dowo
+[Transformed]
+dowo	-->	TH (Total 2 symbols)
+
+long (Aasax)
+Seen as: ǯada
+[Transformed]
+ǯada	-->	CT (Total 2 symbols)
+
+louse (Aasax)
+Seen as: ʔita
+[Transformed]
+ʔita	-->	HT (Total 2 symbols)
+
+man (Aasax)
+Seen as: hat-uk
+[Transformed]
+hat	-->	HT (Total 2 symbols)
+
+many (Aasax)
+Seen as: =šaʔi
+[Transformed]
+šaʔi	-->	SH (Total 2 symbols)
+
+meat (Aasax)
+Seen as: ʔaga
+[Transformed]
+ʔaga	-->	HK (Total 2 symbols)
+
+moon (Aasax)
+Seen as: leh-ek
+[Transformed]
+leh	-->	LH (Total 2 symbols)
+
+mountain (Aasax)
+Seen as: deʔ-ok
+[Transformed]
+deʔ	-->	TH (Total 2 symbols)
+
+mouth (Aasax)
+Seen as: af-ok
+[Transformed]
+af	-->	HP (Total 2 symbols)
+
+name (Aasax)
+Seen as: ʔim-ok
+[Transformed]
+ʔim	-->	HM (Total 2 symbols)
+
+neck (Aasax)
+Seen as: 
+[Transformed]
+
+
+new (Aasax)
+Seen as: =ʔamba
+[Transformed]
+ʔamba	-->	HMP (Total 3 symbols)
+
+night (Aasax)
+Seen as: eramesa
+[Transformed]
+eramesa	-->	HRMS (Total 4 symbols)
+
+nose (Aasax)
+Seen as: iriŋa
+[Transformed]
+iriŋa	-->	HRN (Total 3 symbols)
+
+not (Aasax)
+Seen as: 
+[Transformed]
+
+
+one (Aasax)
+Seen as: kinde
+[Transformed]
+kinde	-->	KNT (Total 3 symbols)
+
+person (Aasax)
+Seen as: ʔidu-k
+[Transformed]
+ʔidu	-->	HT (Total 2 symbols)
+
+rain (Aasax)
+Seen as: miǯ-ok
+[Transformed]
+miǯ	-->	MC (Total 2 symbols)
+
+red (Aasax)
+Seen as: =huma
+[Transformed]
+huma	-->	HM (Total 2 symbols)
+
+road (Aasax)
+Seen as: šimu-t
+[Transformed]
+šimu	-->	SM (Total 2 symbols)
+
+root (Aasax)
+Seen as: mogeŋera
+[Transformed]
+mogeŋera	-->	MKNR (Total 4 symbols)
+
+round (Aasax)
+Seen as: 
+[Transformed]
+
+
+sand (Aasax)
+Seen as: haǯa-t
+[Transformed]
+haǯa	-->	HC (Total 2 symbols)
+
+say (Aasax)
+Seen as: šah-
+[Transformed]
+šah	-->	SH (Total 2 symbols)
+
+see (Aasax)
+Seen as: ʔadam-
+[Transformed]
+ʔadam	-->	HTM (Total 3 symbols)
+
+seed (Aasax)
+Seen as: 
+[Transformed]
+
+
+sit (Aasax)
+Seen as: ʔamim-
+[Transformed]
+ʔamim	-->	HMM (Total 3 symbols)
+
+skin (Aasax)
+Seen as: 
+[Transformed]
+
+
+sleep (Aasax)
+Seen as: raʔ #
+[Transformed]
+raʔ	-->	RH (Total 2 symbols)
+
+small (Aasax)
+Seen as: ʔara
+[Transformed]
+ʔara	-->	HR (Total 2 symbols)
+
+smoke (Aasax)
+Seen as: toʔusay-ok
+[Transformed]
+toʔusay	-->	TS (Total 2 symbols)
+
+stand (Aasax)
+Seen as: hut-
+[Transformed]
+hut	-->	HT (Total 2 symbols)
+
+star (Aasax)
+Seen as: ʔalalaya
+[Transformed]
+ʔalalaya	-->	HLL (Total 3 symbols)
+
+stone (Aasax)
+Seen as: deʔ-ok
+[Transformed]
+deʔ	-->	TH (Total 2 symbols)
+
+sun (Aasax)
+Seen as: ʔaǯ-it
+[Transformed]
+ʔaǯ	-->	HC (Total 2 symbols)
+
+swim (Aasax)
+Seen as: 
+[Transformed]
+
+
+tail (Aasax)
+Seen as: hesa
+[Transformed]
+hesa	-->	HS (Total 2 symbols)
+
+that (Aasax)
+Seen as: 
+[Transformed]
+
+
+this (Aasax)
+Seen as: 
+[Transformed]
+
+
+thou (Aasax)
+Seen as: 
+[Transformed]
+
+
+tongue (Aasax)
+Seen as: šeferank
+[Transformed]
+šeferank	-->	SPRNK (Total 5 symbols)
+
+tooth (Aasax)
+Seen as: liga
+[Transformed]
+liga	-->	LK (Total 2 symbols)
+
+tree (Aasax)
+Seen as: kašiŋ
+[Transformed]
+kašiŋ	-->	KSN (Total 3 symbols)
+
+two (Aasax)
+Seen as: am
+[Transformed]
+am	-->	LM (Total 2 symbols)
+
+walk (go) (Aasax)
+Seen as: 
+[Transformed]
+
+
+warm (hot) (Aasax)
+Seen as: hareta
+[Transformed]
+hareta	-->	HRT (Total 3 symbols)
+
+water (Aasax)
+Seen as: maʔa
+[Transformed]
+maʔa	-->	MH (Total 2 symbols)
+
+we (Aasax)
+Seen as: 
+[Transformed]
+
+
+what (Aasax)
+Seen as: 
+[Transformed]
+
+
+white (Aasax)
+Seen as: =abaka
+[Transformed]
+abaka	-->	HPK (Total 3 symbols)
+
+who (Aasax)
+Seen as: 
+[Transformed]
+
+
+woman (Aasax)
+Seen as: mayi-to
+[Transformed]
+mayi	-->	MH (Total 2 symbols)
+
+yellow (Aasax)
+Seen as: 
+[Transformed]
+
+
+far (Aasax)
+Seen as: saŋa
+[Transformed]
+saŋa	-->	SN (Total 2 symbols)
+
+heavy (Aasax)
+Seen as: daʔara
+[Transformed]
+daʔara	-->	TR (Total 2 symbols)
+
+near (Aasax)
+Seen as: 
+[Transformed]
+
+
+salt (Aasax)
+Seen as: 
+[Transformed]
+
+
+short (Aasax)
+Seen as: ʔumara
+[Transformed]
+ʔumara	-->	HMR (Total 3 symbols)
+
+snake (Aasax)
+Seen as: 
+[Transformed]
+
+
+thin (Aasax)
+Seen as: 
+[Transformed]
+
+
+wind (Aasax)
+Seen as: šoʔ-ok
+[Transformed]
+šoʔ	-->	SH (Total 2 symbols)
+
+worm (Aasax)
+Seen as: 
+[Transformed]
+
+
+year (Aasax)
+Seen as: 
+[Transformed]
+
+

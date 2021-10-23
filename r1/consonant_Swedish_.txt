@@ -1,0 +1,558 @@
+all (Swedish)
+Seen as: all {all}
+[Transformed]
+all	-->	HLL (Total 3 symbols)
+
+ashes (Swedish)
+Seen as: ˈàsːk-a {aska}
+[Transformed]
+ˈàsːk	-->	SK (Total 2 symbols)
+
+bark (Swedish)
+Seen as: barːk {bark}
+[Transformed]
+barːk	-->	PRK (Total 3 symbols)
+
+belly (Swedish)
+Seen as: mˈɒːgə {mage}
+[Transformed]
+mˈɒːgə	-->	MK (Total 2 symbols)
+
+big (Swedish)
+Seen as: stuːr {stor}
+[Transformed]
+stuːr	-->	STR (Total 3 symbols)
+
+bird (Swedish)
+Seen as: fˈoːgəl {fågel}
+[Transformed]
+fˈoːgəl	-->	PKL (Total 3 symbols)
+
+bite (Swedish)
+Seen as: bˈìːt-a {bita}
+[Transformed]
+bˈìːt	-->	PT (Total 2 symbols)
+
+black (Swedish)
+Seen as: svaʈː {svart}
+[Transformed]
+svaʈː	-->	SPT (Total 3 symbols)
+
+blood (Swedish)
+Seen as: bluːd {blod}
+[Transformed]
+bluːd	-->	PLT (Total 3 symbols)
+
+bone (Swedish)
+Seen as: beːn {ben}
+[Transformed]
+beːn	-->	PN (Total 2 symbols)
+
+breast (Swedish)
+Seen as: brösːt {bröst}
+[Transformed]
+brösːt	-->	PRST (Total 4 symbols)
+
+burn tr. (Swedish)
+Seen as: brˈnn-a {bränna}
+[Transformed]
+brˈnn	-->	PRNN (Total 4 symbols)
+
+claw(nail) (Swedish)
+Seen as: nˈɒːgəl {nagel}
+[Transformed]
+nˈɒːgəl	-->	NKL (Total 3 symbols)
+
+cloud (Swedish)
+Seen as: moːln ~ mɔːln {moln}
+[Transformed]
+moːln	-->	MLN (Total 3 symbols)
+mɔːln	-->	MLN (Total 3 symbols)
+
+cold (Swedish)
+Seen as: kall {kall}
+[Transformed]
+kall	-->	KLL (Total 3 symbols)
+
+come (Swedish)
+Seen as: kˈmm-a {komma}
+[Transformed]
+kˈmm	-->	KMM (Total 3 symbols)
+
+die (Swedish)
+Seen as: döː {dø}
+[Transformed]
+döː	-->	TH (Total 2 symbols)
+
+dog (Swedish)
+Seen as: hɵnːd {hund}
+[Transformed]
+hɵnːd	-->	HNT (Total 3 symbols)
+
+drink (Swedish)
+Seen as: drˈkː-a {dricka}
+[Transformed]
+drˈkː	-->	TRK (Total 3 symbols)
+
+dry (Swedish)
+Seen as: tɔrr {torr}
+[Transformed]
+tɔrr	-->	TRR (Total 3 symbols)
+
+ear (Swedish)
+Seen as: ˈːr-a {öra}
+[Transformed]
+ˈːr	-->	RH (Total 2 symbols)
+
+earth (Swedish)
+Seen as: yuːɖ {jord}
+[Transformed]
+yuːɖ	-->	YT (Total 2 symbols)
+
+eat (Swedish)
+Seen as: ˈːt-a {äta}
+[Transformed]
+ˈːt	-->	TH (Total 2 symbols)
+
+egg (Swedish)
+Seen as: ägg {ägg}
+[Transformed]
+ägg	-->	HKK (Total 3 symbols)
+
+eye (Swedish)
+Seen as: ˈøːg-a {öga}
+[Transformed]
+ˈøːg	-->	KH (Total 2 symbols)
+
+fat n. (Swedish)
+Seen as: fɛtt {fett}
+[Transformed]
+fɛtt	-->	PTT (Total 3 symbols)
+
+feather (Swedish)
+Seen as: fyˈɛːdər {fjäder}
+[Transformed]
+fyˈɛːdər	-->	PTR (Total 3 symbols)
+
+fire (Swedish)
+Seen as: ɛlːd {eld}
+[Transformed]
+ɛlːd	-->	HLT (Total 3 symbols)
+
+fish (Swedish)
+Seen as: fısːk {fisk}
+[Transformed]
+fısːk	-->	PSK (Total 3 symbols)
+
+fly v. (Swedish)
+Seen as: flˈǜːg-a {flyga}
+[Transformed]
+flˈǜːg	-->	PLK (Total 3 symbols)
+
+foot (Swedish)
+Seen as: fuːt {fot}
+[Transformed]
+fuːt	-->	PT (Total 2 symbols)
+
+full (Swedish)
+Seen as: fɵll {full}
+[Transformed]
+fɵll	-->	PLL (Total 3 symbols)
+
+give (Swedish)
+Seen as: yeː {ge}
+[Transformed]
+yeː	-->	YH (Total 2 symbols)
+
+good (Swedish)
+Seen as: guːd {god}
+[Transformed]
+guːd	-->	KT (Total 2 symbols)
+
+green (Swedish)
+Seen as: grøːn {grön}
+[Transformed]
+grøːn	-->	KRN (Total 3 symbols)
+
+hair (Swedish)
+Seen as: hoːr {hår}
+[Transformed]
+hoːr	-->	HR (Total 2 symbols)
+
+hand (Swedish)
+Seen as: hanːd {hand}
+[Transformed]
+hanːd	-->	HNT (Total 3 symbols)
+
+head (Swedish)
+Seen as: hˈʉːvɵd {huvud}
+[Transformed]
+hˈʉːvɵd	-->	HPT (Total 3 symbols)
+
+hear (Swedish)
+Seen as: hˈːr-a {höra}
+[Transformed]
+hˈːr	-->	HR (Total 2 symbols)
+
+heart (Swedish)
+Seen as: yˈʈː-a {hjärta}
+[Transformed]
+yˈʈː	-->	YT (Total 2 symbols)
+
+horn (Swedish)
+Seen as: huːɳ {horn}
+[Transformed]
+huːɳ	-->	HN (Total 2 symbols)
+
+I (Swedish)
+Seen as: yɒːg ~ yɒː ~ yɒ ~ ya {jag}; mi-
+[Transformed]
+yɒːg	-->	YK (Total 2 symbols)
+yɒː	-->	YH (Total 2 symbols)
+yɒ	-->	YH (Total 2 symbols)
+ya	-->	YH (Total 2 symbols)
+mi	-->	MH (Total 2 symbols)
+
+kill (Swedish)
+Seen as: dˈøːd-a {döda}
+[Transformed]
+dˈøːd	-->	TT (Total 2 symbols)
+
+knee (Swedish)
+Seen as: knɛː {knä}
+[Transformed]
+knɛː	-->	KN (Total 2 symbols)
+
+know (Swedish)
+Seen as: vˈèːt-a {veta}
+[Transformed]
+vˈèːt	-->	PT (Total 2 symbols)
+
+leaf (Swedish)
+Seen as: blɒːd {blad}
+[Transformed]
+blɒːd	-->	PLT (Total 3 symbols)
+
+lie (Swedish)
+Seen as: lˈgg-a {ligga}
+[Transformed]
+lˈgg	-->	LKK (Total 3 symbols)
+
+liver (Swedish)
+Seen as: lˈeːvər {lever}
+[Transformed]
+lˈeːvər	-->	LPR (Total 3 symbols)
+
+long (Swedish)
+Seen as: lɔŋː {lång}
+[Transformed]
+lɔŋː	-->	LN (Total 2 symbols)
+
+louse (Swedish)
+Seen as: lʉːs {lus}
+[Transformed]
+lʉːs	-->	LS (Total 2 symbols)
+
+man (Swedish)
+Seen as: manː {man}
+[Transformed]
+manː	-->	MN (Total 2 symbols)
+
+many (Swedish)
+Seen as: mˈŋː-a {många}
+[Transformed]
+mˈŋː	-->	MN (Total 2 symbols)
+
+meat (Swedish)
+Seen as: ʆött {kött}
+[Transformed]
+ʆött	-->	STT (Total 3 symbols)
+
+moon (Swedish)
+Seen as: mˈòːn-ə {måne}
+[Transformed]
+mˈòːn	-->	MN (Total 2 symbols)
+
+mountain (Swedish)
+Seen as: bärːy {berg}
+[Transformed]
+bärːy	-->	PR (Total 2 symbols)
+
+mouth (Swedish)
+Seen as: mɵnː {mun}
+[Transformed]
+mɵnː	-->	MN (Total 2 symbols)
+
+name (Swedish)
+Seen as: namː-n {namn}
+[Transformed]
+namː	-->	NM (Total 2 symbols)
+
+neck (Swedish)
+Seen as: halːs {hals}
+[Transformed]
+halːs	-->	HLS (Total 3 symbols)
+
+new (Swedish)
+Seen as: nüː {ny}
+[Transformed]
+nüː	-->	NH (Total 2 symbols)
+
+night (Swedish)
+Seen as: natt {natt}
+[Transformed]
+natt	-->	NTT (Total 3 symbols)
+
+nose (Swedish)
+Seen as: nˈːs-a {näsa}
+[Transformed]
+nˈːs	-->	NS (Total 2 symbols)
+
+not (Swedish)
+Seen as: ˈnːtə {inte}
+[Transformed]
+ˈnːtə	-->	NT (Total 2 symbols)
+
+one (Swedish)
+Seen as: ɛnː {en}
+[Transformed]
+ɛnː	-->	HN (Total 2 symbols)
+
+person (Swedish)
+Seen as: mˈnn-ıɧa {människa}
+[Transformed]
+mˈnn	-->	MNN (Total 3 symbols)
+
+rain (Swedish)
+Seen as: rɛŋːn {regn}
+[Transformed]
+rɛŋːn	-->	RNN (Total 3 symbols)
+
+red (Swedish)
+Seen as: røːd {röd}
+[Transformed]
+røːd	-->	RT (Total 2 symbols)
+
+road (Swedish)
+Seen as: vɛːg {väg}
+[Transformed]
+vɛːg	-->	PK (Total 2 symbols)
+
+root (Swedish)
+Seen as: ruːt {rot}
+[Transformed]
+ruːt	-->	RT (Total 2 symbols)
+
+round (Swedish)
+Seen as: 
+[Transformed]
+
+
+sand (Swedish)
+Seen as: sanːd {sand}
+[Transformed]
+sanːd	-->	SNT (Total 3 symbols)
+
+say (Swedish)
+Seen as: sˈyː-a ~ sˈːg-a {säga}
+[Transformed]
+sˈyː	-->	SH (Total 2 symbols)
+sˈːg	-->	SK (Total 2 symbols)
+
+see (Swedish)
+Seen as: seː {se}
+[Transformed]
+seː	-->	SH (Total 2 symbols)
+
+seed (Swedish)
+Seen as: frøː {frö}
+[Transformed]
+frøː	-->	PR (Total 2 symbols)
+
+sit (Swedish)
+Seen as: sˈtt-a {sitta}
+[Transformed]
+sˈtt	-->	STT (Total 3 symbols)
+
+skin (Swedish)
+Seen as: hʉːd {hud}
+[Transformed]
+hʉːd	-->	HT (Total 2 symbols)
+
+sleep (Swedish)
+Seen as: sˈòːv-a {sova}
+[Transformed]
+sˈòːv	-->	SP (Total 2 symbols)
+
+small (Swedish)
+Seen as: lˈìːt-ən {liten}
+[Transformed]
+lˈìːt	-->	LT (Total 2 symbols)
+
+smoke (Swedish)
+Seen as: røːk {rök}
+[Transformed]
+røːk	-->	RK (Total 2 symbols)
+
+stand (Swedish)
+Seen as: stoː {stå}
+[Transformed]
+stoː	-->	ST (Total 2 symbols)
+
+star (Swedish)
+Seen as: ɧˈːɳ-a {stjärna}
+[Transformed]
+ɧˈːɳ	-->	NH (Total 2 symbols)
+
+stone (Swedish)
+Seen as: steːn {sten}
+[Transformed]
+steːn	-->	STN (Total 3 symbols)
+
+sun (Swedish)
+Seen as: suːl {sol}
+[Transformed]
+suːl	-->	SL (Total 2 symbols)
+
+swim (Swedish)
+Seen as: sˈmm-a {simma}
+[Transformed]
+sˈmm	-->	SMM (Total 3 symbols)
+
+tail (Swedish)
+Seen as: 
+[Transformed]
+
+
+that (Swedish)
+Seen as: dɛ-nː {den}
+[Transformed]
+dɛ	-->	TH (Total 2 symbols)
+
+this (Swedish)
+Seen as: dˈ-nnə {denne}
+[Transformed]
+dˈ	-->	TH (Total 2 symbols)
+
+thou (Swedish)
+Seen as: dʉː {du}
+[Transformed]
+dʉː	-->	TH (Total 2 symbols)
+
+tongue (Swedish)
+Seen as: tˈɵŋː-a {tunga}
+[Transformed]
+tˈɵŋː	-->	TN (Total 2 symbols)
+
+tooth (Swedish)
+Seen as: tanːd {tand}
+[Transformed]
+tanːd	-->	TNT (Total 3 symbols)
+
+tree (Swedish)
+Seen as: trɛː-d {träd}
+[Transformed]
+trɛː	-->	TR (Total 2 symbols)
+
+two (Swedish)
+Seen as: tvoː {två}
+[Transformed]
+tvoː	-->	TP (Total 2 symbols)
+
+walk (go) (Swedish)
+Seen as: goː {gå}
+[Transformed]
+goː	-->	KH (Total 2 symbols)
+
+warm (hot) (Swedish)
+Seen as: varːm {varm}
+[Transformed]
+varːm	-->	PRM (Total 3 symbols)
+
+water (Swedish)
+Seen as: vˈatt-ən {vatten}
+[Transformed]
+vˈatt	-->	PTT (Total 3 symbols)
+
+we (Swedish)
+Seen as: viː {vi}; ɔss {oss}
+[Transformed]
+viː	-->	PH (Total 2 symbols)
+ɔss	-->	HSS (Total 3 symbols)
+
+what (Swedish)
+Seen as: vɒːd ~ va {vad}
+[Transformed]
+vɒːd	-->	PT (Total 2 symbols)
+va	-->	PH (Total 2 symbols)
+
+white (Swedish)
+Seen as: viːt {vit}
+[Transformed]
+viːt	-->	PT (Total 2 symbols)
+
+who (Swedish)
+Seen as: vɛmː {vem}
+[Transformed]
+vɛmː	-->	PM (Total 2 symbols)
+
+woman (Swedish)
+Seen as: kvˈnn-a {kvinna}
+[Transformed]
+kvˈnn	-->	KPNN (Total 4 symbols)
+
+yellow (Swedish)
+Seen as: gʉːl {gul}
+[Transformed]
+gʉːl	-->	KL (Total 2 symbols)
+
+far (Swedish)
+Seen as: fyˈrr-an {fjärran}
+[Transformed]
+fyˈrr	-->	PRR (Total 3 symbols)
+
+heavy (Swedish)
+Seen as: tɵŋː {tuŋg}
+[Transformed]
+tɵŋː	-->	TN (Total 2 symbols)
+
+near (Swedish)
+Seen as: nˈːr-a (nära}
+[Transformed]
+nˈːr	-->	NR (Total 2 symbols)
+
+salt (Swedish)
+Seen as: salːt {salt}
+[Transformed]
+salːt	-->	SLT (Total 3 symbols)
+
+short (Swedish)
+Seen as: 
+[Transformed]
+
+
+snake (Swedish)
+Seen as: ʋrːm {orm}
+[Transformed]
+ʋrːm	-->	RM (Total 2 symbols)
+
+thin (Swedish)
+Seen as: tɵnn {tunn}
+[Transformed]
+tɵnn	-->	TNN (Total 3 symbols)
+
+wind (Swedish)
+Seen as: vınːd {vind}
+[Transformed]
+vınːd	-->	PNT (Total 3 symbols)
+
+worm (Swedish)
+Seen as: masːk {mask}
+[Transformed]
+masːk	-->	MSK (Total 3 symbols)
+
+year (Swedish)
+Seen as: oːr {år}
+[Transformed]
+oːr	-->	HR (Total 2 symbols)
+

@@ -1,0 +1,554 @@
+all (Island Halkomelem)
+Seen as: mk'ʷ
+[Transformed]
+mk'ʷ	-->	MK (Total 2 symbols)
+
+ashes (Island Halkomelem)
+Seen as: yəqʷmín
+[Transformed]
+yəqʷmín	-->	YKMN (Total 4 symbols)
+
+bark (Island Halkomelem)
+Seen as: pʼəliʔ
+[Transformed]
+pʼəliʔ	-->	PL (Total 2 symbols)
+
+belly (Island Halkomelem)
+Seen as: kʼʷəle
+[Transformed]
+kʼʷəle	-->	KL (Total 2 symbols)
+
+big (Island Halkomelem)
+Seen as: θi
+[Transformed]
+θi	-->	TH (Total 2 symbols)
+
+bird (Island Halkomelem)
+Seen as: s=qʼʷəleš
+[Transformed]
+qʼʷəleš	-->	KLS (Total 3 symbols)
+
+bite (Island Halkomelem)
+Seen as: qʼʷət
+[Transformed]
+qʼʷət	-->	KT (Total 2 symbols)
+
+black (Island Halkomelem)
+Seen as: c=qʼíxw
+[Transformed]
+qʼíxw	-->	KK (Total 2 symbols)
+
+blood (Island Halkomelem)
+Seen as: θəyʼθiʔənʼ
+[Transformed]
+θəyʼθiʔənʼ	-->	TTN (Total 3 symbols)
+
+bone (Island Halkomelem)
+Seen as: s=θʼamʼ
+[Transformed]
+θʼamʼ	-->	TM (Total 2 symbols)
+
+breast (chest) (Island Halkomelem)
+Seen as: s=ʔ=inəs
+[Transformed]
+inəs	-->	HNS (Total 3 symbols)
+
+burn tr. (Island Halkomelem)
+Seen as: yəqʷ-t
+[Transformed]
+yəqʷ	-->	YK (Total 2 symbols)
+
+claw (nail) (Island Halkomelem)
+Seen as: qʼʷalʼəwʼ-cəs
+[Transformed]
+qʼʷalʼəwʼ	-->	KKL (Total 3 symbols)
+
+cloud (Island Halkomelem)
+Seen as: šxʷʔeθət-ən
+[Transformed]
+šxʷʔeθət	-->	SKTT (Total 4 symbols)
+
+cold (Island Halkomelem)
+Seen as: ayƛ
+[Transformed]
+ayƛ	-->	KQ (Total 2 symbols)
+
+come (Island Halkomelem)
+Seen as: mí
+[Transformed]
+mí	-->	MH (Total 2 symbols)
+
+die (Island Halkomelem)
+Seen as: qʼay
+[Transformed]
+qʼay	-->	KH (Total 2 symbols)
+
+dog (Island Halkomelem)
+Seen as: s=qʷəm-ey
+[Transformed]
+qʷəm	-->	KM (Total 2 symbols)
+
+drink (Island Halkomelem)
+Seen as: qaʔ-qaʔ
+[Transformed]
+qaʔ	-->	KH (Total 2 symbols)
+
+dry (Island Halkomelem)
+Seen as: cʼyxʷ əls
+[Transformed]
+cʼyxʷ	-->	CK (Total 2 symbols)
+
+ear (Island Halkomelem)
+Seen as: qʼʷuːnʼ
+[Transformed]
+qʼʷuːnʼ	-->	KN (Total 2 symbols)
+
+earth (Island Halkomelem)
+Seen as: tmxʷ
+[Transformed]
+tmxʷ	-->	TMK (Total 3 symbols)
+
+eat (Island Halkomelem)
+Seen as: ɬast
+[Transformed]
+ɬast	-->	KLST (Total 4 symbols)
+
+egg (Island Halkomelem)
+Seen as: tʼɵːəáls
+[Transformed]
+tʼɵːəáls	-->	TKLS (Total 4 symbols)
+
+eye (Island Halkomelem)
+Seen as: qələmʼ
+[Transformed]
+qələmʼ	-->	KLM (Total 3 symbols)
+
+fat n. (Island Halkomelem)
+Seen as: s=nas
+[Transformed]
+nas	-->	NS (Total 2 symbols)
+
+feather (Island Halkomelem)
+Seen as: s=ƛqeːn
+[Transformed]
+ƛqeːn	-->	QKN (Total 3 symbols)
+
+fire (Island Halkomelem)
+Seen as: həyqʷ
+[Transformed]
+həyqʷ	-->	HK (Total 2 symbols)
+
+fish (Island Halkomelem)
+Seen as: scəɬtən
+[Transformed]
+scəɬtən	-->	SCLTN (Total 5 symbols)
+
+fly v. (Island Halkomelem)
+Seen as: ɬákʼʷ
+[Transformed]
+ɬákʼʷ	-->	LK (Total 2 symbols)
+
+foot (Island Halkomelem)
+Seen as: s=ənʼə
+[Transformed]
+ənʼə	-->	KN (Total 2 symbols)
+
+full (Island Halkomelem)
+Seen as: ləcʼ
+[Transformed]
+ləcʼ	-->	LC (Total 2 symbols)
+
+give (Island Halkomelem)
+Seen as: ʔam-əst
+[Transformed]
+ʔam	-->	HM (Total 2 symbols)
+
+good (Island Halkomelem)
+Seen as: ʔəyʼ
+[Transformed]
+ʔəyʼ	-->	HH (Total 2 symbols)
+
+green (Island Halkomelem)
+Seen as: c=qʷay
+[Transformed]
+qʷay	-->	KH (Total 2 symbols)
+
+hair (Island Halkomelem)
+Seen as: šeʔitən
+[Transformed]
+šeʔitən	-->	STN (Total 3 symbols)
+
+hand (Island Halkomelem)
+Seen as: celəs
+[Transformed]
+celəs	-->	CLS (Total 3 symbols)
+
+head (Island Halkomelem)
+Seen as: s=əyʼ-əs
+[Transformed]
+əyʼ	-->	KH (Total 2 symbols)
+
+hear (Island Halkomelem)
+Seen as: cʼeɬəmʼ
+[Transformed]
+cʼeɬəmʼ	-->	CLM (Total 3 symbols)
+
+heart (Island Halkomelem)
+Seen as: tʼ θeleʔ
+[Transformed]
+tʼ	-->	TH (Total 2 symbols)
+
+horn (Island Halkomelem)
+Seen as: tʼθəys-tən
+[Transformed]
+tʼθəys	-->	TTS (Total 3 symbols)
+
+I (Island Halkomelem)
+Seen as: ʔeɲθə; θamʼš
+[Transformed]
+ʔeɲθə	-->	HNT (Total 3 symbols)
+θamʼš	-->	TMS (Total 3 symbols)
+
+kill (Island Halkomelem)
+Seen as: qʼay-t
+[Transformed]
+qʼay	-->	KH (Total 2 symbols)
+
+knee (Island Halkomelem)
+Seen as: s=qʼewəm
+[Transformed]
+qʼewəm	-->	KM (Total 2 symbols)
+
+know (Island Halkomelem)
+Seen as: təlʼnəxw
+[Transformed]
+təlʼnəxw	-->	TLNK (Total 4 symbols)
+
+leaf (Island Halkomelem)
+Seen as: s=cʼaɬaʔ
+[Transformed]
+cʼaɬaʔ	-->	CL (Total 2 symbols)
+
+lie (Island Halkomelem)
+Seen as: ɬaqʼəθət
+[Transformed]
+ɬaqʼəθət	-->	LKTT (Total 4 symbols)
+
+liver (Island Halkomelem)
+Seen as: s=cələm
+[Transformed]
+cələm	-->	CLM (Total 3 symbols)
+
+long (Island Halkomelem)
+Seen as: ƛeqt
+[Transformed]
+ƛeqt	-->	QKT (Total 3 symbols)
+
+louse (Island Halkomelem)
+Seen as: məšcʼən
+[Transformed]
+məšcʼən	-->	MSCN (Total 4 symbols)
+
+man (Island Halkomelem)
+Seen as: s=wəyq-eʔ
+[Transformed]
+wəyq	-->	WK (Total 2 symbols)
+
+many (Island Halkomelem)
+Seen as: qə
+[Transformed]
+qə	-->	KK (Total 2 symbols)
+
+meat (Island Halkomelem)
+Seen as: s=məyəθ
+[Transformed]
+məyəθ	-->	MT (Total 2 symbols)
+
+moon (Island Halkomelem)
+Seen as: ɬqelʼcʼ
+[Transformed]
+ɬqelʼcʼ	-->	LKLC (Total 4 symbols)
+
+mountain (Island Halkomelem)
+Seen as: s=meːnt
+[Transformed]
+meːnt	-->	MNT (Total 3 symbols)
+
+mouth (Island Halkomelem)
+Seen as: θaθən
+[Transformed]
+θaθən	-->	TTN (Total 3 symbols)
+
+name (Island Halkomelem)
+Seen as: s=kʷíš
+[Transformed]
+kʷíš	-->	KS (Total 2 symbols)
+
+neck (Island Halkomelem)
+Seen as: tpsəm
+[Transformed]
+tpsəm	-->	TPSM (Total 4 symbols)
+
+new (Island Halkomelem)
+Seen as: ewʼs
+[Transformed]
+ewʼs	-->	KS (Total 2 symbols)
+
+night (Island Halkomelem)
+Seen as: s=net
+[Transformed]
+net	-->	NT (Total 2 symbols)
+
+nose (Island Halkomelem)
+Seen as: məqsən
+[Transformed]
+məqsən	-->	MKSN (Total 4 symbols)
+
+not (Island Halkomelem)
+Seen as: ʔəwə
+[Transformed]
+ʔəwə	-->	HH (Total 2 symbols)
+
+one (Island Halkomelem)
+Seen as: nəcʼaʔ
+[Transformed]
+nəcʼaʔ	-->	NC (Total 2 symbols)
+
+person (Island Halkomelem)
+Seen as: məstíməxʷ
+[Transformed]
+məstíməxʷ	-->	MSTMK (Total 5 symbols)
+
+rain (Island Halkomelem)
+Seen as: s=ɬəm-əxʷ
+[Transformed]
+ɬəm	-->	LM (Total 2 symbols)
+
+red (Island Halkomelem)
+Seen as: c=kʷím
+[Transformed]
+kʷím	-->	KM (Total 2 symbols)
+
+road (Island Halkomelem)
+Seen as: šeɬ
+[Transformed]
+šeɬ	-->	SL (Total 2 symbols)
+
+root (Island Halkomelem)
+Seen as: kʷəmləxʷ
+[Transformed]
+kʷəmləxʷ	-->	KMLK (Total 4 symbols)
+
+round (Island Halkomelem)
+Seen as: šəlák'ʷ
+[Transformed]
+šəlák'ʷ	-->	SLK (Total 3 symbols)
+
+sand (Island Halkomelem)
+Seen as: pqʷicən ~ pqʷəcən
+[Transformed]
+pqʷicən	-->	PKCN (Total 4 symbols)
+pqʷəcən	-->	PKCN (Total 4 symbols)
+
+say (Island Halkomelem)
+Seen as: θət
+[Transformed]
+θət	-->	TT (Total 2 symbols)
+
+see (Island Halkomelem)
+Seen as: ləmnəxʷ
+[Transformed]
+ləmnəxʷ	-->	LMNK (Total 4 symbols)
+
+seed (Island Halkomelem)
+Seen as: s=pənʼəm
+[Transformed]
+pənʼəm	-->	PNM (Total 3 symbols)
+
+sit (Island Halkomelem)
+Seen as: ʔəmət
+[Transformed]
+ʔəmət	-->	HMT (Total 3 symbols)
+
+skin (Island Halkomelem)
+Seen as: kʼʷələwʼ
+[Transformed]
+kʼʷələwʼ	-->	KL (Total 2 symbols)
+
+sleep (Island Halkomelem)
+Seen as: ʔítət
+[Transformed]
+ʔítət	-->	HTT (Total 3 symbols)
+
+small (Island Halkomelem)
+Seen as: ʔəxʷínʼ
+[Transformed]
+ʔəxʷínʼ	-->	HKN (Total 3 symbols)
+
+smoke (Island Halkomelem)
+Seen as: s=pʼáƛəm
+[Transformed]
+pʼáƛəm	-->	PQM (Total 3 symbols)
+
+stand (Island Halkomelem)
+Seen as: ɬ-íl-əš
+[Transformed]
+ɬ	-->	LK (Total 2 symbols)
+
+star (Island Halkomelem)
+Seen as: kʷasən
+[Transformed]
+kʷasən	-->	KSN (Total 3 symbols)
+
+stone (Island Halkomelem)
+Seen as: s=meːnt
+[Transformed]
+meːnt	-->	MNT (Total 3 symbols)
+
+sun (Island Halkomelem)
+Seen as: səmʼšáθət
+[Transformed]
+səmʼšáθət	-->	SMSTT (Total 5 symbols)
+
+swim (Island Halkomelem)
+Seen as: tʼíc-əm
+[Transformed]
+tʼíc	-->	TC (Total 2 symbols)
+
+tail (Island Halkomelem)
+Seen as: š=ƛəpʼ-isnəc
+[Transformed]
+ƛəpʼ	-->	QP (Total 2 symbols)
+
+that (Island Halkomelem)
+Seen as: kwθeyʼ; tey ~ tθey
+[Transformed]
+kwθeyʼ	-->	KT (Total 2 symbols)
+tey	-->	TH (Total 2 symbols)
+tθey	-->	TT (Total 2 symbols)
+
+this (Island Halkomelem)
+Seen as: tiʔí
+[Transformed]
+tiʔí	-->	TH (Total 2 symbols)
+
+thou (Island Halkomelem)
+Seen as: nəwə
+[Transformed]
+nəwə	-->	NH (Total 2 symbols)
+
+tongue (Island Halkomelem)
+Seen as: təxʷθəɬ
+[Transformed]
+təxʷθəɬ	-->	TKTL (Total 4 symbols)
+
+tooth (Island Halkomelem)
+Seen as: yənəs
+[Transformed]
+yənəs	-->	YNS (Total 3 symbols)
+
+tree (Island Halkomelem)
+Seen as: θqet
+[Transformed]
+θqet	-->	TKT (Total 3 symbols)
+
+two (Island Halkomelem)
+Seen as: yəselʼə
+[Transformed]
+yəselʼə	-->	YSL (Total 3 symbols)
+
+walk (go) (Island Halkomelem)
+Seen as: ʔim-əš
+[Transformed]
+ʔim	-->	HM (Total 2 symbols)
+
+warm (hot) (Island Halkomelem)
+Seen as: s=tatəm
+[Transformed]
+tatəm	-->	TTM (Total 3 symbols)
+
+water (Island Halkomelem)
+Seen as: qaʔ
+[Transformed]
+qaʔ	-->	KH (Total 2 symbols)
+
+we (Island Halkomelem)
+Seen as: ɬniməɬ
+[Transformed]
+ɬniməɬ	-->	LNML (Total 4 symbols)
+
+what (Island Halkomelem)
+Seen as: s=tem
+[Transformed]
+tem	-->	TM (Total 2 symbols)
+
+white (Island Halkomelem)
+Seen as: pʼəqʼ
+[Transformed]
+pʼəqʼ	-->	PK (Total 2 symbols)
+
+who (Island Halkomelem)
+Seen as: ɬwet
+[Transformed]
+ɬwet	-->	LT (Total 2 symbols)
+
+woman (Island Halkomelem)
+Seen as: s=ɬeniʔ
+[Transformed]
+ɬeniʔ	-->	LN (Total 2 symbols)
+
+yellow (Island Halkomelem)
+Seen as: lələcʼ
+[Transformed]
+lələcʼ	-->	LLC (Total 3 symbols)
+
+far (Island Halkomelem)
+Seen as: caːkw
+[Transformed]
+caːkw	-->	CK (Total 2 symbols)
+
+heavy (Island Halkomelem)
+Seen as: xʷətəs
+[Transformed]
+xʷətəs	-->	KTS (Total 3 symbols)
+
+near (Island Halkomelem)
+Seen as: s=tə=tes
+[Transformed]
+tes	-->	TS (Total 2 symbols)
+
+salt (Island Halkomelem)
+Seen as: ƛʼeɬəm
+[Transformed]
+ƛʼeɬəm	-->	QLM (Total 3 symbols)
+
+short (Island Halkomelem)
+Seen as: ƛeƛíːcʼ
+[Transformed]
+ƛeƛíːcʼ	-->	QQC (Total 3 symbols)
+
+snake (Island Halkomelem)
+Seen as: ʔəɬqiʔ
+[Transformed]
+ʔəɬqiʔ	-->	HLK (Total 3 symbols)
+
+thin (Island Halkomelem)
+Seen as: cʼəm-íːlʼ
+[Transformed]
+cʼəm	-->	CM (Total 2 symbols)
+
+wind (Island Halkomelem)
+Seen as: s=pəh-els
+[Transformed]
+pəh	-->	PH (Total 2 symbols)
+
+worm (Island Halkomelem)
+Seen as: s=tʼθəkʼw
+[Transformed]
+tʼθəkʼw	-->	TTK (Total 3 symbols)
+
+year (Island Halkomelem)
+Seen as: s=ilʼánəm
+[Transformed]
+ilʼánəm	-->	HLNM (Total 4 symbols)
+

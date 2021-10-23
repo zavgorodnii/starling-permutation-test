@@ -1,0 +1,554 @@
+all (Ineseno)
+Seen as: yilaʔ
+[Transformed]
+yilaʔ	-->	YL (Total 2 symbols)
+
+ashes (Ineseno)
+Seen as: ʔalušpawat
+[Transformed]
+ʔalušpawat	-->	HLSPT (Total 5 symbols)
+
+bark (Ineseno)
+Seen as: sʰol
+[Transformed]
+sʰol	-->	SL (Total 2 symbols)
+
+belly (Ineseno)
+Seen as: mut #
+[Transformed]
+mut	-->	MT (Total 2 symbols)
+
+big (Ineseno)
+Seen as: noχ
+[Transformed]
+noχ	-->	NK (Total 2 symbols)
+
+bird (Ineseno)
+Seen as: 
+[Transformed]
+
+
+bite (Ineseno)
+Seen as: aχ=sil
+[Transformed]
+sil	-->	SL (Total 2 symbols)
+
+black (Ineseno)
+Seen as: šoy-in
+[Transformed]
+šoy	-->	SH (Total 2 symbols)
+
+blood (Ineseno)
+Seen as: ʔaχulʼis
+[Transformed]
+ʔaχulʼis	-->	HKLS (Total 4 symbols)
+
+bone (Ineseno)
+Seen as: se
+[Transformed]
+se	-->	SH (Total 2 symbols)
+
+breast (Ineseno)
+Seen as: ʔusuyʼ
+[Transformed]
+ʔusuyʼ	-->	HS (Total 2 symbols)
+
+burn tr. (Ineseno)
+Seen as: s=uχ=patʼin
+[Transformed]
+patʼin	-->	PTN (Total 3 symbols)
+
+claw(nail) (Ineseno)
+Seen as: siχwayʼ
+[Transformed]
+siχwayʼ	-->	SK (Total 2 symbols)
+
+cloud (Ineseno)
+Seen as: ʔiqcʼiʔ
+[Transformed]
+ʔiqcʼiʔ	-->	HKC (Total 3 symbols)
+
+cold (Ineseno)
+Seen as: ʔoχ=tokow
+[Transformed]
+tokow	-->	TK (Total 2 symbols)
+
+come (Ineseno)
+Seen as: akti=naʔ
+[Transformed]
+naʔ	-->	NH (Total 2 symbols)
+
+die (Ineseno)
+Seen as: aqša-n
+[Transformed]
+aqša	-->	HKS (Total 3 symbols)
+
+dog (Ineseno)
+Seen as: 
+[Transformed]
+
+
+drink (Ineseno)
+Seen as: aq=mi-l
+[Transformed]
+mi	-->	MH (Total 2 symbols)
+
+dry (Ineseno)
+Seen as: aqawan
+[Transformed]
+aqawan	-->	HKN (Total 3 symbols)
+
+ear (Ineseno)
+Seen as: tuʔ
+[Transformed]
+tuʔ	-->	TH (Total 2 symbols)
+
+earth (Ineseno)
+Seen as: šup
+[Transformed]
+šup	-->	SP (Total 2 symbols)
+
+eat (Ineseno)
+Seen as: ʔuw
+[Transformed]
+ʔuw	-->	HH (Total 2 symbols)
+
+egg (Ineseno)
+Seen as: tumun
+[Transformed]
+tumun	-->	TMN (Total 3 symbols)
+
+eye (Ineseno)
+Seen as: tɨχ
+[Transformed]
+tɨχ	-->	TK (Total 2 symbols)
+
+fat n. (Ineseno)
+Seen as: χil
+[Transformed]
+χil	-->	KL (Total 2 symbols)
+
+feather (Ineseno)
+Seen as: qap
+[Transformed]
+qap	-->	KP (Total 2 symbols)
+
+fire (Ineseno)
+Seen as: nɨ
+[Transformed]
+nɨ	-->	NH (Total 2 symbols)
+
+fish (Ineseno)
+Seen as: ʔalʼ=ili=muw
+[Transformed]
+muw	-->	MH (Total 2 symbols)
+
+fly v. (Ineseno)
+Seen as: χo=now-on
+[Transformed]
+now	-->	NH (Total 2 symbols)
+
+foot (Ineseno)
+Seen as: ʔɨlʼ
+[Transformed]
+ʔɨlʼ	-->	HL (Total 2 symbols)
+
+full (Ineseno)
+Seen as: iyam
+[Transformed]
+iyam	-->	HM (Total 2 symbols)
+
+give (Ineseno)
+Seen as: yik-; ikš-
+[Transformed]
+yik	-->	YK (Total 2 symbols)
+ikš	-->	HKS (Total 3 symbols)
+
+good (Ineseno)
+Seen as: čʰo ~ čʰoho
+[Transformed]
+čʰo	-->	CH (Total 2 symbols)
+čʰoho	-->	CH (Total 2 symbols)
+
+green (Ineseno)
+Seen as: ʔa=qulapšan
+[Transformed]
+qulapšan	-->	KLPSN (Total 5 symbols)
+
+hair (Ineseno)
+Seen as: ʔoq=wonʼ #
+[Transformed]
+wonʼ	-->	WN (Total 2 symbols)
+
+hand (Ineseno)
+Seen as: pu
+[Transformed]
+pu	-->	PH (Total 2 symbols)
+
+head (Ineseno)
+Seen as: ʔoq=wonʼ
+[Transformed]
+wonʼ	-->	WN (Total 2 symbols)
+
+hear (Ineseno)
+Seen as: itaq
+[Transformed]
+itaq	-->	HTK (Total 3 symbols)
+
+heart (Ineseno)
+Seen as: ʔayapis
+[Transformed]
+ʔayapis	-->	HPS (Total 3 symbols)
+
+horn (Ineseno)
+Seen as: hap
+[Transformed]
+hap	-->	HP (Total 2 symbols)
+
+I (Ineseno)
+Seen as: noʔ
+[Transformed]
+noʔ	-->	NH (Total 2 symbols)
+
+kill (Ineseno)
+Seen as: si=ni=weʔ
+[Transformed]
+weʔ	-->	WH (Total 2 symbols)
+
+knee (Ineseno)
+Seen as: ʔapamʼ
+[Transformed]
+ʔapamʼ	-->	HPM (Total 3 symbols)
+
+know (Ineseno)
+Seen as: čʼamɨn
+[Transformed]
+čʼamɨn	-->	CMN (Total 3 symbols)
+
+leaf (Ineseno)
+Seen as: qap
+[Transformed]
+qap	-->	KP (Total 2 symbols)
+
+lie (Ineseno)
+Seen as: o=toyʼin
+[Transformed]
+toyʼin	-->	TN (Total 2 symbols)
+
+liver (Ineseno)
+Seen as: ʔalʼ
+[Transformed]
+ʔalʼ	-->	HL (Total 2 symbols)
+
+long (Ineseno)
+Seen as: ʔɨhɨy
+[Transformed]
+ʔɨhɨy	-->	HH (Total 2 symbols)
+
+louse (Ineseno)
+Seen as: šik
+[Transformed]
+šik	-->	SK (Total 2 symbols)
+
+man (Ineseno)
+Seen as: ʔɨhɨyʼ
+[Transformed]
+ʔɨhɨyʼ	-->	HH (Total 2 symbols)
+
+many (Ineseno)
+Seen as: wahacʼ
+[Transformed]
+wahacʼ	-->	WC (Total 2 symbols)
+
+meat (Ineseno)
+Seen as: ʔamɨnʼ
+[Transformed]
+ʔamɨnʼ	-->	HMN (Total 3 symbols)
+
+moon (Ineseno)
+Seen as: ʔawayʼ
+[Transformed]
+ʔawayʼ	-->	HH (Total 2 symbols)
+
+mountain (Ineseno)
+Seen as: mi=limol #
+[Transformed]
+limol	-->	LML (Total 3 symbols)
+
+mouth (Ineseno)
+Seen as: ʔɨk
+[Transformed]
+ʔɨk	-->	HK (Total 2 symbols)
+
+name (Ineseno)
+Seen as: tɨ
+[Transformed]
+tɨ	-->	TH (Total 2 symbols)
+
+neck (Ineseno)
+Seen as: niʔ
+[Transformed]
+niʔ	-->	NH (Total 2 symbols)
+
+new (Ineseno)
+Seen as: ʔikɨmin
+[Transformed]
+ʔikɨmin	-->	HKMN (Total 4 symbols)
+
+night (Ineseno)
+Seen as: s=aχi=yiʔ
+[Transformed]
+yiʔ	-->	YH (Total 2 symbols)
+
+nose (Ineseno)
+Seen as: noχš
+[Transformed]
+noχš	-->	NKS (Total 3 symbols)
+
+not (Ineseno)
+Seen as: ʔini-
+[Transformed]
+ʔini	-->	HN (Total 2 symbols)
+
+one (Ineseno)
+Seen as: pakasʼ
+[Transformed]
+pakasʼ	-->	PKS (Total 3 symbols)
+
+person (Ineseno)
+Seen as: ku
+[Transformed]
+ku	-->	KH (Total 2 symbols)
+
+rain (Ineseno)
+Seen as: tuhuy
+[Transformed]
+tuhuy	-->	TH (Total 2 symbols)
+
+red (Ineseno)
+Seen as: tasɨn
+[Transformed]
+tasɨn	-->	TSN (Total 3 symbols)
+
+road (Ineseno)
+Seen as: čʼayaš
+[Transformed]
+čʼayaš	-->	CS (Total 2 symbols)
+
+root (Ineseno)
+Seen as: ʔaχ=pil-ilʼ
+[Transformed]
+pil	-->	PL (Total 2 symbols)
+
+round (Ineseno)
+Seen as: topokolʼin
+[Transformed]
+topokolʼin	-->	TPKLN (Total 5 symbols)
+
+sand (Ineseno)
+Seen as: χas
+[Transformed]
+χas	-->	KS (Total 2 symbols)
+
+say (Ineseno)
+Seen as: ʔip
+[Transformed]
+ʔip	-->	HP (Total 2 symbols)
+
+see (Ineseno)
+Seen as: kuti
+[Transformed]
+kuti	-->	KT (Total 2 symbols)
+
+seed (Ineseno)
+Seen as: ʔamɨnʼ
+[Transformed]
+ʔamɨnʼ	-->	HMN (Total 3 symbols)
+
+sit (Ineseno)
+Seen as: ɨ=lɨkʼɨn
+[Transformed]
+lɨkʼɨn	-->	LKN (Total 3 symbols)
+
+skin (Ineseno)
+Seen as: paχ
+[Transformed]
+paχ	-->	PK (Total 2 symbols)
+
+sleep (Ineseno)
+Seen as: weʔ ~ wenʼ-
+[Transformed]
+weʔ	-->	WH (Total 2 symbols)
+wenʼ	-->	WN (Total 2 symbols)
+
+small (Ineseno)
+Seen as: kiceʔ
+[Transformed]
+kiceʔ	-->	KC (Total 2 symbols)
+
+smoke (Ineseno)
+Seen as: towʼ
+[Transformed]
+towʼ	-->	TH (Total 2 symbols)
+
+stand (Ineseno)
+Seen as: now-on
+[Transformed]
+now	-->	NH (Total 2 symbols)
+
+star (Ineseno)
+Seen as: ʔaq=iwo
+[Transformed]
+iwo	-->	HH (Total 2 symbols)
+
+stone (Ineseno)
+Seen as: χɨp
+[Transformed]
+χɨp	-->	KP (Total 2 symbols)
+
+sun (Ineseno)
+Seen as: qsi
+[Transformed]
+qsi	-->	KS (Total 2 symbols)
+
+swim (Ineseno)
+Seen as: aqi=wɨw-ɨn
+[Transformed]
+wɨw	-->	WH (Total 2 symbols)
+
+tail (Ineseno)
+Seen as: teleqʼ
+[Transformed]
+teleqʼ	-->	TLK (Total 3 symbols)
+
+that (Ineseno)
+Seen as: hekʼi; loʔ
+[Transformed]
+hekʼi	-->	HK (Total 2 symbols)
+loʔ	-->	LH (Total 2 symbols)
+
+this (Ineseno)
+Seen as: henʼi #
+[Transformed]
+henʼi	-->	HN (Total 2 symbols)
+
+thou (Ineseno)
+Seen as: piʔ
+[Transformed]
+piʔ	-->	PH (Total 2 symbols)
+
+tongue (Ineseno)
+Seen as: ʔelew
+[Transformed]
+ʔelew	-->	HL (Total 2 symbols)
+
+tooth (Ineseno)
+Seen as: sa
+[Transformed]
+sa	-->	SH (Total 2 symbols)
+
+tree (Ineseno)
+Seen as: ponʼ
+[Transformed]
+ponʼ	-->	PN (Total 2 symbols)
+
+two (Ineseno)
+Seen as: ʔiškomʼ
+[Transformed]
+ʔiškomʼ	-->	HSKM (Total 4 symbols)
+
+walk (go) (Ineseno)
+Seen as: nanʼ
+[Transformed]
+nanʼ	-->	NN (Total 2 symbols)
+
+warm (hot) (Ineseno)
+Seen as: yɨ=cʼɨ
+[Transformed]
+cʼɨ	-->	CH (Total 2 symbols)
+
+water (Ineseno)
+Seen as: ʔoʔ
+[Transformed]
+ʔoʔ	-->	HH (Total 2 symbols)
+
+we (Ineseno)
+Seen as: k-i-kɨʔ
+[Transformed]
+k	-->	KH (Total 2 symbols)
+
+what (Ineseno)
+Seen as: sukʼu
+[Transformed]
+sukʼu	-->	SK (Total 2 symbols)
+
+white (Ineseno)
+Seen as: ʔowʼ-ow
+[Transformed]
+ʔowʼ	-->	HH (Total 2 symbols)
+
+who (Ineseno)
+Seen as: kuneʔ
+[Transformed]
+kuneʔ	-->	KN (Total 2 symbols)
+
+woman (Ineseno)
+Seen as: ʔeneq
+[Transformed]
+ʔeneq	-->	HNK (Total 3 symbols)
+
+yellow (Ineseno)
+Seen as: swey-in
+[Transformed]
+swey	-->	SH (Total 2 symbols)
+
+far (Ineseno)
+Seen as: mɨk
+[Transformed]
+mɨk	-->	MK (Total 2 symbols)
+
+heavy (Ineseno)
+Seen as: χul=χul
+[Transformed]
+χul	-->	KL (Total 2 symbols)
+
+near (Ineseno)
+Seen as: muteyʼ
+[Transformed]
+muteyʼ	-->	MT (Total 2 symbols)
+
+salt (Ineseno)
+Seen as: tip
+[Transformed]
+tip	-->	TP (Total 2 symbols)
+
+short (Ineseno)
+Seen as: aqun=kʼot
+[Transformed]
+kʼot	-->	KT (Total 2 symbols)
+
+snake (Ineseno)
+Seen as: nunašɨš
+[Transformed]
+nunašɨš	-->	NNSS (Total 4 symbols)
+
+thin (Ineseno)
+Seen as: qʰap=qʰap #
+[Transformed]
+qʰap	-->	KP (Total 2 symbols)
+
+wind (Ineseno)
+Seen as: s=aχta=kʰɨt
+[Transformed]
+kʰɨt	-->	KT (Total 2 symbols)
+
+worm (Ineseno)
+Seen as: čʼɨqʰɨy #
+[Transformed]
+čʼɨqʰɨy	-->	CK (Total 2 symbols)
+
+year (Ineseno)
+Seen as: šup
+[Transformed]
+šup	-->	SP (Total 2 symbols)
+
