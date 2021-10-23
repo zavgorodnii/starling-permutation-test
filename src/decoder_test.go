@@ -565,6 +565,16 @@ func TestSoundClassesDecoder_Decode(t *testing.T) {
 			"pǝ̀r-ʔǝ́y":         {"PR"},
 			"hʌ́y":              {"HH"},
 		},
+		// Indo-European: #D. Krylov 2010
+		{
+			"ˈasːk-a ~ ˈaasːk-a {aaska ~ aska}": {"HSK", "HSK"},
+			"all / all {dall / all}": {"HLL", "HLL"},
+			"aft-i {αφτί ~ αυτί}": {"HPT"},
+			"avɣ-o {αβγό ~ αυγό}":{"HPK"},
+			"anðr-a-s ~ adr-a-s {άνδρας, άντρας}": {"HNTR", "HTR"},
+			"ȶenury-o- {καινούργιος ~ καινούριος}": {"TNRH"},
+			"pa-o ~ piy-e-n-o {πάω, πηγαίνω}": {"PH", "PY"}
+		}
 	}
 
 	decoder, err := NewSoundClassesDecoder("../data/sounds.xlsx")

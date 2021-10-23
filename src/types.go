@@ -40,7 +40,9 @@ func (l *Wordlist) Combine(other *Wordlist) *Wordlist {
 			w1, w2 := l1[0].DeepCopy(), l2[0].DeepCopy()
 			w1.Group = fmt.Sprintf("%s, %s", w1.Group, w2.Group)
 			w1.Forms = append(w1.Forms, w2.Forms...)
+			w1.WithoutBrackets = append(w1.WithoutBrackets, w2.WithoutBrackets...)
 			w1.CleanForms = append(w1.CleanForms, w2.CleanForms...)
+			w1.BroomedSymbols = append(w1.BroomedSymbols, w2.BroomedSymbols...)
 			w1.DecodedForms = append(w1.DecodedForms, w2.DecodedForms...)
 			merged = append(merged, w1)
 			l1 = l1[1:]
@@ -71,9 +73,11 @@ type Word struct {
 	Group        string
 	SwadeshID    int
 	SwadeshWord  string
+	BroomedSymbols []string
 	Forms        []string
 	CleanForms   []string
 	DecodedForms []string
+	WithoutBrackets []string
 }
 
 func (w *Word) PrintTransformations() {
@@ -86,9 +90,14 @@ func (w *Word) PrintTransformations() {
 		parsed = append(parsed, fmt.Sprintf("%s\t-->\t%s (Total %d symbols)",
 			cleanForm, w.DecodedForms[idx], len(w.DecodedForms[idx])))
 	}
-
-	formatted := fmt.Sprintf("%s (%s)\nSeen as: %s\n[Transformed]\n%s\n",
-		w.SwadeshWord, w.Group, forms, strings.Join(parsed, "\n"))
+	formatted := fmt.Sprintf("")
+	if len(w.BroomedSymbols)>0{
+		formatted = fmt.Sprintf("%s (%s)\nSeen as: %s\n[Transformed]\n%s\n[Broomed symbols] %s\n",
+			w.SwadeshWord, w.Group, forms, strings.Join(parsed, "\n"), w.BroomedSymbols)
+	} else {
+		formatted = fmt.Sprintf("%s (%s)\nSeen as: %s\n[Transformed]\n%s\n",
+			w.SwadeshWord, w.Group, forms, strings.Join(parsed, "\n"))
+	}
 
 	log.Println(formatted)
 }
@@ -118,7 +127,7 @@ func (w *Word) Compare(other *Word) (bool, string) {
 
 			if isEqual {
 				return true, fmt.Sprintf("%d %s: %s - %s", w.SwadeshID, w.SwadeshWord,
-					w.CleanForms[idx1], other.CleanForms[idx2])
+					w.WithoutBrackets[idx1], other.WithoutBrackets[idx2])
 			}
 		}
 	}
@@ -136,12 +145,20 @@ func (w *Word) DeepCopy() *Word {
 	decodedFormsCopy := make([]string, len(w.DecodedForms))
 	copy(decodedFormsCopy, w.DecodedForms)
 
+	BroomedSymbolsCopy := make([]string, len(w.BroomedSymbols))
+	copy(BroomedSymbolsCopy, w.BroomedSymbols)
+
+	WithoutBracketsCopy := make([]string, len(w.WithoutBrackets))
+	copy(WithoutBracketsCopy, w.WithoutBrackets)
+
 	return &Word{
 		Group:        w.Group,
 		SwadeshID:    w.SwadeshID,
 		SwadeshWord:  w.SwadeshWord,
-		Forms:        formsCopy,
-		CleanForms:   cleanFormsCopy,
-		DecodedForms: decodedFormsCopy,
+		BroomedSymbols:	BroomedSymbolsCopy,
+		Forms:        	formsCopy,
+		CleanForms:   	cleanFormsCopy,
+		DecodedForms: 	decodedFormsCopy,
+		WithoutBrackets:WithoutBracketsCopy,
 	}
 }

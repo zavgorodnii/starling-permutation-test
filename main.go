@@ -11,7 +11,6 @@ import (
 	"sort"
 	"strings"
 	"time"
-
 	"github.com/starling-permutation-test/src"
 )
 
@@ -22,6 +21,7 @@ const (
 var (
 	soundsPath       = flag.String("sounds", "./data/sounds.xlsx", "path to file containing sound classes")
 	wordlistsPath    = flag.String("wordlists", "./data/wordlists.xlsx", "path to file containing wordlists")
+	NCPath           = flag.String("negative_control", "./data/negative_control.xlsx", "path to file containing negative control p-values")
 	setA             = flag.String("set_a", "", "path to file containing wordlists for A (triggers AB mode)")
 	setB             = flag.String("set_b", "", "path to file containing wordlists for B (triggers AB mode)")
 	weightsPath      = flag.String("weights", "", "path to file containing class weights")
@@ -207,8 +207,17 @@ func runTestWeighted(l1, l2 *src.Wordlist, weights src.Weights) {
 	if cost := runTest(l2, l1, weights); cost > maxCost {
 		maxCost, group1, group2 = cost, l2.Group, l1.Group
 	}
-
-	log.Printf("\n[FINAL] Max P(costs) = %f (%s, %s)", maxCost, group1, group2)
+	if maxCost >0.1 {
+	log.Printf("\nUncalibrated Max P(costs) = %f (%s, %s) > 0.1", maxCost, group1, group2)
+	} else {
+		log.Printf("\nUncalibrated Max P(costs) = %f (%s, %s) ≤ 0.1", maxCost, group1, group2)
+	}
+	clbrtd, err := src.Calibrate(maxCost, *NCPath)
+	if err != nil {
+		fmt.Println("Failed to Calibrate")
+	} else {
+		log.Printf("[FINAL] Max P(costs) = %f (%s, %s)", clbrtd, group1, group2)
+	}
 }
 
 func runTest(l1, l2 *src.Wordlist, weights src.Weights) (weightedCost float64) {
