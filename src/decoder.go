@@ -225,6 +225,7 @@ func (d *SoundClassesDecoder) decodeForm(form string) (clean []string, decoded [
 		clean = append(clean, strings.Split(form, "/")...)
 	} else {
 		withoutbrackets = append(withoutbrackets, form)
+		form = b.ReplaceAllString(form, "")
 		clean = append(clean, form)
 	}
 

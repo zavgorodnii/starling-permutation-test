@@ -146,10 +146,10 @@ func (w *Word) DeepCopy() *Word {
 	copy(decodedFormsCopy, w.DecodedForms)
 
 	BroomedSymbolsCopy := make([]string, len(w.BroomedSymbols))
-	copy(formsCopy, w.BroomedSymbols)
+	copy(BroomedSymbolsCopy, w.BroomedSymbols)
 
 	WithoutBracketsCopy := make([]string, len(w.WithoutBrackets))
-	copy(formsCopy, w.WithoutBrackets)
+	copy(WithoutBracketsCopy, w.WithoutBrackets)
 
 	return &Word{
 		Group:        w.Group,
