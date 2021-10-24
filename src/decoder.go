@@ -210,7 +210,7 @@ func (d *SoundClassesDecoder) Decode(listsPath string, selected map[string]bool)
 func (d *SoundClassesDecoder) decodeForm(form string) (clean []string, decoded []string, broomed []string, withoutbrackets []string) {
 	r, _ := regexp.Compile("\\{.*?\\}|\\(.*?\\)")
 	form = r.ReplaceAllString(form, "")
-	b, _ := regexp.Compile("[^ !\\-,=/#~"+IPAS+"]")
+	b, _ := regexp.Compile("[^* !\\-,=/#~"+IPAS+"]")
 	broomed = b.FindAllString(form, -1)
 
 	form = strings.Replace(form, "*", "", -1)
